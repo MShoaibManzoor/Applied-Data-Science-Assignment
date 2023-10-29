@@ -1,0 +1,1147 @@
+Column1,ResponseID,Tech Company,Genetic Mental Illness,Previous Mental Illness,Mental Illness (Precieved),Mental Illness (Diagnosed),Age,Gender,Age Group,Country of Residence,Country of Employment,Role,Job Type
+1,r00000,TRUE,No,Yes,No,TRUE,39,Male,36-40,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+2,r00001,TRUE,Yes,Yes,Yes,TRUE,29,Male,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+3,r00002,TRUE,No,Maybe,No,FALSE,38,Male,36-40,United Kingdom,United Kingdom,Back-end Developer,Remote
+4,r00004,FALSE,Yes,Yes,Yes,TRUE,43,Female,41-45,United States of America,United States of America,Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,Hybrid
+5,r00005,TRUE,No,No,Yes,FALSE,42,Male,41-45,United Kingdom,United Kingdom,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,Hybrid
+6,r00006,TRUE,No,No,No,FALSE,30,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+7,r00007,TRUE,Yes,Yes,Yes,TRUE,37,Female,36-40,United States of America,United States of America,Dev Evangelist/Advocate|Back-end Developer,Remote
+8,r00008,FALSE,Yes,Yes,Yes,TRUE,44,Female,41-45,United States of America,United States of America,Support|Back-end Developer|One-person shop,Hybrid
+9,r00010,TRUE,I don't know,Yes,Yes,TRUE,28,Male,26-30,United States of America,United States of America,Front-end Developer,On-site
+10,r00011,FALSE,Yes,Yes,Yes,TRUE,34,Male,31-35,United States of America,United States of America,Executive Leadership,Hybrid
+11,r00012,TRUE,Yes,Yes,Yes,TRUE,30,Female,26-30,United States of America,United States of America,Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,Remote
+12,r00013,FALSE,No,Maybe,Maybe,FALSE,44,Male,41-45,Canada,Canada,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+13,r00014,TRUE,Yes,Yes,Yes,TRUE,35,Male,31-35,United States of America,United States of America,Designer,Remote
+14,r00015,TRUE,Yes,Yes,Yes,TRUE,52,Male,51-55,United States of America,United States of America,Other|Executive Leadership,Hybrid
+15,r00016,TRUE,Yes,Yes,Yes,TRUE,32,Female,31-35,Canada,Canada,Front-end Developer,Remote
+16,r00017,TRUE,No,No,No,FALSE,34,Male,31-35,United Kingdom,United Kingdom,Back-end Developer,On-site
+17,r00019,FALSE,Yes,Yes,Yes,TRUE,31,Male,31-35,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+18,r00020,TRUE,Yes,Maybe,No,FALSE,26,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+19,r00021,FALSE,No,No,No,FALSE,35,Male,31-35,United States of America,United States of America,Other,On-site
+20,r00022,TRUE,I don't know,Maybe,No,FALSE,25,Male,20-25,Germany,Germany,Back-end Developer,Hybrid
+21,r00023,TRUE,Yes,Yes,No,TRUE,33,Male,31-35,Canada,Canada,Back-end Developer,Hybrid
+22,r00025,FALSE,No,No,No,FALSE,42,Male,41-45,Germany,Germany,Supervisor/Team Lead|Support|Back-end Developer,On-site
+23,r00026,FALSE,I don't know,Yes,Yes,TRUE,27,Male,26-30,Netherlands,Netherlands,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,Hybrid
+24,r00027,TRUE,No,No,Maybe,FALSE,35,Male,31-35,Germany,Germany,Back-end Developer,On-site
+25,r00028,FALSE,Yes,Yes,Maybe,FALSE,34,Female,31-35,United Kingdom,United Kingdom,Other,On-site
+26,r00029,TRUE,Yes,Yes,Yes,TRUE,32,Trans/Other,31-35,United Kingdom,United Kingdom,Other|Supervisor/Team Lead|Support|Back-end Developer|Designer,On-site
+27,r00030,TRUE,Yes,Yes,Yes,TRUE,32,Trans/Other,31-35,Germany,Germany,Back-end Developer,On-site
+28,r00031,TRUE,No,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,Hybrid
+29,r00032,TRUE,I don't know,Yes,Maybe,FALSE,31,Male,31-35,United States of America,United States of America,One-person shop|Front-end Developer|Back-end Developer|Dev Evangelist/Advocate|Other,On-site
+30,r00034,TRUE,No,Yes,Yes,FALSE,36,Male,36-40,United Kingdom,United Kingdom,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer,Hybrid
+31,r00035,TRUE,No,No,No,FALSE,33,Male,31-35,Germany,Germany,Executive Leadership|Front-end Developer|Back-end Developer|Sales|Supervisor/Team Lead,On-site
+32,r00036,TRUE,Yes,Yes,Yes,TRUE,44,Male,41-45,United States of America,United States of America,Back-end Developer,Remote
+33,r00037,TRUE,No,No,Maybe,FALSE,29,Male,26-30,United Kingdom,United Kingdom,Front-end Developer,On-site
+34,r00038,TRUE,Yes,Yes,Maybe,TRUE,29,Male,26-30,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+35,r00039,TRUE,I don't know,No,No,FALSE,44,Male,41-45,Canada,Canada,Support|Other,Remote
+36,r00041,TRUE,I don't know,Yes,Yes,FALSE,40,Male,36-40,United States of America,United States of America,Other,Remote
+37,r00042,TRUE,Yes,Yes,Yes,FALSE,46,Female,46-50,Netherlands,Netherlands,Supervisor/Team Lead|Other,On-site
+38,r00044,FALSE,No,No,No,FALSE,41,Male,41-45,United States of America,United States of America,Back-end Developer,On-site
+39,r00045,TRUE,Yes,Yes,Yes,TRUE,33,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer,Hybrid
+40,r00047,TRUE,I don't know,Maybe,Maybe,FALSE,45,Male,41-45,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+41,r00049,TRUE,No,Maybe,Yes,TRUE,37,Female,36-40,United States of America,United States of America,Supervisor/Team Lead,Remote
+42,r00050,TRUE,I don't know,Yes,Yes,TRUE,37,Male,36-40,Australia,Australia,Executive Leadership,On-site
+43,r00051,TRUE,Yes,No,No,FALSE,27,Male,26-30,United States of America,United States of America,Front-end Developer|Back-end Developer|Executive Leadership,Hybrid
+44,r00053,TRUE,Yes,Yes,Yes,TRUE,36,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin,Hybrid
+45,r00054,FALSE,No,Maybe,Maybe,TRUE,34,Male,31-35,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer,Remote
+46,r00055,FALSE,No,No,No,FALSE,31,Female,31-35,United States of America,United States of America,Other,Hybrid
+47,r00056,TRUE,Yes,Maybe,Maybe,TRUE,30,Male,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+48,r00057,FALSE,Yes,Maybe,Maybe,FALSE,32,Male,31-35,Canada,Canada,Supervisor/Team Lead,On-site
+49,r00058,FALSE,I don't know,Maybe,Maybe,FALSE,40,Female,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+50,r00059,FALSE,I don't know,No,No,FALSE,40,Male,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+51,r00060,TRUE,I don't know,No,Maybe,FALSE,41,Male,41-45,France,France,Back-end Developer,Hybrid
+52,r00061,FALSE,No,Yes,Maybe,TRUE,27,Male,26-30,United Kingdom,United Kingdom,DevOps/SysAdmin,On-site
+53,r00062,TRUE,No,No,No,FALSE,30,Male,26-30,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+54,r00066,FALSE,Yes,Yes,Yes,TRUE,35,Female,31-35,United States of America,United States of America,Supervisor/Team Lead,On-site
+55,r00067,TRUE,Yes,Yes,Yes,TRUE,29,Male,26-30,United States of America,United States of America,Back-end Developer,Remote
+56,r00068,TRUE,Yes,Maybe,No,FALSE,28,Male,26-30,United States of America,United States of America,Front-end Developer,On-site
+57,r00069,FALSE,I don't know,Yes,Maybe,TRUE,27,Male,26-30,Netherlands,Netherlands,Back-end Developer,Hybrid
+58,r00071,TRUE,No,No,No,FALSE,28,Male,26-30,Belgium,Belgium,Support,Hybrid
+59,r00072,FALSE,Yes,No,No,FALSE,46,Male,46-50,United States of America,United States of America,Executive Leadership|Supervisor/Team Lead|Back-end Developer,Hybrid
+60,r00073,TRUE,No,Yes,No,TRUE,40,Male,36-40,Netherlands,Netherlands,Front-end Developer|Back-end Developer,Hybrid
+61,r00074,TRUE,Yes,Maybe,Maybe,FALSE,37,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,Remote
+62,r00075,TRUE,Yes,No,No,FALSE,41,Male,41-45,Netherlands,Netherlands,Front-end Developer|Back-end Developer|DevOps/SysAdmin,Hybrid
+63,r00077,TRUE,No,No,No,FALSE,38,Female,36-40,Netherlands,Netherlands,Front-end Developer,On-site
+64,r00078,TRUE,No,No,No,FALSE,33,Male,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+65,r00079,TRUE,Yes,Yes,Yes,TRUE,33,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer,Remote
+66,r00080,TRUE,No,No,No,FALSE,21,Male,20-25,United Kingdom,United Kingdom,Back-end Developer|DevOps/SysAdmin,On-site
+67,r00081,TRUE,Yes,Yes,Yes,FALSE,36,Male,36-40,Brazil,Brazil,Back-end Developer,On-site
+68,r00083,TRUE,No,No,No,FALSE,35,Male,31-35,United States of America,United States of America,Dev Evangelist/Advocate|Back-end Developer,Hybrid
+69,r00085,TRUE,No,Maybe,Maybe,FALSE,45,Male,41-45,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer,On-site
+70,r00086,TRUE,No,Maybe,Maybe,FALSE,41,Male,41-45,Canada,Canada,Back-end Developer|Supervisor/Team Lead,On-site
+71,r00087,TRUE,I don't know,Yes,Yes,TRUE,35,Male,31-35,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+72,r00089,TRUE,Yes,Yes,Yes,TRUE,24,Female,20-25,United States of America,United States of America,Back-end Developer,Hybrid
+73,r00090,FALSE,I don't know,Yes,No,TRUE,33,Male,31-35,Brazil,Brazil,Other,On-site
+74,r00091,TRUE,Yes,Yes,Maybe,TRUE,35,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+75,r00092,TRUE,No,No,Yes,FALSE,26,Male,26-30,United Kingdom,United Kingdom,Supervisor/Team Lead,Hybrid
+76,r00093,TRUE,No,No,No,FALSE,17,Male,Under 20,Brazil,Brazil,Front-end Developer,Remote
+77,r00094,FALSE,No,Yes,Yes,TRUE,29,Female,26-30,United States of America,United States of America,Front-end Developer,Hybrid
+78,r00095,TRUE,Yes,Yes,Yes,TRUE,26,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+79,r00096,TRUE,No,No,No,FALSE,36,Female,36-40,United States of America,United States of America,Front-end Developer,Remote
+80,r00097,TRUE,I don't know,No,No,FALSE,46,Male,46-50,United States of America,United States of America,Back-end Developer|DevOps/SysAdmin,Hybrid
+81,r00099,TRUE,Yes,Yes,Yes,TRUE,28,Female,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+82,r00100,TRUE,No,No,No,FALSE,40,Male,36-40,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+83,r00101,TRUE,I don't know,Yes,Yes,TRUE,23,Male,20-25,United States of America,United States of America,Back-end Developer,Hybrid
+84,r00102,TRUE,Yes,No,No,FALSE,30,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+85,r00103,TRUE,Yes,Maybe,No,FALSE,28,Female,26-30,United States of America,United States of America,Designer,Hybrid
+86,r00104,TRUE,I don't know,Maybe,Maybe,FALSE,27,Male,26-30,Netherlands,Netherlands,Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead,On-site
+87,r00106,TRUE,Yes,Yes,Maybe,FALSE,39,Female,36-40,United States of America,United States of America,Back-end Developer,On-site
+88,r00107,TRUE,Yes,No,Yes,TRUE,34,Female,31-35,United States of America,United States of America,Supervisor/Team Lead,Remote
+89,r00108,TRUE,No,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,Hybrid
+90,r00110,FALSE,No,No,Maybe,FALSE,31,Male,31-35,United States of America,United States of America,Designer,Hybrid
+91,r00111,TRUE,Yes,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Back-end Developer,Remote
+92,r00112,TRUE,Yes,Maybe,Maybe,FALSE,32,Male,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+93,r00115,FALSE,No,No,No,FALSE,51,Male,51-55,United States of America,United States of America,Executive Leadership|Supervisor/Team Lead,Hybrid
+94,r00116,FALSE,Yes,Yes,Yes,TRUE,26,Male,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+95,r00117,TRUE,Yes,Yes,No,TRUE,41,Female,41-45,United States of America,United States of America,Front-end Developer,Hybrid
+96,r00118,TRUE,Yes,Yes,Yes,TRUE,39,Female,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+97,r00119,TRUE,Yes,Yes,Maybe,TRUE,43,Male,41-45,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer,Hybrid
+98,r00120,TRUE,Yes,No,Maybe,FALSE,30,Male,26-30,United Kingdom,United Kingdom,Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate,Hybrid
+99,r00121,TRUE,I don't know,No,No,FALSE,24,Female,20-25,United States of America,United States of America,Designer,Hybrid
+100,r00123,FALSE,Yes,Yes,Yes,TRUE,28,Female,26-30,Germany,Germany,Back-end Developer|Front-end Developer,Hybrid
+101,r00126,FALSE,I don't know,Maybe,Maybe,FALSE,36,Female,36-40,United States of America,United States of America,Other,Hybrid
+102,r00128,TRUE,No,No,No,FALSE,34,Male,31-35,France,France,Front-end Developer,Hybrid
+103,r00129,TRUE,No,No,No,FALSE,44,Female,41-45,United States of America,United States of America,Other,Hybrid
+104,r00130,FALSE,I don't know,Yes,Maybe,TRUE,45,Male,41-45,United States of America,United States of America,Back-end Developer,Hybrid
+105,r00131,TRUE,I don't know,Yes,Maybe,TRUE,45,Male,41-45,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+106,r00132,TRUE,Yes,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+107,r00133,FALSE,I don't know,Yes,Yes,TRUE,34,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+108,r00134,TRUE,Yes,No,No,FALSE,37,Male,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+109,r00135,FALSE,No,No,No,FALSE,38,Male,36-40,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+110,r00136,TRUE,No,No,Maybe,TRUE,31,Male,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+111,r00137,TRUE,No,No,No,FALSE,33,Male,31-35,United States of America,United States of America,Other,Remote
+112,r00138,TRUE,I don't know,Yes,Yes,TRUE,29,Female,26-30,United States of America,United States of America,Other,Hybrid
+113,r00139,TRUE,Yes,Yes,Yes,TRUE,35,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+114,r00140,TRUE,Yes,Yes,Yes,TRUE,42,Trans/Other,41-45,Canada,Canada,Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer|Front-end Developer,Remote
+115,r00141,TRUE,I don't know,No,No,FALSE,26,Female,26-30,United States of America,United States of America,Supervisor/Team Lead|Front-end Developer,Hybrid
+116,r00142,TRUE,Yes,Maybe,Maybe,TRUE,36,Female,36-40,United States of America,United States of America,Front-end Developer,Remote
+117,r00143,TRUE,Yes,Yes,Yes,TRUE,21,Male,20-25,United Kingdom,United Kingdom,Front-end Developer,On-site
+118,r00144,TRUE,I don't know,Yes,Yes,TRUE,34,Female,31-35,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+119,r00146,TRUE,No,Yes,Yes,TRUE,35,Male,31-35,United States of America,United States of America,Other|Back-end Developer|Front-end Developer|Designer,Hybrid
+120,r00147,TRUE,No,No,No,FALSE,44,Male,41-45,United States of America,United States of America,Executive Leadership|DevOps/SysAdmin|Back-end Developer,Hybrid
+121,r00148,TRUE,Yes,Yes,No,TRUE,35,Trans/Other,31-35,Canada,Canada,Front-end Developer,Hybrid
+122,r00149,TRUE,No,No,No,FALSE,45,Male,41-45,United States of America,United States of America,Other,Hybrid
+123,r00150,FALSE,No,Yes,Yes,TRUE,42,Male,41-45,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+124,r00153,TRUE,Yes,Maybe,Maybe,FALSE,36,Male,36-40,United States of America,United States of America,Back-end Developer,Remote
+125,r00155,TRUE,I don't know,Maybe,No,FALSE,29,Male,26-30,United States of America,United States of America,Back-end Developer,Remote
+126,r00156,TRUE,No,No,No,FALSE,37,Male,36-40,United States of America,United States of America,Other,On-site
+127,r00157,TRUE,I don't know,Yes,Yes,TRUE,31,Male,31-35,United States of America,United States of America,Dev Evangelist/Advocate|Support,Hybrid
+128,r00158,FALSE,No,No,No,FALSE,42,Male,41-45,Canada,Canada,Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin,Remote
+129,r00159,TRUE,No,Maybe,No,FALSE,25,Male,20-25,United States of America,United States of America,Support,Hybrid
+130,r00160,TRUE,Yes,Yes,Yes,TRUE,27,Male,26-30,United States of America,United States of America,Executive Leadership,Hybrid
+131,r00161,FALSE,No,Yes,Yes,TRUE,41,Female,41-45,United States of America,United States of America,Back-end Developer,On-site
+132,r00162,TRUE,No,Yes,Yes,FALSE,41,Female,41-45,United States of America,United States of America,Executive Leadership,Hybrid
+133,r00163,FALSE,I don't know,No,No,FALSE,55,Female,51-55,United States of America,United States of America,HR,On-site
+134,r00164,TRUE,No,Yes,Yes,FALSE,21,Male,20-25,United States of America,United States of America,Dev Evangelist/Advocate,On-site
+135,r00165,FALSE,No,No,No,FALSE,37,Male,36-40,Netherlands,Netherlands,Supervisor/Team Lead,On-site
+136,r00166,FALSE,No,No,No,FALSE,34,Female,31-35,Netherlands,Netherlands,Front-end Developer,Hybrid
+137,r00167,FALSE,I don't know,No,Maybe,FALSE,40,Male,36-40,United Kingdom,United Kingdom,Back-end Developer,On-site
+138,r00169,FALSE,No,No,Maybe,FALSE,36,Male,36-40,Germany,Germany,Other,Hybrid
+139,r00170,TRUE,No,No,Maybe,FALSE,25,Male,20-25,Germany,Germany,Front-end Developer,On-site
+140,r00171,TRUE,No,No,No,FALSE,35,Male,31-35,United States of America,United States of America,Front-end Developer|Back-end Developer,Remote
+141,r00172,TRUE,I don't know,Maybe,No,FALSE,37,Male,36-40,United States of America,United States of America,Back-end Developer,Remote
+142,r00173,FALSE,I don't know,Maybe,Maybe,FALSE,45,Male,41-45,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+143,r00174,TRUE,Yes,Yes,Yes,TRUE,26,Male,26-30,United States of America,United States of America,Front-end Developer,On-site
+144,r00175,TRUE,No,No,No,FALSE,23,Male,20-25,United States of America,United States of America,Front-end Developer,Hybrid
+145,r00176,TRUE,Yes,Yes,Yes,TRUE,22,Female,20-25,United States of America,United States of America,Front-end Developer,Hybrid
+146,r00177,TRUE,Yes,Yes,Yes,TRUE,46,Female,46-50,United States of America,United States of America,Back-end Developer,Remote
+147,r00178,TRUE,No,No,No,FALSE,31,Male,31-35,United Kingdom,United Kingdom,Other,Hybrid
+148,r00179,TRUE,Yes,Maybe,Yes,TRUE,27,Male,26-30,United States of America,United States of America,Dev Evangelist/Advocate|Back-end Developer|Support,Remote
+149,r00180,TRUE,I don't know,Maybe,No,FALSE,37,Male,36-40,United Kingdom,United Kingdom,Back-end Developer|DevOps/SysAdmin,Hybrid
+150,r00181,TRUE,No,No,No,FALSE,37,Male,36-40,United Kingdom,United Kingdom,DevOps/SysAdmin,On-site
+151,r00182,TRUE,No,Yes,Maybe,TRUE,26,Trans/Other,26-30,Netherlands,Netherlands,Executive Leadership|DevOps/SysAdmin|Back-end Developer|Support,Hybrid
+152,r00183,TRUE,Yes,No,No,FALSE,23,Male,20-25,Netherlands,Netherlands,Back-end Developer,On-site
+153,r00184,TRUE,Yes,Yes,Yes,TRUE,40,Male,36-40,United States of America,United States of America,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,On-site
+154,r00185,TRUE,No,No,No,FALSE,29,Male,26-30,Denmark,Denmark,Back-end Developer|DevOps/SysAdmin,Hybrid
+155,r00186,TRUE,I don't know,Yes,Yes,TRUE,37,Male,36-40,United States of America,United States of America,Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,Hybrid
+156,r00187,TRUE,Yes,Maybe,No,FALSE,34,Female,31-35,United States of America,United States of America,Other|HR,On-site
+157,r00188,TRUE,No,Yes,Yes,TRUE,40,Male,36-40,United States of America,United States of America,Support|Back-end Developer,Hybrid
+158,r00189,TRUE,No,Yes,Maybe,TRUE,39,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,Hybrid
+159,r00190,TRUE,Yes,Yes,Yes,TRUE,28,Male,26-30,United States of America,United States of America,Back-end Developer,Remote
+160,r00192,TRUE,Yes,No,No,FALSE,27,Male,26-30,Germany,Germany,Back-end Developer,Hybrid
+161,r00194,TRUE,No,Yes,Yes,TRUE,49,Female,46-50,United States of America,United States of America,DevOps/SysAdmin|Support,Hybrid
+162,r00195,TRUE,I don't know,Yes,Yes,TRUE,35,Male,31-35,United Kingdom,United Kingdom,Back-end Developer,On-site
+163,r00196,TRUE,Yes,Yes,Yes,TRUE,35,Male,31-35,Sweden,Sweden,Supervisor/Team Lead|Back-end Developer,Hybrid
+164,r00198,TRUE,Yes,Yes,No,TRUE,32,Male,31-35,United States of America,United States of America,Executive Leadership|Supervisor/Team Lead,Hybrid
+165,r00199,TRUE,Yes,Yes,Yes,TRUE,42,Male,41-45,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,Hybrid
+166,r00200,TRUE,Yes,Yes,Maybe,FALSE,33,Female,31-35,United States of America,United States of America,Support,Remote
+167,r00201,TRUE,No,No,No,FALSE,35,Male,31-35,United Kingdom,United Kingdom,Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,Remote
+168,r00202,TRUE,No,Maybe,Maybe,FALSE,24,Male,20-25,Russia,Russia,Front-end Developer|Back-end Developer,Hybrid
+169,r00203,TRUE,Yes,Yes,Yes,TRUE,29,Trans/Other,26-30,United States of America,United States of America,Other,Hybrid
+170,r00204,TRUE,No,Yes,Maybe,FALSE,29,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer,Remote
+171,r00205,TRUE,No,No,No,FALSE,24,Male,20-25,United Kingdom,United Kingdom,Supervisor/Team Lead,Hybrid
+172,r00206,TRUE,Yes,Maybe,No,FALSE,30,Male,26-30,Sweden,Sweden,Designer|Front-end Developer|Back-end Developer,Remote
+173,r00207,TRUE,No,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer,Remote
+174,r00208,TRUE,Yes,Yes,Yes,TRUE,44,Male,41-45,United States of America,United States of America,Support,Remote
+175,r00209,TRUE,No,No,No,FALSE,37,Male,36-40,United Kingdom,United Kingdom,Dev Evangelist/Advocate,Remote
+176,r00210,TRUE,No,No,No,FALSE,28,Male,26-30,Germany,Germany,Other,Hybrid
+177,r00211,TRUE,Yes,Yes,No,TRUE,42,Male,41-45,United States of America,United States of America,Supervisor/Team Lead,Remote
+178,r00212,TRUE,Yes,Yes,Yes,TRUE,30,Female,26-30,United Kingdom,United Kingdom,Supervisor/Team Lead|Back-end Developer|Front-end Developer|Designer,Hybrid
+179,r00213,TRUE,No,Maybe,Maybe,FALSE,36,Male,36-40,Russia,Russia,Support,Hybrid
+180,r00214,TRUE,No,No,No,FALSE,30,Male,26-30,Russia,Russia,Back-end Developer,Hybrid
+181,r00215,TRUE,No,No,No,FALSE,29,Male,26-30,United States of America,United States of America,Back-end Developer,Remote
+182,r00216,TRUE,No,No,No,FALSE,25,Male,20-25,United States of America,United States of America,Other,Hybrid
+183,r00217,TRUE,No,No,No,FALSE,25,Male,20-25,Belgium,Belgium,Back-end Developer,Hybrid
+184,r00218,TRUE,No,No,No,FALSE,24,Male,20-25,Russia,Russia,Other|Back-end Developer|Front-end Developer,On-site
+185,r00219,TRUE,No,Yes,Yes,FALSE,25,Male,20-25,Russia,Russia,Back-end Developer,Hybrid
+186,r00220,TRUE,I don't know,Yes,Yes,TRUE,31,Male,31-35,Denmark,Denmark,Executive Leadership|Supervisor/Team Lead,On-site
+187,r00221,TRUE,Yes,No,No,FALSE,37,Male,36-40,Canada,Canada,Back-end Developer,Hybrid
+188,r00222,TRUE,No,No,No,FALSE,35,Male,31-35,United States of America,United States of America,Back-end Developer,On-site
+189,r00223,TRUE,Yes,Yes,No,TRUE,26,Female,26-30,Spain,Spain,Front-end Developer|Back-end Developer,Hybrid
+190,r00224,TRUE,I don't know,No,No,FALSE,31,Male,31-35,United Kingdom,United Kingdom,Back-end Developer|DevOps/SysAdmin,Remote
+191,r00225,TRUE,Yes,Maybe,No,FALSE,29,Female,26-30,United States of America,United States of America,Support|Other,Remote
+192,r00226,TRUE,Yes,Yes,No,TRUE,33,Male,31-35,France,France,Back-end Developer,Hybrid
+193,r00227,TRUE,No,No,No,FALSE,30,Male,26-30,India,India,Supervisor/Team Lead,Remote
+194,r00228,TRUE,I don't know,Yes,Maybe,FALSE,30,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+195,r00229,TRUE,Yes,Yes,Yes,TRUE,29,Female,26-30,United States of America,United States of America,Other,On-site
+196,r00230,TRUE,I don't know,Yes,Yes,TRUE,25,Female,20-25,United States of America,United States of America,HR,Hybrid
+197,r00231,FALSE,Yes,Yes,No,FALSE,27,Male,26-30,United States of America,United States of America,Back-end Developer,On-site
+198,r00232,TRUE,No,No,No,FALSE,26,Male,26-30,Germany,Germany,Executive Leadership,Hybrid
+199,r00233,TRUE,Yes,No,No,FALSE,38,Female,36-40,United States of America,United States of America,Other,Remote
+200,r00234,TRUE,Yes,Yes,Yes,TRUE,49,Male,46-50,United States of America,United States of America,Other,Hybrid
+201,r00235,TRUE,Yes,No,No,FALSE,30,Male,26-30,United States of America,United States of America,Dev Evangelist/Advocate,Hybrid
+202,r00237,TRUE,No,No,No,FALSE,31,Male,31-35,Russia,Russia,Front-end Developer|Back-end Developer,On-site
+203,r00239,TRUE,No,No,No,FALSE,31,Male,31-35,Germany,Germany,Back-end Developer,Hybrid
+204,r00240,TRUE,I don't know,Maybe,Maybe,FALSE,34,Male,31-35,Germany,Germany,Front-end Developer,On-site
+205,r00241,TRUE,No,Yes,No,FALSE,28,Male,26-30,United States of America,United States of America,Front-end Developer|Back-end Developer|Support,Hybrid
+206,r00243,TRUE,I don't know,No,No,FALSE,27,Male,26-30,Germany,Germany,Back-end Developer,Remote
+207,r00245,TRUE,I don't know,Maybe,Maybe,TRUE,37,Female,36-40,United States of America,United States of America,Other,Hybrid
+208,r00246,TRUE,No,Yes,Yes,TRUE,45,Male,41-45,United Kingdom,United Kingdom,Supervisor/Team Lead|DevOps/SysAdmin,Hybrid
+209,r00247,TRUE,Yes,Yes,Yes,TRUE,31,Female,31-35,United States of America,United States of America,Front-end Developer|Designer,Remote
+210,r00248,FALSE,No,Maybe,No,FALSE,36,Male,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+211,r00249,TRUE,Yes,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Other|Support,On-site
+212,r00250,TRUE,Yes,Yes,Yes,TRUE,33,Female,31-35,United States of America,United Arab Emirates,Dev Evangelist/Advocate,Hybrid
+213,r00251,TRUE,I don't know,Yes,Yes,TRUE,45,Female,41-45,Canada,Canada,HR,Remote
+214,r00252,TRUE,Yes,Yes,Yes,TRUE,30,Female,26-30,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+215,r00253,TRUE,Yes,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|Front-end Developer,Hybrid
+216,r00255,FALSE,Yes,No,No,FALSE,36,Male,36-40,Mexico,Mexico,DevOps/SysAdmin|Executive Leadership,Hybrid
+217,r00256,TRUE,Yes,Yes,Maybe,TRUE,28,Male,26-30,United States of America,United States of America,Front-end Developer,On-site
+218,r00257,TRUE,No,Yes,Yes,TRUE,36,Male,36-40,United States of America,United States of America,Front-end Developer,Hybrid
+219,r00258,TRUE,Yes,Maybe,Maybe,TRUE,37,Female,36-40,United States of America,United States of America,Executive Leadership,Hybrid
+220,r00259,TRUE,Yes,Yes,Maybe,FALSE,29,Male,26-30,United States of America,United States of America,Front-end Developer,Hybrid
+221,r00260,TRUE,Yes,Yes,Yes,TRUE,25,Male,20-25,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+222,r00261,TRUE,No,No,No,FALSE,34,Female,31-35,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+223,r00262,FALSE,No,No,No,FALSE,37,Male,36-40,Canada,Canada,Support,Hybrid
+224,r00263,TRUE,Yes,Yes,Yes,TRUE,40,Female,36-40,United States of America,United States of America,Executive Leadership|Dev Evangelist/Advocate,Hybrid
+225,r00264,TRUE,No,Maybe,Maybe,FALSE,32,Male,31-35,United States of America,United States of America,DevOps/SysAdmin,Remote
+226,r00265,TRUE,No,Maybe,No,FALSE,38,Male,36-40,United Kingdom,United Kingdom,Back-end Developer|Dev Evangelist/Advocate,On-site
+227,r00266,TRUE,Yes,Yes,Yes,TRUE,31,Female,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+228,r00267,TRUE,Yes,No,No,FALSE,28,Female,26-30,United States of America,United States of America,Other,Hybrid
+229,r00268,TRUE,Yes,Yes,Yes,TRUE,27,Female,26-30,United Kingdom,United Kingdom,Other,Hybrid
+230,r00269,TRUE,No,Yes,Yes,TRUE,28,Female,26-30,United States of America,United States of America,Front-end Developer,Hybrid
+231,r00270,TRUE,Yes,Yes,Yes,TRUE,26,Male,26-30,Germany,Germany,Front-end Developer|Back-end Developer,Remote
+232,r00271,TRUE,Yes,Yes,No,FALSE,40,Male,36-40,United States of America,United States of America,Support|HR|Supervisor/Team Lead|Executive Leadership,Hybrid
+233,r00272,TRUE,No,Yes,Yes,TRUE,42,Male,41-45,United States of America,United States of America,Dev Evangelist/Advocate,Hybrid
+234,r00273,TRUE,I don't know,No,No,FALSE,36,Male,36-40,United States of America,United States of America,Front-end Developer,On-site
+235,r00275,TRUE,I don't know,Maybe,Yes,TRUE,24,Male,20-25,United States of America,United States of America,Back-end Developer,On-site
+236,r00276,FALSE,I don't know,Maybe,Maybe,FALSE,44,Male,41-45,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,On-site
+237,r00277,TRUE,No,No,Yes,TRUE,31,Male,31-35,United States of America,United States of America,Dev Evangelist/Advocate,Remote
+238,r00279,TRUE,Yes,No,No,FALSE,27,Female,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+239,r00280,TRUE,Yes,Maybe,No,FALSE,27,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin,Remote
+240,r00281,TRUE,No,Yes,No,TRUE,28,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,Hybrid
+241,r00282,TRUE,Yes,Yes,Maybe,TRUE,20,Female,20-25,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+242,r00284,FALSE,I don't know,Yes,Yes,TRUE,38,Male,36-40,Australia,Australia,Back-end Developer,Hybrid
+243,r00285,TRUE,Yes,Yes,Yes,FALSE,29,Male,26-30,United States of America,United States of America,Other,On-site
+244,r00286,TRUE,Yes,Yes,Yes,TRUE,44,Female,41-45,United States of America,United States of America,Supervisor/Team Lead,Remote
+245,r00287,TRUE,I don't know,No,No,FALSE,31,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+246,r00288,TRUE,Yes,Yes,Yes,TRUE,54,Male,51-55,United States of America,United States of America,Back-end Developer,Hybrid
+247,r00289,TRUE,Yes,No,No,FALSE,33,Male,31-35,Germany,Germany,Back-end Developer,Hybrid
+248,r00290,TRUE,No,No,No,FALSE,29,Male,26-30,Netherlands,Netherlands,Back-end Developer,On-site
+249,r00291,TRUE,I don't know,Yes,Maybe,TRUE,26,Trans/Other,26-30,United Kingdom,United Kingdom,DevOps/SysAdmin|Back-end Developer,Hybrid
+250,r00292,TRUE,Yes,Maybe,Maybe,FALSE,26,Male,26-30,United Kingdom,United Kingdom,Back-end Developer,On-site
+251,r00294,TRUE,Yes,Yes,Maybe,TRUE,38,Female,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+252,r00295,TRUE,Yes,Yes,Yes,TRUE,30,Male,26-30,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+253,r00297,TRUE,Yes,Yes,Yes,TRUE,47,Female,46-50,Australia,Australia,Support,Hybrid
+254,r00298,FALSE,Yes,Maybe,No,TRUE,33,Female,31-35,Switzerland,Switzerland,Back-end Developer,Hybrid
+255,r00299,FALSE,No,No,No,FALSE,22,Male,20-25,United Kingdom,United Kingdom,Front-end Developer,Hybrid
+256,r00300,TRUE,I don't know,Yes,Maybe,FALSE,28,Trans/Other,26-30,United Kingdom,United Kingdom,Front-end Developer,On-site
+257,r00301,TRUE,Yes,Yes,Yes,TRUE,31,Male,31-35,United Kingdom,United Kingdom,Support,Remote
+258,r00302,FALSE,Yes,Yes,Yes,TRUE,24,Trans/Other,20-25,United Kingdom,United Kingdom,Back-end Developer|Front-end Developer,Hybrid
+259,r00303,FALSE,No,Maybe,No,TRUE,56,Male,56-60,Australia,Australia,DevOps/SysAdmin,Hybrid
+260,r00305,TRUE,No,No,No,FALSE,39,Male,36-40,Spain,United States of America,Back-end Developer,Remote
+261,r00306,TRUE,Yes,Yes,No,TRUE,21,Male,20-25,United Kingdom,United Kingdom,DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support,On-site
+262,r00307,TRUE,No,No,No,FALSE,31,Female,31-35,Russia,Russia,Dev Evangelist/Advocate,Hybrid
+263,r00310,TRUE,Yes,Yes,Yes,TRUE,32,Female,31-35,United Kingdom,United Kingdom,Back-end Developer,On-site
+264,r00312,TRUE,No,No,No,FALSE,34,Male,31-35,United Kingdom,United Kingdom,Supervisor/Team Lead,Hybrid
+265,r00313,TRUE,Yes,Yes,Yes,TRUE,35,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer,Remote
+266,r00314,TRUE,No,No,No,FALSE,31,Male,31-35,Norway,Norway,Executive Leadership,Hybrid
+267,r00316,FALSE,No,No,No,FALSE,36,Male,36-40,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+268,r00317,TRUE,Yes,Yes,No,TRUE,50,Male,46-50,United States of America,United States of America,Back-end Developer,Hybrid
+269,r00318,TRUE,Yes,Yes,Yes,TRUE,31,Male,31-35,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+270,r00319,TRUE,Yes,Yes,No,TRUE,47,Male,46-50,United States of America,United States of America,Dev Evangelist/Advocate|Back-end Developer,On-site
+271,r00320,TRUE,No,No,No,FALSE,32,Female,31-35,Canada,Canada,Front-end Developer|Back-end Developer|Supervisor/Team Lead,On-site
+272,r00321,TRUE,Yes,No,Yes,TRUE,23,Female,20-25,Canada,Canada,Designer,On-site
+273,r00322,TRUE,Yes,Yes,Yes,TRUE,43,Female,41-45,Canada,Canada,Sales,Hybrid
+274,r00323,TRUE,Yes,Maybe,No,FALSE,26,Female,26-30,Canada,Canada,Designer,Hybrid
+275,r00324,TRUE,Yes,Maybe,Maybe,FALSE,26,Female,26-30,Canada,Canada,Other,On-site
+276,r00325,TRUE,No,No,No,FALSE,55,Female,51-55,Canada,Canada,Executive Leadership,Hybrid
+277,r00326,TRUE,No,Yes,Yes,TRUE,27,Male,26-30,Canada,Canada,Other,On-site
+278,r00327,TRUE,Yes,No,No,FALSE,34,Male,31-35,Argentina,Argentina,Other,Remote
+279,r00328,TRUE,Yes,No,No,FALSE,25,Male,20-25,India,India,Back-end Developer,On-site
+280,r00329,FALSE,No,No,No,FALSE,35,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+281,r00331,TRUE,I don't know,Yes,Yes,TRUE,38,Female,36-40,United States of America,United States of America,Other,Hybrid
+282,r00332,TRUE,I don't know,Maybe,Maybe,FALSE,29,Male,26-30,Canada,Canada,Front-end Developer,On-site
+283,r00333,TRUE,Yes,Maybe,Maybe,FALSE,28,Male,26-30,United Kingdom,United Kingdom,Designer,Remote
+284,r00334,TRUE,Yes,Yes,Maybe,TRUE,29,Male,26-30,United Kingdom,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer,Remote
+285,r00335,TRUE,Yes,Maybe,Maybe,FALSE,40,Male,36-40,United States of America,United States of America,Dev Evangelist/Advocate,Remote
+286,r00336,TRUE,No,Yes,Yes,TRUE,25,Female,20-25,United States of America,United States of America,Front-end Developer|Supervisor/Team Lead,Hybrid
+287,r00338,TRUE,Yes,Yes,Yes,TRUE,29,Female,26-30,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin,Hybrid
+288,r00339,TRUE,No,Yes,Yes,TRUE,35,Male,31-35,Netherlands,Netherlands,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Designer|Front-end Developer,Hybrid
+289,r00341,TRUE,No,Yes,Yes,TRUE,43,Male,41-45,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+290,r00342,TRUE,No,Maybe,No,FALSE,26,Male,26-30,Ireland,Ireland,Front-end Developer|Back-end Developer|DevOps/SysAdmin,On-site
+291,r00343,TRUE,No,No,Maybe,FALSE,31,Male,31-35,Germany,Germany,Back-end Developer,On-site
+292,r00344,TRUE,Yes,No,No,FALSE,31,Female,31-35,United States of America,United States of America,Other,Remote
+293,r00345,FALSE,I don't know,Yes,Yes,TRUE,45,Female,41-45,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer,Remote
+294,r00346,TRUE,I don't know,No,Maybe,FALSE,23,Male,20-25,Italy,Italy,Front-end Developer|Back-end Developer|DevOps/SysAdmin,On-site
+295,r00347,TRUE,I don't know,No,No,FALSE,39,Male,36-40,United States of America,United States of America,Supervisor/Team Lead,On-site
+296,r00348,TRUE,Yes,No,No,FALSE,27,Female,26-30,United States of America,United States of America,Other,Hybrid
+297,r00349,TRUE,Yes,Yes,Yes,TRUE,28,Male,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+298,r00350,TRUE,No,No,Maybe,FALSE,36,Male,36-40,United States of America,United States of America,Dev Evangelist/Advocate|DevOps/SysAdmin,Remote
+299,r00351,TRUE,No,No,No,FALSE,22,Male,20-25,Germany,Germany,Back-end Developer,On-site
+300,r00352,TRUE,I don't know,Maybe,No,FALSE,51,Male,51-55,United States of America,United States of America,Support|Back-end Developer|Front-end Developer,On-site
+301,r00355,FALSE,Yes,Yes,Yes,TRUE,28,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Support,Hybrid
+302,r00356,TRUE,No,No,No,FALSE,40,Male,36-40,United States of America,United States of America,Dev Evangelist/Advocate|Back-end Developer|Designer|Front-end Developer,Remote
+303,r00357,TRUE,I don't know,Yes,Yes,TRUE,35,Female,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,Hybrid
+304,r00358,TRUE,Yes,Yes,Yes,TRUE,38,Male,36-40,United States of America,United States of America,Supervisor/Team Lead,On-site
+305,r00359,TRUE,Yes,Yes,Maybe,FALSE,29,Male,26-30,United States of America,United States of America,Back-end Developer,Remote
+306,r00361,TRUE,Yes,Yes,Yes,TRUE,31,Female,31-35,United States of America,United States of America,Back-end Developer,Remote
+307,r00362,TRUE,No,No,No,FALSE,45,Male,41-45,United States of America,United States of America,Other,Hybrid
+308,r00363,TRUE,Yes,Maybe,Maybe,FALSE,26,Male,26-30,United States of America,United States of America,Other|Dev Evangelist/Advocate|Sales|Back-end Developer|Front-end Developer,Hybrid
+309,r00364,TRUE,No,No,No,FALSE,42,Male,41-45,United States of America,United States of America,DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead|Executive Leadership,Remote
+310,r00365,TRUE,No,Yes,No,FALSE,28,Female,26-30,United States of America,United States of America,Support,Remote
+311,r00366,TRUE,Yes,No,No,FALSE,28,Male,26-30,United Kingdom,United Kingdom,One-person shop,Hybrid
+312,r00367,TRUE,Yes,Yes,Yes,TRUE,39,Female,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+313,r00368,TRUE,No,Yes,No,TRUE,34,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Designer,Hybrid
+314,r00369,TRUE,Yes,Yes,Yes,TRUE,28,Female,26-30,United States of America,United States of America,Support|Back-end Developer,Remote
+315,r00370,TRUE,No,Maybe,No,FALSE,35,Female,31-35,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+316,r00371,TRUE,No,No,No,FALSE,42,Male,41-45,Canada,Canada,HR|Supervisor/Team Lead|Executive Leadership,Hybrid
+317,r00372,TRUE,Yes,Yes,Yes,TRUE,99,Trans/Other,Over 65,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+318,r00375,TRUE,Yes,No,No,FALSE,28,Male,26-30,Canada,Canada,Front-end Developer|Back-end Developer,Remote
+319,r00376,TRUE,No,Maybe,No,FALSE,22,Female,20-25,Russia,Russia,Other,Hybrid
+320,r00377,TRUE,Yes,Yes,Yes,TRUE,28,Female,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+321,r00379,FALSE,Yes,Maybe,Maybe,FALSE,21,Female,20-25,Australia,Australia,Other,On-site
+322,r00380,TRUE,Yes,Yes,Yes,TRUE,38,Male,36-40,Netherlands,Netherlands,Back-end Developer,On-site
+323,r00381,FALSE,Yes,Yes,Yes,TRUE,33,Male,31-35,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+324,r00382,TRUE,Yes,Yes,Yes,FALSE,28,Female,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+325,r00383,TRUE,I don't know,Yes,Yes,TRUE,32,Male,31-35,United States of America,United States of America,Dev Evangelist/Advocate,Hybrid
+326,r00384,TRUE,I don't know,Yes,Yes,TRUE,24,Female,20-25,Australia,Australia,Front-end Developer,Hybrid
+327,r00385,TRUE,Yes,Yes,Maybe,TRUE,35,Male,31-35,United States of America,United States of America,Other,Remote
+328,r00388,TRUE,Yes,Yes,Yes,TRUE,24,Female,20-25,United States of America,United States of America,Back-end Developer,Hybrid
+329,r00389,TRUE,Yes,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+330,r00390,TRUE,No,No,No,FALSE,47,Female,46-50,United States of America,United States of America,Sales,Hybrid
+331,r00391,TRUE,No,No,No,FALSE,26,Female,26-30,United States of America,United States of America,Front-end Developer,On-site
+332,r00392,TRUE,I don't know,Yes,Yes,TRUE,32,Male,31-35,United States of America,United States of America,DevOps/SysAdmin|Supervisor/Team Lead,Remote
+333,r00393,TRUE,Yes,No,Maybe,FALSE,32,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+334,r00394,TRUE,I don't know,Yes,Yes,TRUE,37,Male,36-40,United States of America,United States of America,Supervisor/Team Lead,Remote
+335,r00396,TRUE,I don't know,Maybe,Maybe,FALSE,28,Female,26-30,United Kingdom,United Kingdom,Sales,Hybrid
+336,r00397,TRUE,No,No,No,FALSE,22,Male,20-25,Netherlands,Netherlands,Back-end Developer,On-site
+337,r00398,TRUE,Yes,Yes,Yes,FALSE,30,Male,26-30,United States of America,United States of America,Dev Evangelist/Advocate,Hybrid
+338,r00400,TRUE,I don't know,No,No,FALSE,34,Male,31-35,United States of America,United States of America,Back-end Developer|DevOps/SysAdmin,On-site
+339,r00401,TRUE,No,Maybe,Maybe,TRUE,32,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+340,r00402,TRUE,Yes,Yes,Yes,TRUE,37,Male,36-40,United Kingdom,United Kingdom,Support,Remote
+341,r00404,TRUE,Yes,Yes,Yes,TRUE,31,Male,31-35,United States of America,United States of America,Dev Evangelist/Advocate|Support|Back-end Developer,Remote
+342,r00405,FALSE,I don't know,No,No,FALSE,26,Male,26-30,Colombia,Colombia,Front-end Developer,Remote
+343,r00407,TRUE,Yes,Yes,Yes,TRUE,36,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,Hybrid
+344,r00408,TRUE,Yes,Yes,No,TRUE,38,Male,36-40,United States of America,United States of America,Back-end Developer,Remote
+345,r00409,TRUE,No,No,Yes,TRUE,24,Male,20-25,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+346,r00410,TRUE,I don't know,Yes,Yes,FALSE,26,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+347,r00411,TRUE,Yes,Yes,Maybe,TRUE,37,Male,36-40,United States of America,United States of America,Dev Evangelist/Advocate|DevOps/SysAdmin,On-site
+348,r00412,TRUE,Yes,Yes,Yes,TRUE,27,Female,26-30,United Kingdom,United Kingdom,Designer,On-site
+349,r00414,TRUE,No,Yes,No,FALSE,32,Male,31-35,Netherlands,Netherlands,Back-end Developer,On-site
+350,r00415,FALSE,I don't know,Yes,Yes,TRUE,30,Male,26-30,Netherlands,Netherlands,Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin,On-site
+351,r00416,TRUE,No,Yes,Yes,TRUE,26,Female,26-30,Germany,Germany,Dev Evangelist/Advocate,Remote
+352,r00419,TRUE,Yes,Yes,Maybe,FALSE,29,Male,26-30,Colombia,Colombia,Back-end Developer,Remote
+353,r00420,TRUE,Yes,Yes,Yes,TRUE,26,Trans/Other,26-30,Germany,Germany,Back-end Developer|DevOps/SysAdmin,On-site
+354,r00421,TRUE,No,No,No,FALSE,23,Female,20-25,United States of America,United States of America,Back-end Developer,On-site
+355,r00422,TRUE,Yes,Yes,No,TRUE,30,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|Support,Hybrid
+356,r00423,FALSE,Yes,Yes,Yes,TRUE,40,Male,36-40,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+357,r00424,TRUE,I don't know,Maybe,Maybe,TRUE,46,Male,46-50,United States of America,United States of America,Supervisor/Team Lead|Support,Hybrid
+358,r00425,TRUE,No,No,No,FALSE,26,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+359,r00426,TRUE,I don't know,No,No,FALSE,30,Male,26-30,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+360,r00427,TRUE,No,No,No,FALSE,27,Female,26-30,Canada,United States of America,Back-end Developer,Remote
+361,r00429,TRUE,Yes,Yes,Yes,TRUE,26,Female,26-30,United States of America,United States of America,HR|Dev Evangelist/Advocate|Sales,Hybrid
+362,r00430,TRUE,Yes,No,No,FALSE,35,Male,31-35,Australia,Australia,Back-end Developer,Remote
+363,r00431,FALSE,Yes,Yes,Yes,FALSE,29,Male,26-30,Netherlands,Netherlands,DevOps/SysAdmin|Back-end Developer,On-site
+364,r00432,TRUE,No,No,No,FALSE,34,Male,31-35,United Kingdom,United Kingdom,Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead,Hybrid
+365,r00434,TRUE,No,Maybe,Maybe,FALSE,39,Male,36-40,United Kingdom,United Kingdom,Executive Leadership,Hybrid
+366,r00435,TRUE,No,No,No,FALSE,27,Male,26-30,United Kingdom,United Kingdom,Back-end Developer|DevOps/SysAdmin,Hybrid
+367,r00436,TRUE,No,Yes,No,TRUE,31,Male,31-35,Czech Republic,Czech Republic,Supervisor/Team Lead,Hybrid
+368,r00437,FALSE,No,No,No,FALSE,26,Male,26-30,United Kingdom,United Kingdom,Supervisor/Team Lead|Front-end Developer|Back-end Developer,On-site
+369,r00438,TRUE,Yes,Maybe,Maybe,FALSE,44,Male,41-45,United States of America,United States of America,Back-end Developer,Remote
+370,r00439,TRUE,No,No,No,FALSE,27,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+371,r00440,FALSE,Yes,Yes,Yes,TRUE,57,Female,56-60,United States of America,United States of America,Back-end Developer|Front-end Developer|Designer,Hybrid
+372,r00445,FALSE,I don't know,Maybe,Maybe,FALSE,35,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin,On-site
+373,r00446,TRUE,I don't know,Yes,Yes,TRUE,26,Male,26-30,United States of America,United States of America,Back-end Developer,Remote
+374,r00447,TRUE,No,No,Maybe,FALSE,22,Female,20-25,United States of America,United States of America,Front-end Developer|Back-end Developer,On-site
+375,r00448,TRUE,No,No,No,FALSE,31,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+376,r00449,TRUE,No,No,No,FALSE,31,Male,31-35,United Kingdom,United Kingdom,Back-end Developer,On-site
+377,r00451,FALSE,No,No,Yes,TRUE,26,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,Hybrid
+378,r00452,TRUE,Yes,Yes,Yes,FALSE,36,Male,36-40,United States of America,United States of America,One-person shop,Hybrid
+379,r00453,TRUE,Yes,Yes,Yes,TRUE,33,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,Hybrid
+380,r00454,TRUE,Yes,Yes,Yes,TRUE,24,Female,20-25,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+381,r00455,TRUE,Yes,Maybe,Maybe,FALSE,22,Male,20-25,Vietnam,Vietnam,Front-end Developer|Back-end Developer,Hybrid
+382,r00456,TRUE,Yes,Yes,Maybe,TRUE,33,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Support,Remote
+383,r00457,TRUE,No,Yes,Yes,TRUE,37,Female,36-40,United States of America,United States of America,Support,Hybrid
+384,r00458,TRUE,No,Yes,Maybe,FALSE,29,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,Remote
+385,r00459,FALSE,I don't know,Maybe,No,FALSE,38,Male,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+386,r00460,TRUE,Yes,Maybe,Maybe,FALSE,33,Male,31-35,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer,Hybrid
+387,r00461,TRUE,Yes,Yes,Maybe,TRUE,44,Female,41-45,Canada,Canada,Executive Leadership,Remote
+388,r00462,FALSE,Yes,Yes,Yes,TRUE,23,Male,20-25,United States of America,United States of America,Back-end Developer,Hybrid
+389,r00464,FALSE,I don't know,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+390,r00465,TRUE,No,Maybe,No,FALSE,28,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+391,r00466,TRUE,I don't know,Maybe,Maybe,FALSE,39,Male,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+392,r00467,TRUE,Yes,Yes,Yes,TRUE,24,Female,20-25,United States of America,United States of America,Front-end Developer,On-site
+393,r00469,FALSE,Yes,Yes,Yes,TRUE,35,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer,Hybrid
+394,r00470,TRUE,Yes,Maybe,Maybe,FALSE,23,Male,20-25,United States of America,United States of America,Front-end Developer,On-site
+395,r00471,FALSE,Yes,No,No,FALSE,37,Male,36-40,United States of America,United States of America,Other,Hybrid
+396,r00472,TRUE,No,No,No,FALSE,35,Male,31-35,United States of America,United States of America,DevOps/SysAdmin|Front-end Developer|Back-end Developer,Hybrid
+397,r00473,FALSE,I don't know,Maybe,Maybe,FALSE,27,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,Hybrid
+398,r00474,TRUE,Yes,Maybe,Maybe,FALSE,27,Female,26-30,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,Remote
+399,r00475,TRUE,No,Maybe,No,FALSE,27,Female,26-30,United States of America,United States of America,Front-end Developer,On-site
+400,r00476,TRUE,Yes,Yes,Yes,TRUE,42,Male,41-45,United States of America,United States of America,Front-end Developer|Back-end Developer,Hybrid
+401,r00477,FALSE,Yes,No,No,FALSE,32,Male,31-35,United States of America,United States of America,Front-end Developer,On-site
+402,r00478,TRUE,Yes,Yes,Maybe,TRUE,26,Male,26-30,Finland,Finland,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+403,r00479,TRUE,No,Maybe,No,FALSE,28,Male,26-30,Bulgaria,Bulgaria,Back-end Developer,On-site
+404,r00480,TRUE,No,No,No,FALSE,28,Male,26-30,United States of America,United States of America,Front-end Developer,Hybrid
+405,r00481,TRUE,Yes,Yes,No,TRUE,32,Male,31-35,United States of America,United States of America,Front-end Developer|Back-end Developer,Hybrid
+406,r00483,TRUE,I don't know,Yes,Yes,TRUE,34,Male,31-35,United States of America,United States of America,Back-end Developer,On-site
+407,r00484,TRUE,No,Maybe,Maybe,FALSE,61,Female,61-65,United States of America,United States of America,Other,Hybrid
+408,r00487,FALSE,Yes,Yes,Yes,TRUE,51,Male,51-55,Germany,Germany,Front-end Developer,Hybrid
+409,r00489,TRUE,Yes,Yes,Yes,TRUE,34,Male,31-35,United States of America,United States of America,Front-end Developer|Designer,Remote
+410,r00490,TRUE,No,Yes,Maybe,TRUE,43,Male,41-45,United States of America,United States of America,Front-end Developer|Back-end Developer,Remote
+411,r00491,TRUE,No,No,Maybe,FALSE,43,Female,41-45,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+412,r00492,TRUE,Yes,Yes,Yes,TRUE,44,Male,41-45,United States of America,United States of America,DevOps/SysAdmin,Remote
+413,r00493,TRUE,I don't know,Maybe,Maybe,TRUE,35,Male,31-35,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+414,r00494,TRUE,No,No,No,FALSE,50,Male,46-50,United States of America,United States of America,Back-end Developer,Remote
+415,r00495,TRUE,No,Yes,Maybe,TRUE,29,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer,Hybrid
+416,r00496,TRUE,Yes,No,Yes,TRUE,29,Male,26-30,United States of America,United States of America,Front-end Developer,On-site
+417,r00497,FALSE,I don't know,No,No,FALSE,36,Male,36-40,Canada,Canada,DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support,Hybrid
+418,r00500,TRUE,No,Yes,Maybe,TRUE,46,Male,46-50,United States of America,United States of America,DevOps/SysAdmin,Remote
+419,r00502,TRUE,Yes,Maybe,Maybe,FALSE,23,Trans/Other,20-25,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+420,r00503,TRUE,I don't know,Yes,Maybe,TRUE,41,Male,41-45,United States of America,United States of America,Other|Supervisor/Team Lead|Back-end Developer|Front-end Developer,Hybrid
+421,r00504,TRUE,No,No,Maybe,FALSE,31,Male,31-35,Canada,Canada,Front-end Developer,Hybrid
+422,r00505,TRUE,Yes,Yes,Yes,TRUE,55,Male,51-55,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+423,r00506,TRUE,No,Yes,No,FALSE,34,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin,Hybrid
+424,r00507,TRUE,Yes,Yes,Yes,FALSE,28,Female,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,Remote
+425,r00508,TRUE,Yes,Yes,Yes,TRUE,33,Male,31-35,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer,Hybrid
+426,r00509,TRUE,Yes,Yes,No,TRUE,29,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,Hybrid
+427,r00510,FALSE,Yes,No,Yes,TRUE,33,Female,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer,Hybrid
+428,r00512,TRUE,Yes,Yes,Yes,TRUE,28,Male,26-30,United States of America,United States of America,Dev Evangelist/Advocate,Hybrid
+429,r00513,TRUE,Yes,Yes,No,FALSE,32,Male,31-35,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+430,r00514,TRUE,Yes,Maybe,Maybe,FALSE,36,Female,36-40,United States of America,United States of America,Front-end Developer,On-site
+431,r00515,FALSE,No,No,Maybe,FALSE,45,Male,41-45,United Kingdom,United Kingdom,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,Hybrid
+432,r00517,FALSE,No,No,No,FALSE,23,Male,20-25,France,France,Support,On-site
+433,r00520,TRUE,Yes,Yes,Yes,TRUE,29,Female,26-30,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+434,r00521,TRUE,I don't know,Yes,No,TRUE,31,Male,31-35,Australia,Australia,Back-end Developer,Hybrid
+435,r00523,TRUE,Yes,Yes,Maybe,TRUE,29,Male,26-30,Germany,Germany,Back-end Developer,On-site
+436,r00525,TRUE,No,Yes,Yes,FALSE,30,Male,26-30,United Kingdom,United Kingdom,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+437,r00526,TRUE,No,Yes,No,TRUE,55,Male,51-55,United Kingdom,United Kingdom,Front-end Developer,Remote
+438,r00527,FALSE,Yes,Yes,Yes,TRUE,38,Female,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+439,r00528,TRUE,I don't know,No,No,FALSE,20,Male,20-25,Canada,Canada,Back-end Developer|Front-end Developer,Hybrid
+440,r00529,TRUE,Yes,Yes,No,TRUE,25,Male,20-25,United States of America,United States of America,Support|Back-end Developer|Front-end Developer,Hybrid
+441,r00532,FALSE,I don't know,No,Yes,TRUE,27,Male,26-30,United States of America,United States of America,Designer|Front-end Developer|Back-end Developer|DevOps/SysAdmin,On-site
+442,r00533,FALSE,Yes,Yes,Yes,TRUE,24,Male,20-25,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,Hybrid
+443,r00535,FALSE,I don't know,Maybe,Maybe,FALSE,29,Male,26-30,Brazil,Brazil,Back-end Developer|Front-end Developer,On-site
+444,r00536,TRUE,Yes,Yes,Yes,TRUE,40,Female,36-40,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,On-site
+445,r00537,TRUE,Yes,Maybe,Maybe,TRUE,30,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,Remote
+446,r00538,TRUE,No,No,No,FALSE,32,Male,31-35,Canada,Canada,DevOps/SysAdmin|Supervisor/Team Lead,Hybrid
+447,r00540,TRUE,No,Yes,Yes,TRUE,35,Female,31-35,Canada,Canada,Other|Back-end Developer,Hybrid
+448,r00542,TRUE,Yes,Maybe,No,FALSE,36,Male,36-40,United Kingdom,United Kingdom,Back-end Developer,On-site
+449,r00543,TRUE,I don't know,No,No,FALSE,26,Male,26-30,Sweden,Sweden,Back-end Developer|DevOps/SysAdmin,Hybrid
+450,r00544,FALSE,Yes,Maybe,No,TRUE,31,Female,31-35,Netherlands,Netherlands,Other,On-site
+451,r00545,FALSE,Yes,No,No,FALSE,33,Male,31-35,South Africa,South Africa,Front-end Developer|Back-end Developer|DevOps/SysAdmin,On-site
+452,r00547,TRUE,No,Yes,Yes,TRUE,46,Male,46-50,United Kingdom,United Kingdom,Other,Remote
+453,r00548,TRUE,Yes,Yes,No,TRUE,32,Male,31-35,United States of America,United States of America,Dev Evangelist/Advocate,Hybrid
+454,r00549,TRUE,No,No,No,FALSE,34,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+455,r00550,TRUE,Yes,Yes,Yes,TRUE,41,Male,41-45,United States of America,United States of America,DevOps/SysAdmin,Remote
+456,r00551,TRUE,No,No,No,FALSE,32,Male,31-35,United States of America,United States of America,Back-end Developer,Remote
+457,r00552,FALSE,Yes,Yes,No,TRUE,47,Male,46-50,United States of America,United States of America,Executive Leadership,Hybrid
+458,r00553,TRUE,Yes,No,No,FALSE,29,Male,26-30,United States of America,United States of America,DevOps/SysAdmin,Remote
+459,r00554,FALSE,I don't know,No,No,TRUE,36,Male,36-40,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+460,r00555,TRUE,Yes,Yes,Yes,TRUE,32,Male,31-35,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+461,r00556,TRUE,Yes,Maybe,Maybe,FALSE,29,Male,26-30,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+462,r00557,TRUE,No,No,No,FALSE,22,Male,20-25,United Kingdom,United Kingdom,Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead,On-site
+463,r00558,TRUE,Yes,Yes,Yes,TRUE,32,Female,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+464,r00559,FALSE,No,No,No,FALSE,19,Female,Under 20,United States of America,United States of America,Front-end Developer,On-site
+465,r00560,TRUE,No,No,No,FALSE,30,Male,26-30,South Africa,South Africa,Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead,Hybrid
+466,r00561,TRUE,Yes,Yes,Maybe,TRUE,32,Trans/Other,31-35,United States of America,United States of America,Other|Back-end Developer,Remote
+467,r00562,TRUE,No,No,No,FALSE,22,Male,20-25,United States of America,United States of America,Front-end Developer,Hybrid
+468,r00564,TRUE,Yes,No,No,FALSE,,Male,Under 20,United States of America,United States of America,Back-end Developer,Hybrid
+469,r00565,TRUE,No,No,No,FALSE,33,Male,31-35,Slovakia,Slovakia,Back-end Developer,Hybrid
+470,r00566,TRUE,No,Yes,No,TRUE,48,Female,46-50,United Kingdom,United Kingdom,Front-end Developer,On-site
+471,r00567,TRUE,No,Maybe,No,FALSE,45,Male,41-45,Germany,Germany,Other,On-site
+472,r00568,TRUE,Yes,Yes,No,TRUE,28,Male,26-30,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+473,r00569,TRUE,Yes,Maybe,No,FALSE,44,Male,41-45,United States of America,United States of America,Back-end Developer,Hybrid
+474,r00570,TRUE,No,No,No,FALSE,31,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Front-end Developer|Back-end Developer,Hybrid
+475,r00571,TRUE,I don't know,Yes,Yes,TRUE,31,Female,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+476,r00572,TRUE,No,No,No,FALSE,29,Male,26-30,United States of America,United States of America,DevOps/SysAdmin,On-site
+477,r00573,FALSE,No,No,No,FALSE,26,Male,26-30,United States of America,United States of America,Front-end Developer|Back-end Developer|Support|Dev Evangelist/Advocate,On-site
+478,r00574,FALSE,Yes,Yes,Yes,TRUE,35,Female,31-35,United States of America,United States of America,Front-end Developer|Designer,Hybrid
+479,r00576,TRUE,Yes,Yes,Yes,TRUE,45,Male,41-45,United States of America,United States of America,Dev Evangelist/Advocate,Remote
+480,r00577,FALSE,Yes,Yes,Yes,TRUE,22,Female,20-25,United States of America,United States of America,Executive Leadership|Supervisor/Team Lead|HR|DevOps/SysAdmin|Support|Sales|Back-end Developer|One-person shop|Designer|Front-end Developer,Hybrid
+481,r00578,TRUE,I don't know,Maybe,Maybe,FALSE,34,Male,31-35,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+482,r00579,TRUE,I don't know,Maybe,Maybe,FALSE,35,Male,31-35,United Kingdom,United Kingdom,Supervisor/Team Lead|Front-end Developer,On-site
+483,r00581,TRUE,Yes,Yes,Maybe,TRUE,26,Male,26-30,Denmark,Denmark,DevOps/SysAdmin|Back-end Developer|Front-end Developer,On-site
+484,r00583,TRUE,Yes,Yes,Yes,TRUE,24,Male,20-25,Australia,Australia,Back-end Developer|Front-end Developer|Designer,Hybrid
+485,r00584,TRUE,Yes,Yes,Yes,TRUE,24,Male,20-25,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,On-site
+486,r00585,TRUE,No,Yes,Yes,TRUE,34,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+487,r00586,TRUE,No,No,No,FALSE,36,Male,36-40,Australia,Australia,Supervisor/Team Lead,Hybrid
+488,r00587,FALSE,Yes,Yes,Maybe,TRUE,41,Male,41-45,Australia,Australia,Supervisor/Team Lead,Hybrid
+489,r00588,TRUE,No,Yes,Yes,TRUE,21,Male,20-25,United States of America,United States of America,DevOps/SysAdmin,On-site
+490,r00589,TRUE,I don't know,Yes,Yes,TRUE,33,Male,31-35,Bangladesh,Bangladesh,Back-end Developer,Hybrid
+491,r00590,TRUE,Yes,No,No,FALSE,32,Male,31-35,India,India,Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin|Dev Evangelist/Advocate,Remote
+492,r00591,FALSE,I don't know,Yes,Yes,TRUE,62,Female,61-65,United States of America,United States of America,Back-end Developer|One-person shop,On-site
+493,r00592,FALSE,Yes,Yes,Yes,TRUE,37,Male,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+494,r00593,TRUE,I don't know,No,Maybe,FALSE,32,Male,31-35,United States of America,United States of America,Support|Back-end Developer,Remote
+495,r00594,TRUE,No,No,No,FALSE,31,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Executive Leadership,Hybrid
+496,r00595,TRUE,Yes,Yes,Maybe,TRUE,28,Male,26-30,United States of America,United States of America,Front-end Developer|Back-end Developer,Hybrid
+497,r00598,TRUE,No,Yes,Yes,TRUE,29,Male,26-30,Norway,Norway,Other|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|One-person shop,On-site
+498,r00599,FALSE,I don't know,No,No,FALSE,33,Male,31-35,Germany,Germany,Back-end Developer,On-site
+499,r00600,FALSE,Yes,No,No,FALSE,27,Male,26-30,Finland,Finland,Support|DevOps/SysAdmin,Hybrid
+500,r00601,FALSE,No,No,No,FALSE,24,Male,20-25,Australia,Australia,One-person shop,Hybrid
+501,r00603,TRUE,Yes,Maybe,Maybe,FALSE,42,Male,41-45,United States of America,United States of America,Dev Evangelist/Advocate,Remote
+502,r00604,TRUE,No,No,No,FALSE,28,Male,26-30,United Kingdom,United Kingdom,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,Hybrid
+503,r00605,TRUE,Yes,Yes,Yes,TRUE,40,Male,36-40,Canada,Canada,Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer,Remote
+504,r00606,TRUE,Yes,Yes,Maybe,TRUE,32,Female,31-35,United States of America,United States of America,Dev Evangelist/Advocate,Remote
+505,r00609,TRUE,Yes,Yes,Yes,TRUE,26,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer,On-site
+506,r00610,TRUE,Yes,Yes,Yes,TRUE,39,Female,36-40,United States of America,United States of America,Dev Evangelist/Advocate|Support|Back-end Developer|Front-end Developer,Hybrid
+507,r00611,FALSE,No,Maybe,Maybe,FALSE,38,Male,36-40,United Kingdom,United Kingdom,DevOps/SysAdmin|Supervisor/Team Lead,On-site
+508,r00612,TRUE,Yes,Maybe,Yes,FALSE,34,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+509,r00613,FALSE,I don't know,Yes,Yes,TRUE,44,Male,41-45,Netherlands,Netherlands,Back-end Developer|DevOps/SysAdmin,On-site
+510,r00615,TRUE,No,No,No,FALSE,24,Male,20-25,Pakistan,Pakistan,Other,Remote
+511,r00616,TRUE,Yes,Yes,Yes,TRUE,31,Male,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+512,r00617,TRUE,Yes,Yes,Yes,TRUE,47,Male,46-50,United States of America,United States of America,Other,Hybrid
+513,r00618,TRUE,Yes,Yes,Yes,TRUE,30,Male,26-30,Australia,Australia,Support,Hybrid
+514,r00620,TRUE,Yes,Yes,Yes,TRUE,29,Trans/Other,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+515,r00621,TRUE,No,No,No,FALSE,27,Male,26-30,United States of America,United States of America,Front-end Developer|Back-end Developer|Support,Hybrid
+516,r00622,FALSE,No,Yes,Yes,TRUE,29,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Support,On-site
+517,r00624,TRUE,Yes,Yes,Yes,TRUE,31,Trans/Other,31-35,United States of America,United States of America,Designer,Hybrid
+518,r00625,FALSE,No,No,Maybe,FALSE,27,Male,26-30,Norway,Norway,Back-end Developer|Front-end Developer,On-site
+519,r00626,TRUE,No,Yes,Yes,TRUE,29,Male,26-30,United Kingdom,United Kingdom,DevOps/SysAdmin,On-site
+520,r00627,TRUE,No,No,No,FALSE,29,Male,26-30,United Kingdom,United Kingdom,Back-end Developer,On-site
+521,r00628,TRUE,I don't know,Maybe,Yes,TRUE,42,Male,41-45,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+522,r00629,TRUE,Yes,Yes,No,FALSE,26,Female,26-30,United States of America,United States of America,Front-end Developer|Back-end Developer,Remote
+523,r00630,TRUE,Yes,Yes,No,TRUE,26,Male,26-30,Switzerland,Switzerland,Front-end Developer|Back-end Developer|DevOps/SysAdmin,Hybrid
+524,r00632,FALSE,I don't know,No,No,FALSE,24,Male,20-25,United States of America,United States of America,Other,Hybrid
+525,r00633,FALSE,No,No,No,FALSE,25,Male,20-25,United States of America,United States of America,Other,On-site
+526,r00634,TRUE,No,No,No,FALSE,22,Male,20-25,United States of America,United States of America,Back-end Developer,Hybrid
+527,r00635,TRUE,Yes,Yes,Yes,TRUE,33,Male,31-35,United States of America,United States of America,DevOps/SysAdmin|Support|Back-end Developer,Hybrid
+528,r00636,TRUE,No,No,No,FALSE,53,Male,51-55,United States of America,United States of America,Executive Leadership,Remote
+529,r00637,TRUE,Yes,Yes,Yes,TRUE,32,Male,31-35,Canada,Canada,Back-end Developer,On-site
+530,r00638,TRUE,No,Yes,No,TRUE,32,Male,31-35,United States of America,United States of America,Executive Leadership,Hybrid
+531,r00640,TRUE,No,No,No,FALSE,27,Male,26-30,France,France,Back-end Developer|DevOps/SysAdmin,On-site
+532,r00641,TRUE,I don't know,Maybe,No,FALSE,34,Male,31-35,United Kingdom,United Kingdom,Back-end Developer|Supervisor/Team Lead,Remote
+533,r00642,TRUE,Yes,Yes,Yes,TRUE,26,Male,26-30,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+534,r00643,TRUE,Yes,Yes,Yes,TRUE,25,Trans/Other,20-25,United States of America,United States of America,Other,On-site
+535,r00644,TRUE,Yes,Yes,Maybe,TRUE,39,Male,36-40,United Kingdom,United Kingdom,Front-end Developer|Back-end Developer|Supervisor/Team Lead,Hybrid
+536,r00645,TRUE,No,Maybe,Maybe,FALSE,32,Male,31-35,United States of America,United States of America,Back-end Developer,On-site
+537,r00648,TRUE,Yes,Yes,Maybe,TRUE,33,Trans/Other,31-35,United Kingdom,United Kingdom,Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer,On-site
+538,r00649,TRUE,No,No,No,FALSE,58,Male,56-60,United States of America,United States of America,Back-end Developer,Hybrid
+539,r00650,TRUE,No,No,Yes,TRUE,30,Male,26-30,Canada,Canada,Front-end Developer|Designer,On-site
+540,r00652,FALSE,Yes,Yes,Yes,TRUE,45,Male,41-45,United States of America,United States of America,Front-end Developer,Hybrid
+541,r00653,TRUE,Yes,Yes,No,TRUE,26,Female,26-30,Canada,Canada,Front-end Developer,Hybrid
+542,r00654,TRUE,Yes,Maybe,Yes,TRUE,22,Male,20-25,United States of America,United States of America,DevOps/SysAdmin|Support,On-site
+543,r00655,TRUE,Yes,Maybe,No,FALSE,21,Male,20-25,United States of America,United States of America,Back-end Developer,Hybrid
+544,r00656,TRUE,I don't know,Yes,Maybe,TRUE,,Male,Under 20,Canada,Canada,Back-end Developer,Hybrid
+545,r00657,FALSE,No,No,No,FALSE,34,Male,31-35,United States of America,United States of America,Executive Leadership|Supervisor/Team Lead,Hybrid
+546,r00658,TRUE,No,No,No,FALSE,25,Female,20-25,United States of America,United States of America,Back-end Developer,Hybrid
+547,r00659,TRUE,Yes,Yes,Yes,TRUE,27,Male,26-30,United States of America,United States of America,Executive Leadership|Supervisor/Team Lead|Sales,Hybrid
+548,r00660,TRUE,Yes,Yes,Yes,TRUE,25,Female,20-25,United States of America,United States of America,Back-end Developer,On-site
+549,r00661,TRUE,I don't know,Maybe,Maybe,TRUE,33,Male,31-35,United Kingdom,United Kingdom,Other|Front-end Developer|Designer,Hybrid
+550,r00663,TRUE,Yes,No,No,FALSE,36,Female,36-40,United States of America,United States of America,Other,Remote
+551,r00664,TRUE,I don't know,Maybe,Maybe,FALSE,26,Male,26-30,United Kingdom,United Kingdom,Back-end Developer,On-site
+552,r00665,TRUE,I don't know,Maybe,Maybe,FALSE,34,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,On-site
+553,r00666,TRUE,Yes,Yes,Yes,TRUE,34,Male,31-35,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+554,r00667,FALSE,I don't know,Maybe,Yes,TRUE,25,Male,20-25,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+555,r00669,TRUE,Yes,No,No,FALSE,27,Female,26-30,Canada,Canada,Front-end Developer,Hybrid
+556,r00670,TRUE,No,Maybe,No,FALSE,24,Female,20-25,Canada,Canada,Designer|Front-end Developer,On-site
+557,r00671,FALSE,Yes,Yes,No,TRUE,47,Female,46-50,United States of America,United States of America,DevOps/SysAdmin|One-person shop,Hybrid
+558,r00672,TRUE,No,Maybe,No,FALSE,37,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,Hybrid
+559,r00673,FALSE,I don't know,Yes,Yes,TRUE,35,Trans/Other,31-35,United States of America,United States of America,Designer|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Other,Hybrid
+560,r00674,FALSE,I don't know,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Support,Remote
+561,r00675,FALSE,No,No,No,FALSE,42,Male,41-45,United States of America,United States of America,Other|Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,On-site
+562,r00677,TRUE,I don't know,Maybe,Maybe,FALSE,31,Male,31-35,United States of America,United States of America,Back-end Developer,Remote
+563,r00678,TRUE,I don't know,Maybe,Maybe,TRUE,28,Female,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,Remote
+564,r00679,FALSE,I don't know,Yes,Yes,TRUE,36,Female,36-40,United States of America,United States of America,Other,Hybrid
+565,r00680,TRUE,Yes,Yes,Yes,TRUE,36,Female,36-40,United States of America,United States of America,Other,On-site
+566,r00681,FALSE,Yes,Maybe,Maybe,TRUE,32,Male,31-35,Canada,Canada,Front-end Developer,Hybrid
+567,r00683,TRUE,No,Maybe,Maybe,FALSE,41,Female,41-45,United States of America,United States of America,Supervisor/Team Lead|Front-end Developer,On-site
+568,r00684,FALSE,No,No,No,FALSE,36,Male,36-40,Sweden,Sweden,Executive Leadership,Hybrid
+569,r00685,TRUE,Yes,Yes,Yes,TRUE,23,Male,20-25,United States of America,United States of America,Back-end Developer,Hybrid
+570,r00686,FALSE,Yes,Yes,Yes,TRUE,54,Female,51-55,United States of America,United States of America,Other,On-site
+571,r00687,FALSE,No,No,No,FALSE,34,Female,31-35,United States of America,United States of America,Other,On-site
+572,r00688,TRUE,No,No,No,FALSE,36,Male,36-40,Netherlands,Netherlands,Back-end Developer|DevOps/SysAdmin,On-site
+573,r00689,TRUE,Yes,No,No,FALSE,27,Male,26-30,United States of America,United States of America,Front-end Developer,On-site
+574,r00690,TRUE,Yes,Yes,Yes,TRUE,32,Male,31-35,United States of America,United States of America,Designer,Remote
+575,r00691,TRUE,I don't know,Yes,Maybe,TRUE,21,Male,20-25,Germany,Germany,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,On-site
+576,r00692,TRUE,No,No,No,FALSE,44,Male,41-45,United States of America,United States of America,Other,Remote
+577,r00693,TRUE,I don't know,Yes,Yes,FALSE,33,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,Remote
+578,r00694,TRUE,Yes,Yes,Yes,TRUE,38,Male,36-40,United Kingdom,United Kingdom,Supervisor/Team Lead|Support,Hybrid
+579,r00695,TRUE,Yes,Maybe,No,FALSE,38,Male,36-40,Ireland,Ireland,DevOps/SysAdmin|Other,Hybrid
+580,r00697,TRUE,I don't know,No,No,FALSE,22,Female,20-25,Brazil,Brazil,Other,Remote
+581,r00699,FALSE,Yes,No,No,FALSE,27,Female,26-30,Canada,Canada,Front-end Developer,On-site
+582,r00701,FALSE,Yes,Yes,Yes,TRUE,66,Male,Over 65,United States of America,United States of America,Front-end Developer,Hybrid
+583,r00702,FALSE,Yes,Maybe,Maybe,FALSE,25,Male,20-25,United States of America,United States of America,Back-end Developer|Support|DevOps/SysAdmin,Hybrid
+584,r00703,TRUE,I don't know,No,No,FALSE,22,Male,20-25,Netherlands,Netherlands,Front-end Developer|Back-end Developer|DevOps/SysAdmin,On-site
+585,r00704,TRUE,No,No,No,FALSE,29,Male,26-30,Brazil,Brazil,Front-end Developer,Hybrid
+586,r00705,TRUE,No,Yes,No,FALSE,33,Male,31-35,New Zealand,New Zealand,Executive Leadership,On-site
+587,r00706,TRUE,I don't know,No,No,FALSE,27,Male,26-30,Sweden,Sweden,Front-end Developer|Back-end Developer|DevOps/SysAdmin,On-site
+588,r00707,TRUE,I don't know,Yes,Maybe,TRUE,44,Male,41-45,United States of America,United States of America,Front-end Developer,Hybrid
+589,r00709,FALSE,No,No,No,FALSE,32,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Designer|Front-end Developer|Support,Remote
+590,r00710,FALSE,No,No,No,FALSE,59,Female,56-60,United States of America,United States of America,Support,On-site
+591,r00713,TRUE,Yes,Yes,No,TRUE,32,Male,31-35,United States of America,United States of America,Other,Remote
+592,r00714,FALSE,I don't know,No,Maybe,FALSE,41,Male,41-45,United Kingdom,United Kingdom,Front-end Developer,On-site
+593,r00715,TRUE,Yes,Yes,Yes,TRUE,38,Female,36-40,United States of America,United States of America,Front-end Developer|Back-end Developer,Remote
+594,r00717,FALSE,Yes,Yes,No,TRUE,43,Male,41-45,United Kingdom,United Kingdom,Supervisor/Team Lead,On-site
+595,r00718,TRUE,Yes,Yes,Yes,TRUE,29,Female,26-30,United States of America,United States of America,Other,Remote
+596,r00720,TRUE,No,No,No,FALSE,25,Female,20-25,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+597,r00721,TRUE,No,Yes,Yes,TRUE,49,Male,46-50,Afghanistan,Afghanistan,Executive Leadership|Supervisor/Team Lead|Designer,On-site
+598,r00722,TRUE,Yes,No,Yes,TRUE,36,Male,36-40,Pakistan,United States of America,Other,Remote
+599,r00724,TRUE,Yes,No,No,FALSE,28,Male,26-30,United States of America,United States of America,Other,Hybrid
+600,r00725,FALSE,Yes,Yes,Yes,TRUE,37,Male,36-40,United States of America,United States of America,Support|Front-end Developer|Designer,Hybrid
+601,r00726,FALSE,Yes,Maybe,Yes,TRUE,23,Female,20-25,United States of America,United States of America,Other|Support|Back-end Developer|Front-end Developer|Designer,Hybrid
+602,r00729,FALSE,Yes,Yes,Yes,TRUE,32,Male,31-35,United States of America,United States of America,Other,On-site
+603,r00730,TRUE,I don't know,No,Maybe,FALSE,28,Male,26-30,Canada,Canada,Front-end Developer,Remote
+604,r00731,FALSE,Yes,Yes,Yes,TRUE,28,Male,26-30,United Kingdom,United Kingdom,Back-end Developer,On-site
+605,r00732,TRUE,Yes,Yes,Yes,TRUE,29,Male,26-30,United States of America,United States of America,Back-end Developer,On-site
+606,r00733,TRUE,No,Maybe,Maybe,TRUE,35,Male,31-35,United States of America,United States of America,Supervisor/Team Lead,Remote
+607,r00737,TRUE,I don't know,Maybe,Maybe,FALSE,35,Male,31-35,Sweden,Sweden,Other|Designer|Front-end Developer,Remote
+608,r00738,FALSE,I don't know,Maybe,No,FALSE,31,Male,31-35,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+609,r00740,TRUE,No,No,No,FALSE,37,Male,36-40,Canada,Canada,Front-end Developer,Remote
+610,r00741,TRUE,Yes,Yes,Yes,TRUE,34,Female,31-35,United States of America,United States of America,Support,Hybrid
+611,r00742,TRUE,Yes,Yes,No,TRUE,39,Female,36-40,United States of America,United States of America,Other|Front-end Developer,Hybrid
+612,r00744,TRUE,Yes,Yes,Yes,TRUE,29,Female,26-30,United States of America,United States of America,Back-end Developer,Remote
+613,r00745,TRUE,Yes,Yes,No,FALSE,63,Male,61-65,United States of America,United States of America,Back-end Developer,Hybrid
+614,r00750,FALSE,Yes,Yes,Yes,TRUE,28,Trans/Other,26-30,United Kingdom,United Kingdom,Support,On-site
+615,r00754,TRUE,No,No,No,FALSE,19,Male,Under 20,India,India,Front-end Developer|Back-end Developer|Support|Supervisor/Team Lead,Remote
+616,r00755,TRUE,Yes,Maybe,Maybe,FALSE,40,Male,36-40,United States of America,United States of America,Other,Remote
+617,r00756,FALSE,Yes,Maybe,No,TRUE,49,Female,46-50,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+618,r00757,TRUE,I don't know,No,No,FALSE,27,Female,26-30,Australia,Australia,Front-end Developer,Hybrid
+619,r00758,FALSE,Yes,Yes,Yes,TRUE,39,Male,36-40,United States of America,United States of America,Designer,On-site
+620,r00759,FALSE,No,Yes,Yes,TRUE,35,Male,31-35,United Kingdom,United Kingdom,Support,On-site
+621,r00760,TRUE,I don't know,Maybe,Maybe,FALSE,35,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Front-end Developer|Back-end Developer|Dev Evangelist/Advocate,Hybrid
+622,r00761,TRUE,I don't know,Yes,Yes,TRUE,42,Female,41-45,United States of America,United States of America,Designer,Hybrid
+623,r00762,TRUE,No,No,No,FALSE,35,Male,31-35,Canada,Canada,One-person shop,Hybrid
+624,r00763,TRUE,I don't know,Yes,No,TRUE,31,Female,31-35,United States of America,United States of America,Support|Back-end Developer,Hybrid
+625,r00765,TRUE,I don't know,Maybe,Maybe,FALSE,39,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Front-end Developer|Back-end Developer,Hybrid
+626,r00767,TRUE,No,No,No,FALSE,45,Male,41-45,New Zealand,New Zealand,Supervisor/Team Lead,Hybrid
+627,r00770,TRUE,Yes,Maybe,No,FALSE,29,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+628,r00771,TRUE,Yes,Yes,No,TRUE,20,Male,20-25,United States of America,United States of America,Back-end Developer,Remote
+629,r00772,TRUE,Yes,No,No,FALSE,34,Male,31-35,United States of America,United States of America,Other,On-site
+630,r00773,TRUE,No,Yes,Yes,TRUE,33,Trans/Other,31-35,United Kingdom,United Kingdom,Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,On-site
+631,r00776,TRUE,Yes,Yes,Yes,TRUE,31,Male,31-35,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+632,r00777,TRUE,Yes,Yes,Yes,TRUE,36,Male,36-40,United States of America,United States of America,Executive Leadership,Hybrid
+633,r00778,TRUE,Yes,No,Yes,FALSE,30,Male,26-30,United States of America,United States of America,Support,Remote
+634,r00779,FALSE,Yes,Yes,Maybe,TRUE,44,Female,41-45,United States of America,United States of America,Support,On-site
+635,r00780,TRUE,I don't know,Yes,Yes,TRUE,23,Female,20-25,United States of America,United States of America,Front-end Developer|Designer,Hybrid
+636,r00781,FALSE,No,No,No,FALSE,46,Male,46-50,United States of America,United States of America,Support,On-site
+637,r00782,TRUE,Yes,Yes,Yes,TRUE,33,Female,31-35,United States of America,United States of America,Front-end Developer,Remote
+638,r00783,FALSE,Yes,Yes,Maybe,TRUE,32,Female,31-35,United States of America,United States of America,Other,On-site
+639,r00785,TRUE,I don't know,Yes,Yes,FALSE,26,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+640,r00787,TRUE,No,No,No,FALSE,28,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+641,r00790,TRUE,No,No,No,FALSE,30,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+642,r00791,TRUE,Yes,Maybe,Maybe,TRUE,28,Female,26-30,United States of America,United States of America,Front-end Developer|Designer,Hybrid
+643,r00792,TRUE,Yes,Yes,Yes,TRUE,31,Male,31-35,Canada,Canada,Supervisor/Team Lead,Remote
+644,r00793,TRUE,I don't know,Maybe,Maybe,FALSE,29,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+645,r00794,TRUE,No,Maybe,Maybe,FALSE,33,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+646,r00795,TRUE,Yes,Yes,Yes,TRUE,43,Female,41-45,United States of America,United States of America,Executive Leadership,Remote
+647,r00796,TRUE,No,No,Maybe,FALSE,28,Male,26-30,Australia,Australia,Dev Evangelist/Advocate|Front-end Developer|Back-end Developer|DevOps/SysAdmin,Remote
+648,r00798,TRUE,Yes,Yes,Yes,TRUE,38,Male,36-40,United States of America,United States of America,Dev Evangelist/Advocate,Remote
+649,r00799,FALSE,No,Yes,Maybe,TRUE,30,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Support|One-person shop,Hybrid
+650,r00801,TRUE,No,No,No,FALSE,48,Female,46-50,United States of America,United States of America,Executive Leadership,On-site
+651,r00803,TRUE,No,No,No,FALSE,28,Male,26-30,Australia,Australia,Designer|Support|Supervisor/Team Lead,Hybrid
+652,r00804,TRUE,Yes,Yes,Maybe,TRUE,37,Male,36-40,United States of America,United States of America,Front-end Developer|Designer,Remote
+653,r00805,TRUE,I don't know,Yes,No,FALSE,33,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+654,r00806,TRUE,No,No,Yes,FALSE,21,Male,20-25,Australia,Australia,Front-end Developer,On-site
+655,r00807,FALSE,Yes,Yes,No,TRUE,25,Male,20-25,United States of America,United States of America,Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer|One-person shop,Hybrid
+656,r00809,TRUE,Yes,Yes,Yes,TRUE,40,Male,36-40,United States of America,United States of America,Back-end Developer,Remote
+657,r00810,FALSE,Yes,Yes,Maybe,TRUE,30,Female,26-30,Canada,Canada,Front-end Developer,Hybrid
+658,r00812,TRUE,No,No,No,FALSE,25,Male,20-25,India,India,Back-end Developer|Front-end Developer,On-site
+659,r00813,TRUE,No,No,No,FALSE,38,Male,36-40,Germany,Germany,Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,Hybrid
+660,r00814,FALSE,Yes,No,Maybe,FALSE,24,Male,20-25,United Kingdom,United Kingdom,Support|Designer,On-site
+661,r00815,TRUE,No,No,No,FALSE,23,Male,20-25,United Kingdom,United Kingdom,Back-end Developer,On-site
+662,r00817,TRUE,No,No,No,FALSE,26,Male,26-30,United States of America,United States of America,Other|Supervisor/Team Lead|Back-end Developer|Front-end Developer,Hybrid
+663,r00818,FALSE,No,No,No,FALSE,43,Male,41-45,United Kingdom,United Kingdom,Support,On-site
+664,r00819,TRUE,Yes,Maybe,Maybe,FALSE,30,Male,26-30,New Zealand,New Zealand,Executive Leadership|Supervisor/Team Lead|Front-end Developer|Back-end Developer,Remote
+665,r00821,FALSE,I don't know,Maybe,Maybe,FALSE,40,Male,36-40,United Kingdom,United Kingdom,Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead|Executive Leadership,Hybrid
+666,r00822,FALSE,Yes,Yes,Yes,FALSE,33,Female,31-35,United Kingdom,United Kingdom,Supervisor/Team Lead|DevOps/SysAdmin|Support|Front-end Developer|Designer|One-person shop,On-site
+667,r00824,TRUE,I don't know,No,No,FALSE,22,Male,20-25,United Kingdom,United Kingdom,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate,On-site
+668,r00825,TRUE,Yes,Yes,Yes,TRUE,28,Male,26-30,United States of America,United States of America,Back-end Developer,Remote
+669,r00826,TRUE,Yes,Yes,Yes,TRUE,39,Male,36-40,United States of America,United States of America,Support,Hybrid
+670,r00827,TRUE,I don't know,No,No,FALSE,33,Male,31-35,United States of America,United States of America,Support,Remote
+671,r00829,TRUE,No,No,No,FALSE,37,Male,36-40,United States of America,United States of America,Executive Leadership|Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin,Hybrid
+672,r00830,TRUE,Yes,Yes,Yes,TRUE,41,Female,41-45,France,France,Front-end Developer,On-site
+673,r00831,TRUE,Yes,Yes,Yes,TRUE,30,Female,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+674,r00832,TRUE,Yes,Yes,No,FALSE,42,Male,41-45,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+675,r00833,TRUE,No,No,No,FALSE,52,Male,51-55,United States of America,United States of America,Support|Front-end Developer|Back-end Developer,Hybrid
+676,r00834,TRUE,No,No,No,FALSE,30,Male,26-30,Romania,United States of America,Back-end Developer,Remote
+677,r00835,TRUE,I don't know,Yes,Yes,FALSE,35,Male,31-35,United States of America,United States of America,Front-end Developer|Designer,Hybrid
+678,r00836,TRUE,No,Yes,No,TRUE,24,Male,20-25,United States of America,United States of America,Other,Hybrid
+679,r00837,TRUE,I don't know,No,No,FALSE,39,Male,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+680,r00838,TRUE,Yes,No,No,FALSE,34,Male,31-35,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+681,r00841,FALSE,I don't know,Maybe,Maybe,FALSE,43,Male,41-45,Poland,Poland,Back-end Developer,On-site
+682,r00842,TRUE,No,No,No,FALSE,39,Male,36-40,United States of America,United States of America,Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,Hybrid
+683,r00844,TRUE,Yes,Yes,Yes,TRUE,34,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer,Hybrid
+684,r00845,FALSE,No,No,No,FALSE,38,Male,36-40,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+685,r00846,TRUE,I don't know,Yes,Yes,TRUE,26,Female,26-30,United States of America,United States of America,Support,Remote
+686,r00847,TRUE,Yes,No,No,FALSE,24,Male,20-25,Bulgaria,Bulgaria,Back-end Developer,Hybrid
+687,r00848,FALSE,Yes,Yes,Yes,TRUE,27,Female,26-30,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer,Hybrid
+688,r00849,TRUE,No,Yes,Yes,FALSE,25,Male,20-25,United States of America,United States of America,One-person shop,On-site
+689,r00851,FALSE,Yes,Maybe,No,FALSE,33,Male,31-35,Canada,Canada,Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Designer|Front-end Developer,Hybrid
+690,r00852,FALSE,No,Yes,Yes,TRUE,34,Male,31-35,United States of America,United States of America,Support,Hybrid
+691,r00853,TRUE,I don't know,Yes,Yes,TRUE,27,Male,26-30,Canada,Canada,Designer,Hybrid
+692,r00854,TRUE,Yes,Yes,Maybe,TRUE,33,Male,31-35,United States of America,United States of America,Support,Hybrid
+693,r00855,TRUE,Yes,Yes,Yes,TRUE,50,Male,46-50,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+694,r00857,TRUE,I don't know,Yes,No,TRUE,32,Female,31-35,Canada,Canada,Supervisor/Team Lead|Sales,Hybrid
+695,r00858,TRUE,No,No,No,FALSE,39,Male,36-40,Canada,Canada,Front-end Developer,Hybrid
+696,r00859,TRUE,No,No,No,FALSE,36,Male,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer|Designer,Hybrid
+697,r00860,TRUE,No,Maybe,No,FALSE,34,Male,31-35,Canada,Canada,Front-end Developer,Hybrid
+698,r00861,TRUE,Yes,Yes,Maybe,FALSE,31,Female,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+699,r00862,FALSE,Yes,Yes,Maybe,TRUE,36,Male,36-40,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,On-site
+700,r00863,FALSE,I don't know,No,No,FALSE,48,Male,46-50,United States of America,United States of America,Other|DevOps/SysAdmin|Support|Back-end Developer,Hybrid
+701,r00864,TRUE,Yes,Yes,Maybe,TRUE,31,Male,31-35,United States of America,United States of America,Back-end Developer,On-site
+702,r00865,TRUE,No,No,No,FALSE,32,Male,31-35,United States of America,United States of America,Other,Remote
+703,r00866,TRUE,No,No,No,FALSE,32,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Support|DevOps/SysAdmin,Remote
+704,r00868,TRUE,Yes,No,Yes,TRUE,28,Female,26-30,United States of America,United States of America,Designer,Hybrid
+705,r00869,FALSE,Yes,Yes,Yes,TRUE,28,Male,26-30,United Kingdom,United Kingdom,Supervisor/Team Lead|Back-end Developer|Front-end Developer,On-site
+706,r00870,TRUE,Yes,Yes,Yes,TRUE,33,Female,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+707,r00874,TRUE,I don't know,Maybe,Maybe,TRUE,37,Male,36-40,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer,Remote
+708,r00875,TRUE,No,Yes,No,TRUE,27,Female,26-30,Germany,Germany,Back-end Developer|Front-end Developer,Remote
+709,r00876,TRUE,No,No,Maybe,FALSE,39,Male,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer,Remote
+710,r00878,FALSE,I don't know,No,No,FALSE,34,Female,31-35,United States of America,United States of America,Front-end Developer,On-site
+711,r00880,TRUE,I don't know,Maybe,Maybe,FALSE,31,Female,31-35,Other,Other,Support|Other,Remote
+712,r00881,FALSE,Yes,Maybe,Maybe,TRUE,39,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,Hybrid
+713,r00882,TRUE,Yes,Yes,No,TRUE,46,Male,46-50,United States of America,United States of America,Support|Back-end Developer|Front-end Developer,Hybrid
+714,r00883,TRUE,No,No,Maybe,FALSE,28,Male,26-30,United States of America,United States of America,Front-end Developer,Hybrid
+715,r00884,TRUE,No,No,No,FALSE,32,Male,31-35,France,France,Back-end Developer,Hybrid
+716,r00889,FALSE,No,Yes,Yes,TRUE,51,Male,51-55,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+717,r00890,FALSE,I don't know,Maybe,Maybe,FALSE,29,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+718,r00893,TRUE,Yes,Maybe,Maybe,FALSE,32,Male,31-35,Iran,Iran,Other|Dev Evangelist/Advocate|Support,Hybrid
+719,r00895,FALSE,Yes,Maybe,No,FALSE,52,Male,51-55,Switzerland,Switzerland,Support|Designer|Front-end Developer,On-site
+720,r00898,FALSE,I don't know,Yes,Maybe,TRUE,35,Male,31-35,United States of America,United States of America,Other|Dev Evangelist/Advocate|Support,On-site
+721,r00903,TRUE,No,No,No,FALSE,38,Male,36-40,Ireland,Ireland,Designer|Supervisor/Team Lead,Hybrid
+722,r00904,FALSE,No,Maybe,Maybe,FALSE,27,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,On-site
+723,r00905,TRUE,Yes,Yes,Yes,FALSE,40,Female,36-40,United States of America,United States of America,Other,Remote
+724,r00906,FALSE,No,Maybe,No,FALSE,32,Male,31-35,South Africa,South Africa,Front-end Developer,On-site
+725,r00908,FALSE,I don't know,Yes,Yes,TRUE,28,Female,26-30,Germany,Germany,Other,On-site
+726,r00910,FALSE,Yes,No,No,FALSE,42,Male,41-45,United States of America,United States of America,Front-end Developer,Hybrid
+727,r00911,TRUE,Yes,Yes,Maybe,TRUE,31,Male,31-35,United States of America,United States of America,Executive Leadership|Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop,Hybrid
+728,r00913,TRUE,Yes,Yes,Yes,TRUE,35,Male,31-35,Canada,Canada,Designer,On-site
+729,r00915,TRUE,Yes,Yes,Yes,TRUE,35,Male,31-35,Australia,Australia,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+730,r00916,TRUE,Yes,Yes,Yes,TRUE,24,Male,20-25,United States of America,United States of America,Back-end Developer,On-site
+731,r00917,TRUE,No,No,No,FALSE,23,Male,20-25,India,India,Back-end Developer,Hybrid
+732,r00919,TRUE,No,No,No,FALSE,38,Male,36-40,France,France,Executive Leadership,Remote
+733,r00923,TRUE,No,No,No,FALSE,33,Male,31-35,France,France,Back-end Developer,Hybrid
+734,r00924,TRUE,No,No,No,FALSE,35,Male,31-35,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+735,r00926,TRUE,I don't know,No,No,FALSE,30,Female,26-30,Germany,Germany,Other,On-site
+736,r00928,TRUE,Yes,Maybe,Maybe,FALSE,28,Male,26-30,United States of America,United States of America,Front-end Developer,Hybrid
+737,r00929,TRUE,I don't know,Yes,No,TRUE,39,Male,36-40,Germany,Germany,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,Hybrid
+738,r00930,TRUE,Yes,Yes,Yes,TRUE,21,Trans/Other,20-25,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,Remote
+739,r00931,TRUE,Yes,No,No,FALSE,31,Male,31-35,Germany,Germany,Front-end Developer|Back-end Developer|Supervisor/Team Lead,Hybrid
+740,r00932,TRUE,No,No,Maybe,FALSE,30,Male,26-30,United States of America,United States of America,Front-end Developer|Back-end Developer|Dev Evangelist/Advocate,Hybrid
+741,r00933,TRUE,No,No,No,FALSE,25,Female,20-25,United States of America,United States of America,Other,Hybrid
+742,r00934,TRUE,No,No,No,FALSE,26,Male,26-30,United Kingdom,United Kingdom,Back-end Developer,Remote
+743,r00935,TRUE,No,Maybe,No,FALSE,30,Male,26-30,United States of America,United States of America,Executive Leadership|Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,On-site
+744,r00936,TRUE,No,No,No,FALSE,30,Male,26-30,Italy,Italy,Back-end Developer,On-site
+745,r00937,TRUE,No,No,No,FALSE,31,Male,31-35,Bulgaria,Bulgaria,Front-end Developer|Back-end Developer|Supervisor/Team Lead|Executive Leadership,Remote
+746,r00938,TRUE,Yes,Yes,Yes,TRUE,32,Male,31-35,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+747,r00939,FALSE,Yes,Yes,Yes,TRUE,45,Female,41-45,United Kingdom,United Kingdom,Back-end Developer,Remote
+748,r00941,TRUE,Yes,Yes,Maybe,FALSE,27,Male,26-30,United States of America,United States of America,Front-end Developer|Back-end Developer,Remote
+749,r00942,TRUE,I don't know,Yes,Yes,FALSE,28,Female,26-30,United Kingdom,United Kingdom,Front-end Developer,Remote
+750,r00943,TRUE,Yes,No,No,FALSE,38,Male,36-40,United States of America,United States of America,Back-end Developer|DevOps/SysAdmin,Remote
+751,r00944,FALSE,Yes,Yes,Yes,TRUE,38,Male,36-40,United States of America,United States of America,Front-end Developer|Designer,Hybrid
+752,r00945,TRUE,Yes,Yes,No,TRUE,34,Male,31-35,Hungary,Hungary,Other,Hybrid
+753,r00947,TRUE,No,No,No,FALSE,23,Male,20-25,France,France,Back-end Developer,Hybrid
+754,r00948,FALSE,Yes,Yes,Maybe,TRUE,40,Female,36-40,United States of America,United States of America,Other,Hybrid
+755,r00950,TRUE,Yes,Yes,Maybe,TRUE,28,Male,26-30,United States of America,United States of America,Front-end Developer,On-site
+756,r00951,TRUE,No,No,No,FALSE,33,Male,31-35,United States of America,United States of America,Front-end Developer|Back-end Developer,Hybrid
+757,r00953,FALSE,Yes,Yes,Yes,TRUE,32,Male,31-35,United States of America,United States of America,Other,On-site
+758,r00954,TRUE,Yes,Yes,Maybe,TRUE,27,Male,26-30,United States of America,United States of America,Other|DevOps/SysAdmin|Back-end Developer,On-site
+759,r00955,TRUE,No,Yes,No,TRUE,33,Male,31-35,Israel,Israel,Front-end Developer|Back-end Developer,On-site
+760,r00956,FALSE,Yes,No,No,FALSE,34,Male,31-35,Japan,Japan,Supervisor/Team Lead|DevOps/SysAdmin|Front-end Developer|Back-end Developer,On-site
+761,r00958,FALSE,I don't know,No,No,FALSE,35,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,On-site
+762,r00959,TRUE,No,Maybe,No,FALSE,39,Male,36-40,United States of America,United States of America,Other|Back-end Developer|Supervisor/Team Lead,Hybrid
+763,r00960,FALSE,No,No,No,FALSE,35,Male,31-35,United States of America,United States of America,Supervisor/Team Lead,On-site
+764,r00961,FALSE,No,No,Yes,FALSE,34,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+765,r00963,FALSE,No,Yes,No,FALSE,42,Male,41-45,United States of America,United States of America,Supervisor/Team Lead,Remote
+766,r00964,FALSE,No,No,No,FALSE,30,Male,26-30,United States of America,United States of America,Front-end Developer|Designer,Remote
+767,r00965,FALSE,Yes,Maybe,Maybe,FALSE,55,Male,51-55,United States of America,United States of America,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,On-site
+768,r00966,TRUE,Yes,Maybe,Maybe,TRUE,46,Male,46-50,United States of America,United States of America,Back-end Developer,Hybrid
+769,r00967,FALSE,Yes,Yes,Yes,TRUE,33,Male,31-35,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer,Hybrid
+770,r00968,FALSE,Yes,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|Support|Back-end Developer,Hybrid
+771,r00969,TRUE,Yes,Yes,Yes,TRUE,30,Male,26-30,United Kingdom,United Kingdom,Supervisor/Team Lead,Hybrid
+772,r00970,TRUE,I don't know,Maybe,Maybe,FALSE,31,Female,31-35,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+773,r00971,TRUE,No,Yes,Yes,TRUE,38,Male,36-40,Ireland,Ireland,DevOps/SysAdmin,Hybrid
+774,r00972,TRUE,Yes,No,No,FALSE,30,Female,26-30,United Kingdom,United Kingdom,Support|Back-end Developer,Hybrid
+775,r00973,TRUE,Yes,Yes,Yes,TRUE,32,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+776,r00974,FALSE,I don't know,Yes,Yes,TRUE,32,Male,31-35,United Kingdom,United Kingdom,Supervisor/Team Lead,On-site
+777,r00975,TRUE,Yes,Yes,Yes,TRUE,47,Male,46-50,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,Hybrid
+778,r00976,TRUE,I don't know,Maybe,Maybe,FALSE,39,Male,36-40,United Kingdom,United Kingdom,DevOps/SysAdmin,Remote
+779,r00977,FALSE,Yes,Yes,Yes,TRUE,35,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,Hybrid
+780,r00978,TRUE,No,Yes,Yes,TRUE,36,Male,36-40,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+781,r00979,FALSE,No,No,No,FALSE,38,Female,36-40,United States of America,United States of America,Front-end Developer,Remote
+782,r00980,TRUE,I don't know,Yes,Maybe,FALSE,30,Male,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+783,r00981,TRUE,Yes,Maybe,No,FALSE,33,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+784,r00982,TRUE,Yes,Yes,Yes,FALSE,22,Male,20-25,United States of America,United States of America,Front-end Developer,On-site
+785,r00984,FALSE,I don't know,No,No,FALSE,26,Male,26-30,United States of America,United States of America,Support|DevOps/SysAdmin,On-site
+786,r00985,TRUE,No,Maybe,Maybe,FALSE,34,Male,31-35,United States of America,United States of America,Front-end Developer|Back-end Developer|DevOps/SysAdmin,Remote
+787,r00987,TRUE,No,Maybe,Yes,TRUE,37,Male,36-40,Bulgaria,Bulgaria,Supervisor/Team Lead|Back-end Developer|Front-end Developer,Remote
+788,r00988,TRUE,No,No,No,FALSE,43,Male,41-45,Switzerland,Switzerland,Executive Leadership|Back-end Developer|Front-end Developer,Hybrid
+789,r00990,TRUE,Yes,Yes,Yes,TRUE,30,Female,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+790,r00991,TRUE,Yes,Maybe,Maybe,FALSE,32,Male,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+791,r00992,FALSE,No,No,No,FALSE,35,Male,31-35,United States of America,United States of America,Other,Remote
+792,r00993,TRUE,No,No,No,FALSE,29,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+793,r00994,FALSE,I don't know,Yes,Maybe,FALSE,29,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Support|Front-end Developer|Back-end Developer,On-site
+794,r00995,TRUE,I don't know,No,No,FALSE,30,Male,26-30,United States of America,United States of America,Back-end Developer,Remote
+795,r00996,TRUE,Yes,Maybe,Yes,FALSE,30,Male,26-30,United States of America,United States of America,Supervisor/Team Lead,On-site
+796,r00997,TRUE,Yes,Yes,Yes,TRUE,38,Male,36-40,United States of America,United States of America,Designer,Remote
+797,r00998,FALSE,Yes,Yes,Maybe,FALSE,30,Male,26-30,Brazil,Brazil,Back-end Developer,On-site
+798,r00999,TRUE,Yes,No,Yes,TRUE,26,Male,26-30,Netherlands,Netherlands,Back-end Developer,On-site
+799,r01001,TRUE,No,No,No,FALSE,24,Male,20-25,United States of America,United States of America,Front-end Developer|Back-end Developer,Remote
+800,r01002,TRUE,No,No,No,FALSE,35,Male,31-35,United States of America,United States of America,Other,On-site
+801,r01003,TRUE,No,Maybe,Maybe,TRUE,38,Male,36-40,Sweden,Sweden,Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer|Designer|Front-end Developer,Hybrid
+802,r01004,TRUE,No,Yes,Yes,TRUE,36,Trans/Other,36-40,United States of America,United States of America,Supervisor/Team Lead|Front-end Developer,Hybrid
+803,r01006,TRUE,I don't know,Yes,Maybe,TRUE,35,Male,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+804,r01007,TRUE,I don't know,No,No,FALSE,25,Male,20-25,United States of America,United States of America,Supervisor/Team Lead|Support|Front-end Developer|Back-end Developer,Hybrid
+805,r01008,TRUE,No,Yes,Maybe,TRUE,32,Female,31-35,Sweden,Sweden,Other,On-site
+806,r01009,TRUE,Yes,No,No,FALSE,32,Female,31-35,United States of America,United States of America,Front-end Developer,On-site
+807,r01011,TRUE,No,Yes,Maybe,FALSE,28,Male,26-30,Germany,Germany,Back-end Developer,Hybrid
+808,r01012,TRUE,I don't know,Maybe,No,FALSE,34,Female,31-35,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+809,r01013,TRUE,Yes,Yes,Yes,TRUE,40,Female,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+810,r01014,TRUE,I don't know,Yes,No,TRUE,45,Male,41-45,United States of America,United States of America,Other|Dev Evangelist/Advocate,On-site
+811,r01015,TRUE,Yes,No,No,FALSE,31,Male,31-35,Sweden,Sweden,Back-end Developer|Supervisor/Team Lead|Other,Hybrid
+812,r01016,FALSE,Yes,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer|Designer,Hybrid
+813,r01017,FALSE,No,No,No,FALSE,47,Female,46-50,United Kingdom,United Kingdom,Supervisor/Team Lead,Hybrid
+814,r01018,TRUE,No,No,No,FALSE,48,Male,46-50,United Kingdom,United Kingdom,Front-end Developer|Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead,Hybrid
+815,r01020,TRUE,Yes,Maybe,Maybe,TRUE,29,Male,26-30,United States of America,United States of America,Other|Support,On-site
+816,r01021,FALSE,No,No,No,FALSE,52,Male,51-55,United States of America,United States of America,Supervisor/Team Lead,Remote
+817,r01022,TRUE,No,Yes,No,FALSE,34,Female,31-35,Sweden,Sweden,Other,Hybrid
+818,r01023,TRUE,No,No,No,FALSE,34,Male,31-35,Netherlands,Netherlands,Other,On-site
+819,r01024,TRUE,No,No,No,FALSE,27,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+820,r01025,TRUE,I don't know,Maybe,Maybe,FALSE,30,Male,26-30,Russia,Russia,Front-end Developer,Hybrid
+821,r01026,TRUE,Yes,Yes,Maybe,FALSE,40,Male,36-40,United Kingdom,United Kingdom,Executive Leadership,Hybrid
+822,r01029,FALSE,Yes,Yes,Yes,FALSE,35,Male,31-35,United Kingdom,United Kingdom,DevOps/SysAdmin,Remote
+823,r01030,FALSE,No,No,No,FALSE,43,Female,41-45,United Kingdom,United Kingdom,Supervisor/Team Lead,On-site
+824,r01031,FALSE,I don't know,Yes,Yes,TRUE,36,Female,36-40,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+825,r01032,FALSE,No,No,No,FALSE,32,Female,31-35,United States of America,United States of America,Other|Supervisor/Team Lead|Front-end Developer,Hybrid
+826,r01034,TRUE,Yes,Yes,Yes,TRUE,38,Male,36-40,New Zealand,New Zealand,Other,On-site
+827,r01035,FALSE,No,Yes,Maybe,FALSE,35,Male,31-35,United States of America,United States of America,Other|Supervisor/Team Lead,Remote
+828,r01036,TRUE,Yes,Yes,Yes,TRUE,35,Female,31-35,Australia,Australia,DevOps/SysAdmin|Designer,Hybrid
+829,r01037,TRUE,Yes,No,Yes,TRUE,45,Male,41-45,United States of America,United States of America,DevOps/SysAdmin,Remote
+830,r01039,TRUE,Yes,No,No,FALSE,27,Male,26-30,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+831,r01040,TRUE,Yes,Yes,No,TRUE,26,Male,26-30,United States of America,United States of America,Front-end Developer|Back-end Developer,Hybrid
+832,r01042,TRUE,Yes,Yes,Yes,TRUE,25,Male,20-25,Ecuador,Ecuador,Back-end Developer|Front-end Developer,Hybrid
+833,r01043,TRUE,No,Maybe,Maybe,FALSE,41,Male,41-45,South Africa,South Africa,DevOps/SysAdmin,Hybrid
+834,r01044,FALSE,No,No,No,FALSE,34,Male,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+835,r01045,TRUE,Yes,No,No,FALSE,43,Male,41-45,Sweden,Sweden,Back-end Developer,On-site
+836,r01046,TRUE,Yes,Yes,Yes,TRUE,33,Male,31-35,United Kingdom,United Kingdom,Supervisor/Team Lead,On-site
+837,r01048,TRUE,Yes,Yes,Yes,TRUE,27,Female,26-30,United Kingdom,United Kingdom,Back-end Developer,On-site
+838,r01050,FALSE,Yes,No,No,FALSE,38,Male,36-40,Italy,Italy,DevOps/SysAdmin,On-site
+839,r01051,TRUE,I don't know,Yes,No,TRUE,42,Male,41-45,Germany,Germany,Back-end Developer,Hybrid
+840,r01052,TRUE,No,Maybe,No,FALSE,30,Male,26-30,United Kingdom,United Kingdom,Designer|Front-end Developer,Hybrid
+841,r01053,TRUE,Yes,Yes,No,TRUE,43,Male,41-45,Australia,Australia,Supervisor/Team Lead|DevOps/SysAdmin|HR,Hybrid
+842,r01055,TRUE,Yes,No,No,FALSE,37,Female,36-40,Australia,Australia,DevOps/SysAdmin|Designer|Front-end Developer|Back-end Developer,Remote
+843,r01056,TRUE,No,Yes,Yes,TRUE,25,Male,20-25,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+844,r01057,TRUE,Yes,Yes,Yes,TRUE,27,Male,26-30,Australia,Australia,Front-end Developer|Back-end Developer|DevOps/SysAdmin,Hybrid
+845,r01059,FALSE,No,Yes,Yes,TRUE,27,Male,26-30,United States of America,United States of America,DevOps/SysAdmin,On-site
+846,r01061,TRUE,No,Yes,Maybe,FALSE,24,Male,20-25,United Kingdom,United Kingdom,Front-end Developer,On-site
+847,r01062,TRUE,Yes,Yes,Yes,TRUE,31,Trans/Other,31-35,Switzerland,Switzerland,Back-end Developer,On-site
+848,r01063,TRUE,No,Maybe,Maybe,FALSE,31,Male,31-35,Germany,Germany,Front-end Developer|Back-end Developer|Other,Hybrid
+849,r01064,TRUE,No,No,No,FALSE,32,Male,31-35,United States of America,United States of America,Other,Hybrid
+850,r01065,TRUE,No,Yes,Yes,TRUE,33,Male,31-35,Australia,Australia,Back-end Developer,Hybrid
+851,r01067,TRUE,Yes,Yes,Maybe,FALSE,43,Male,41-45,United States of America,United States of America,Other|Dev Evangelist/Advocate,Hybrid
+852,r01068,TRUE,I don't know,Yes,Yes,TRUE,49,Male,46-50,Australia,Australia,Back-end Developer,Hybrid
+853,r01069,TRUE,No,Maybe,No,FALSE,35,Male,31-35,Bulgaria,Bulgaria,DevOps/SysAdmin|Supervisor/Team Lead,Hybrid
+854,r01070,TRUE,No,Yes,No,TRUE,53,Male,51-55,Canada,Canada,Front-end Developer|Back-end Developer,Hybrid
+855,r01071,TRUE,Yes,Yes,Yes,TRUE,45,Male,41-45,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+856,r01072,TRUE,I don't know,No,Maybe,FALSE,40,Male,36-40,United States of America,United States of America,Support|Sales|Designer,Hybrid
+857,r01073,FALSE,Yes,Yes,No,FALSE,52,Male,51-55,United States of America,United States of America,Back-end Developer,Hybrid
+858,r01075,TRUE,No,Yes,No,TRUE,41,Male,41-45,New Zealand,New Zealand,Back-end Developer,Remote
+859,r01077,TRUE,I don't know,No,Maybe,FALSE,31,Male,31-35,Switzerland,Switzerland,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+860,r01079,TRUE,Yes,Yes,Maybe,TRUE,44,Male,41-45,Australia,Australia,Executive Leadership,Hybrid
+861,r01080,TRUE,Yes,Yes,Yes,TRUE,37,Male,36-40,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer,Hybrid
+862,r01081,FALSE,Yes,No,Yes,TRUE,22,Male,20-25,Brazil,Brazil,Front-end Developer,Remote
+863,r01082,TRUE,Yes,Yes,Yes,TRUE,31,Female,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+864,r01083,TRUE,I don't know,No,Maybe,FALSE,36,Female,36-40,Bulgaria,Bulgaria,Back-end Developer,Hybrid
+865,r01085,FALSE,Yes,No,No,FALSE,25,Female,20-25,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+866,r01087,TRUE,Yes,Yes,Yes,TRUE,22,Female,20-25,United States of America,United States of America,Other|Back-end Developer,Remote
+867,r01090,TRUE,I don't know,Yes,Maybe,TRUE,36,Female,36-40,United States of America,United States of America,Other,Hybrid
+868,r01091,TRUE,Yes,Yes,Yes,TRUE,26,Female,26-30,United States of America,United States of America,Dev Evangelist/Advocate,Hybrid
+869,r01092,FALSE,Yes,Yes,Yes,TRUE,43,Male,41-45,United States of America,United States of America,Other,Hybrid
+870,r01094,TRUE,Yes,Yes,No,TRUE,39,Male,36-40,Australia,Australia,Other|Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Support,Hybrid
+871,r01095,FALSE,I don't know,Yes,Yes,TRUE,46,Male,46-50,United Kingdom,United Kingdom,Other|Front-end Developer|Designer|One-person shop,Hybrid
+872,r01096,TRUE,Yes,Yes,No,FALSE,32,Male,31-35,United Kingdom,United Kingdom,Supervisor/Team Lead|Executive Leadership,Hybrid
+873,r01099,TRUE,I don't know,Maybe,Maybe,TRUE,44,Male,41-45,Sweden,Sweden,Front-end Developer,Hybrid
+874,r01100,FALSE,Yes,Yes,Yes,TRUE,36,Male,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+875,r01101,FALSE,No,No,No,FALSE,31,Female,31-35,United Kingdom,United Kingdom,Support,On-site
+876,r01103,TRUE,Yes,Yes,Yes,TRUE,36,Male,36-40,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+877,r01105,TRUE,No,No,No,FALSE,23,Male,20-25,Canada,Canada,Front-end Developer,On-site
+878,r01106,TRUE,I don't know,No,Yes,TRUE,23,Male,20-25,Canada,Canada,Other,Remote
+879,r01109,TRUE,No,No,No,FALSE,49,Female,46-50,United States of America,United States of America,Supervisor/Team Lead|Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin,Hybrid
+880,r01110,TRUE,I don't know,No,Maybe,FALSE,25,Male,20-25,Bosnia and Herzegovina,Bosnia and Herzegovina,Back-end Developer,On-site
+881,r01111,FALSE,No,Maybe,Maybe,FALSE,39,Male,36-40,United Kingdom,United Kingdom,Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|One-person shop,Hybrid
+882,r01112,TRUE,No,No,No,FALSE,37,Male,36-40,Germany,Germany,Front-end Developer|Back-end Developer,On-site
+883,r01113,TRUE,No,No,No,FALSE,26,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+884,r01114,TRUE,Yes,Yes,Yes,TRUE,41,Male,41-45,United States of America,United States of America,Back-end Developer,Hybrid
+885,r01115,TRUE,No,No,No,FALSE,28,Male,26-30,Netherlands,Netherlands,Supervisor/Team Lead|Back-end Developer|Front-end Developer,On-site
+886,r01116,TRUE,I don't know,Yes,Maybe,TRUE,33,Male,31-35,Sweden,Sweden,Front-end Developer|Back-end Developer,Hybrid
+887,r01117,FALSE,No,No,No,FALSE,74,Female,Over 65,United States of America,United States of America,Support|Back-end Developer,Hybrid
+888,r01118,FALSE,Yes,Yes,Yes,TRUE,28,Male,26-30,Netherlands,Netherlands,Back-end Developer,Hybrid
+889,r01119,TRUE,Yes,Yes,Yes,TRUE,47,Male,46-50,United States of America,United States of America,Other,Hybrid
+890,r01120,FALSE,I don't know,No,Maybe,FALSE,25,Male,20-25,Bosnia and Herzegovina,Bosnia and Herzegovina,Supervisor/Team Lead,On-site
+891,r01121,FALSE,Yes,Yes,No,TRUE,51,Male,51-55,United States of America,United States of America,Supervisor/Team Lead,On-site
+892,r01122,TRUE,No,Yes,Yes,TRUE,26,Male,26-30,United States of America,United States of America,Back-end Developer,On-site
+893,r01123,TRUE,Yes,Maybe,Maybe,FALSE,24,Male,20-25,United States of America,United States of America,Front-end Developer|Back-end Developer,On-site
+894,r01125,TRUE,Yes,Yes,Yes,TRUE,32,Female,31-35,United States of America,United States of America,Designer,Hybrid
+895,r01126,TRUE,No,No,No,FALSE,57,Male,56-60,United States of America,United States of America,Executive Leadership,Remote
+896,r01127,FALSE,Yes,Yes,Yes,TRUE,39,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer,On-site
+897,r01128,TRUE,Yes,Yes,Yes,TRUE,26,Female,26-30,United States of America,United States of America,Other,Hybrid
+898,r01129,FALSE,Yes,Maybe,Maybe,FALSE,38,Male,36-40,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+899,r01130,TRUE,Yes,Yes,No,TRUE,33,Male,31-35,Finland,Finland,Back-end Developer,Hybrid
+900,r01131,TRUE,Yes,Maybe,Maybe,FALSE,30,Male,26-30,United States of America,United States of America,Front-end Developer|Designer,Hybrid
+901,r01132,TRUE,Yes,Yes,Yes,TRUE,25,Female,20-25,United States of America,United States of America,Back-end Developer,Hybrid
+902,r01133,TRUE,Yes,Yes,Yes,TRUE,40,Male,36-40,United States of America,United States of America,Other,Hybrid
+903,r01134,FALSE,Yes,Yes,Yes,TRUE,26,Female,26-30,United States of America,United States of America,Front-end Developer,Hybrid
+904,r01135,FALSE,Yes,Yes,Yes,TRUE,34,Male,31-35,United States of America,United States of America,Support,On-site
+905,r01136,FALSE,Yes,Yes,Maybe,TRUE,46,Female,46-50,United States of America,United States of America,Front-end Developer,Hybrid
+906,r01137,FALSE,Yes,Yes,Yes,TRUE,31,Female,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+907,r01139,TRUE,No,No,No,FALSE,30,Male,26-30,United States of America,United States of America,Back-end Developer|Dev Evangelist/Advocate,Hybrid
+908,r01141,TRUE,No,Yes,Maybe,TRUE,29,Male,26-30,Austria,Austria,Back-end Developer|Front-end Developer,On-site
+909,r01142,TRUE,Yes,Yes,Yes,TRUE,31,Male,31-35,United States of America,United States of America,Dev Evangelist/Advocate,On-site
+910,r01143,TRUE,I don't know,Yes,No,TRUE,40,Male,36-40,United States of America,United States of America,Back-end Developer,Remote
+911,r01144,TRUE,I don't know,Maybe,Yes,TRUE,39,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|Support|Back-end Developer|Front-end Developer,Remote
+912,r01145,TRUE,No,No,Maybe,FALSE,37,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer|Designer,Hybrid
+913,r01146,TRUE,No,No,No,FALSE,27,Male,26-30,United States of America,United States of America,Front-end Developer|Back-end Developer,Remote
+914,r01147,TRUE,No,No,No,FALSE,45,Male,41-45,United States of America,United States of America,Back-end Developer,Remote
+915,r01148,TRUE,Yes,No,No,FALSE,29,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,Hybrid
+916,r01149,TRUE,No,No,No,FALSE,47,Female,46-50,United States of America,United States of America,Other,Hybrid
+917,r01150,TRUE,No,No,No,FALSE,33,Male,31-35,United States of America,United States of America,Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer,Remote
+918,r01151,TRUE,No,No,No,FALSE,32,Male,31-35,United States of America,United States of America,Back-end Developer,Remote
+919,r01152,TRUE,No,No,No,FALSE,29,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Support|Back-end Developer,Hybrid
+920,r01153,TRUE,Yes,Yes,Yes,TRUE,36,Male,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+921,r01154,TRUE,I don't know,No,No,FALSE,35,Female,31-35,United States of America,United States of America,Front-end Developer|Back-end Developer,On-site
+922,r01155,TRUE,Yes,Maybe,No,FALSE,40,Male,36-40,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Remote
+923,r01156,TRUE,Yes,Yes,Yes,TRUE,36,Male,36-40,United States of America,United States of America,Other,Remote
+924,r01157,FALSE,I don't know,Maybe,No,FALSE,39,Female,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+925,r01158,TRUE,No,No,Maybe,FALSE,38,Male,36-40,United States of America,United States of America,Back-end Developer,Remote
+926,r01159,TRUE,I don't know,Maybe,Maybe,TRUE,23,Male,20-25,United States of America,United States of America,DevOps/SysAdmin|Support|Back-end Developer,Hybrid
+927,r01160,FALSE,Yes,No,No,FALSE,29,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Support,Hybrid
+928,r01161,TRUE,No,No,No,FALSE,38,Male,36-40,United States of America,United States of America,Other|Supervisor/Team Lead|DevOps/SysAdmin|Support|Front-end Developer|Back-end Developer,Remote
+929,r01162,FALSE,Yes,Yes,Yes,TRUE,34,Female,31-35,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+930,r01163,TRUE,Yes,Yes,Yes,TRUE,28,Male,26-30,Brazil,Brazil,Other,On-site
+931,r01164,TRUE,Yes,Yes,Yes,TRUE,38,Male,36-40,New Zealand,New Zealand,Dev Evangelist/Advocate,Hybrid
+932,r01165,TRUE,I don't know,Maybe,Maybe,FALSE,25,Female,20-25,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+933,r01166,FALSE,Yes,Yes,Yes,TRUE,36,Female,36-40,United States of America,United States of America,Other,Hybrid
+934,r01167,TRUE,Yes,Yes,Yes,TRUE,57,Female,56-60,United States of America,United States of America,Other,Hybrid
+935,r01168,FALSE,Yes,Yes,No,TRUE,46,Male,46-50,Ireland,Ireland,Executive Leadership,Hybrid
+936,r01169,TRUE,Yes,Yes,Yes,TRUE,49,Male,46-50,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,On-site
+937,r01170,TRUE,No,Yes,No,TRUE,34,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin,On-site
+938,r01171,TRUE,No,No,No,FALSE,43,Male,41-45,United Kingdom,United Kingdom,Front-end Developer,Hybrid
+939,r01174,FALSE,I don't know,No,Yes,FALSE,24,Trans/Other,20-25,Sweden,Sweden,Back-end Developer|One-person shop,Hybrid
+940,r01175,FALSE,Yes,Yes,Yes,TRUE,33,Male,31-35,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+941,r01176,TRUE,Yes,No,Maybe,FALSE,28,Male,26-30,Finland,Finland,Front-end Developer|Back-end Developer|DevOps/SysAdmin,On-site
+942,r01177,TRUE,Yes,No,Maybe,TRUE,48,Male,46-50,Germany,Germany,Dev Evangelist/Advocate,Hybrid
+943,r01178,TRUE,I don't know,Yes,Yes,TRUE,33,Female,31-35,United States of America,United States of America,Back-end Developer,Remote
+944,r01179,TRUE,No,No,No,FALSE,40,Male,36-40,Italy,United States of America,Supervisor/Team Lead|Front-end Developer,On-site
+945,r01181,TRUE,Yes,Yes,Yes,TRUE,22,Female,20-25,United States of America,United States of America,Back-end Developer,On-site
+946,r01182,TRUE,I don't know,Yes,Yes,TRUE,23,Female,20-25,United States of America,United States of America,Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead,Hybrid
+947,r01183,FALSE,Yes,Yes,No,TRUE,33,Male,31-35,Germany,Germany,Back-end Developer|One-person shop,On-site
+948,r01184,TRUE,I don't know,Yes,Maybe,TRUE,29,Male,26-30,Netherlands,Netherlands,Back-end Developer,On-site
+949,r01185,TRUE,No,No,Yes,TRUE,32,Male,31-35,United States of America,United States of America,Dev Evangelist/Advocate,Remote
+950,r01186,TRUE,Yes,Yes,Yes,TRUE,43,Male,41-45,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+951,r01187,FALSE,Yes,Yes,Yes,FALSE,49,Male,46-50,United States of America,United States of America,DevOps/SysAdmin|Support,Hybrid
+952,r01188,FALSE,No,No,No,FALSE,44,Male,41-45,Italy,Sweden,Back-end Developer,Remote
+953,r01190,TRUE,Yes,No,No,FALSE,27,Male,26-30,Canada,Canada,Front-end Developer|Back-end Developer,On-site
+954,r01191,FALSE,No,No,Maybe,FALSE,30,Male,26-30,United States of America,United States of America,Support|Back-end Developer|Front-end Developer,On-site
+955,r01192,TRUE,Yes,No,No,FALSE,43,Female,41-45,United States of America,United States of America,Other,Hybrid
+956,r01193,TRUE,No,Yes,Yes,TRUE,30,Female,26-30,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+957,r01194,FALSE,Yes,Yes,Yes,TRUE,33,Female,31-35,United States of America,United States of America,Other|Back-end Developer|Front-end Developer|Designer,Hybrid
+958,r01196,TRUE,Yes,Yes,Yes,FALSE,26,Female,26-30,United States of America,United States of America,Front-end Developer,On-site
+959,r01197,FALSE,Yes,Yes,No,TRUE,47,Male,46-50,Ireland,Ireland,One-person shop|Front-end Developer|Back-end Developer,Hybrid
+960,r01198,TRUE,I don't know,Yes,Yes,FALSE,30,Male,26-30,United States of America,United States of America,Front-end Developer|Designer,On-site
+961,r01199,TRUE,Yes,No,No,FALSE,39,Male,36-40,United States of America,United States of America,DevOps/SysAdmin,On-site
+962,r01200,TRUE,No,Maybe,Maybe,FALSE,36,Male,36-40,United States of America,United States of America,Front-end Developer,On-site
+963,r01201,TRUE,Yes,Yes,No,FALSE,34,Male,31-35,United Kingdom,United Kingdom,Supervisor/Team Lead,Remote
+964,r01202,TRUE,Yes,Yes,Yes,TRUE,25,Female,20-25,United States of America,United States of America,Front-end Developer,On-site
+965,r01203,FALSE,Yes,No,No,FALSE,28,Male,26-30,Finland,Finland,Back-end Developer|DevOps/SysAdmin,Hybrid
+966,r01204,TRUE,Yes,Yes,Yes,TRUE,38,Male,36-40,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+967,r01205,TRUE,No,No,No,FALSE,39,Male,36-40,United States of America,United States of America,Supervisor/Team Lead,Remote
+968,r01206,FALSE,I don't know,Maybe,Maybe,FALSE,32,Male,31-35,United States of America,United States of America,Supervisor/Team Lead|Designer,On-site
+969,r01207,FALSE,Yes,Yes,Yes,FALSE,27,Female,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+970,r01208,TRUE,Yes,Yes,Yes,TRUE,31,Female,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+971,r01209,TRUE,No,Yes,Maybe,FALSE,30,Female,26-30,United Kingdom,United Kingdom,Supervisor/Team Lead|Back-end Developer|Front-end Developer,On-site
+972,r01211,TRUE,Yes,Maybe,Maybe,FALSE,26,Male,26-30,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Remote
+973,r01212,TRUE,No,Yes,No,TRUE,27,Female,26-30,United Kingdom,United Kingdom,Back-end Developer,Remote
+974,r01213,TRUE,No,Yes,Yes,FALSE,29,Male,26-30,United States of America,United States of America,Back-end Developer,On-site
+975,r01216,FALSE,No,No,No,FALSE,39,Male,36-40,United States of America,United States of America,Front-end Developer,Hybrid
+976,r01218,TRUE,I don't know,Yes,Yes,TRUE,28,Male,26-30,United States of America,United States of America,Front-end Developer,Hybrid
+977,r01221,TRUE,I don't know,Yes,Yes,TRUE,70,Male,Over 65,United States of America,United States of America,Dev Evangelist/Advocate|Back-end Developer,Remote
+978,r01222,TRUE,Yes,Maybe,Maybe,TRUE,25,Male,20-25,Germany,Germany,Back-end Developer,Hybrid
+979,r01223,TRUE,No,Yes,Yes,TRUE,45,Male,41-45,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+980,r01224,FALSE,I don't know,Yes,Yes,TRUE,63,Female,61-65,United States of America,United States of America,Back-end Developer,On-site
+981,r01225,TRUE,Yes,Maybe,Yes,FALSE,40,Male,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer,Remote
+982,r01226,TRUE,Yes,Yes,Yes,TRUE,39,Male,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+983,r01227,TRUE,Yes,Yes,Yes,TRUE,31,Female,31-35,United States of America,United States of America,Front-end Developer|Designer,Remote
+984,r01228,TRUE,I don't know,Yes,Yes,FALSE,34,Male,31-35,United States of America,United States of America,Back-end Developer,On-site
+985,r01230,TRUE,No,No,Maybe,FALSE,45,Male,41-45,Ireland,Ireland,Back-end Developer,Remote
+986,r01231,FALSE,Yes,Yes,Yes,TRUE,43,Male,41-45,United States of America,United States of America,Executive Leadership,Hybrid
+987,r01232,TRUE,Yes,No,No,FALSE,29,Male,26-30,United States of America,United States of America,Back-end Developer|Supervisor/Team Lead,Remote
+988,r01233,TRUE,Yes,Yes,Yes,TRUE,27,Trans/Other,26-30,United States of America,United States of America,Dev Evangelist/Advocate,Remote
+989,r01234,TRUE,Yes,Yes,Yes,TRUE,37,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer,Remote
+990,r01235,TRUE,Yes,Yes,Yes,TRUE,41,Trans/Other,41-45,United States of America,United States of America,Front-end Developer|Designer,Remote
+991,r01236,TRUE,Yes,Yes,Yes,TRUE,30,Female,26-30,United States of America,United States of America,Front-end Developer,Hybrid
+992,r01237,TRUE,Yes,Yes,Yes,TRUE,28,Male,26-30,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+993,r01238,TRUE,No,No,No,FALSE,28,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+994,r01240,TRUE,Yes,Yes,Yes,FALSE,22,Male,20-25,United Kingdom,United Kingdom,Back-end Developer,Hybrid
+995,r01241,TRUE,I don't know,No,No,FALSE,31,Male,31-35,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+996,r01242,TRUE,I don't know,No,No,FALSE,29,Male,26-30,United Kingdom,United Kingdom,Back-end Developer,On-site
+997,r01243,TRUE,No,Maybe,Maybe,FALSE,33,Male,31-35,Israel,Israel,Supervisor/Team Lead|Back-end Developer,On-site
+998,r01244,TRUE,No,No,No,FALSE,37,Male,36-40,Germany,Germany,Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead,Hybrid
+999,r01245,TRUE,No,No,Maybe,FALSE,42,Male,41-45,United States of America,United States of America,Back-end Developer,Remote
+1000,r01246,TRUE,Yes,Yes,Yes,TRUE,31,Male,31-35,United Kingdom,United Kingdom,Other,On-site
+1001,r01249,TRUE,Yes,Maybe,Maybe,FALSE,29,Male,26-30,Canada,Canada,Back-end Developer|Front-end Developer,On-site
+1002,r01250,TRUE,No,Yes,Yes,TRUE,40,Male,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+1003,r01251,TRUE,Yes,Yes,Yes,TRUE,46,Female,46-50,Netherlands,Netherlands,Executive Leadership,Hybrid
+1004,r01253,FALSE,No,Maybe,Maybe,FALSE,43,Male,41-45,Denmark,Denmark,Back-end Developer,Hybrid
+1005,r01255,TRUE,No,Maybe,Maybe,FALSE,32,Male,31-35,United Kingdom,United Kingdom,DevOps/SysAdmin|Support|Back-end Developer|One-person shop|Front-end Developer,Hybrid
+1006,r01257,TRUE,Yes,Yes,Yes,TRUE,40,Male,36-40,Netherlands,Netherlands,Executive Leadership,Hybrid
+1007,r01258,FALSE,I don't know,Yes,Yes,TRUE,38,Male,36-40,Germany,Germany,DevOps/SysAdmin,On-site
+1008,r01259,TRUE,I don't know,Yes,Yes,TRUE,32,Male,31-35,United Kingdom,United Kingdom,Back-end Developer,On-site
+1009,r01260,FALSE,No,Yes,Maybe,FALSE,37,Male,36-40,Mexico,Mexico,DevOps/SysAdmin|Support,Hybrid
+1010,r01263,TRUE,Yes,No,No,FALSE,24,Male,20-25,United States of America,United States of America,Dev Evangelist/Advocate|DevOps/SysAdmin|Designer|Front-end Developer|Back-end Developer,Hybrid
+1011,r01264,FALSE,Yes,No,No,FALSE,34,Female,31-35,United States of America,United States of America,Other,Hybrid
+1012,r01266,FALSE,Yes,Yes,Yes,TRUE,32,Male,31-35,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,Hybrid
+1013,r01267,TRUE,No,No,No,FALSE,29,Male,26-30,Romania,Romania,Front-end Developer|Back-end Developer,On-site
+1014,r01268,TRUE,No,No,No,FALSE,20,Male,20-25,United States of America,United States of America,Other|DevOps/SysAdmin|Back-end Developer,Hybrid
+1015,r01269,FALSE,Yes,Maybe,Maybe,FALSE,41,Male,41-45,United States of America,United States of America,Supervisor/Team Lead,Hybrid
+1016,r01270,TRUE,Yes,Yes,Yes,TRUE,33,Female,31-35,United States of America,United States of America,Dev Evangelist/Advocate,Hybrid
+1017,r01271,TRUE,Yes,Yes,Maybe,TRUE,25,Male,20-25,United States of America,United States of America,Back-end Developer|DevOps/SysAdmin,Hybrid
+1018,r01273,TRUE,Yes,Yes,Yes,TRUE,24,Trans/Other,20-25,United States of America,United States of America,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,Hybrid
+1019,r01274,TRUE,No,Yes,Yes,TRUE,39,Male,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+1020,r01275,FALSE,Yes,No,No,FALSE,39,Male,36-40,United Kingdom,United Kingdom,Executive Leadership,Hybrid
+1021,r01278,TRUE,Yes,No,No,FALSE,31,Male,31-35,Denmark,Denmark,Back-end Developer,Hybrid
+1022,r01279,TRUE,Yes,Yes,Yes,TRUE,37,Male,36-40,United Kingdom,United Kingdom,Supervisor/Team Lead|Back-end Developer|One-person shop,Remote
+1023,r01280,TRUE,Yes,Yes,Yes,TRUE,42,Male,41-45,United Kingdom,United Kingdom,DevOps/SysAdmin,Hybrid
+1024,r01282,FALSE,Yes,Yes,No,TRUE,30,Male,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+1025,r01283,TRUE,No,No,No,FALSE,30,Male,26-30,Canada,Canada,Front-end Developer,Remote
+1026,r01284,TRUE,Yes,Yes,Yes,FALSE,33,Male,31-35,United States of America,United States of America,Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer,Hybrid
+1027,r01285,FALSE,I don't know,No,Maybe,FALSE,31,Male,31-35,United States of America,United States of America,Other,On-site
+1028,r01286,FALSE,Yes,Yes,Yes,TRUE,39,Female,36-40,United States of America,United States of America,Supervisor/Team Lead|Front-end Developer|Designer,Hybrid
+1029,r01287,FALSE,No,No,No,FALSE,27,Male,26-30,Germany,Germany,Back-end Developer,On-site
+1030,r01289,TRUE,No,No,No,FALSE,31,Male,31-35,United States of America,United States of America,Support|Front-end Developer|Back-end Developer,Hybrid
+1031,r01290,TRUE,Yes,Yes,Yes,TRUE,30,Female,26-30,United States of America,United States of America,Other|Supervisor/Team Lead,Remote
+1032,r01291,TRUE,Yes,Yes,Yes,TRUE,34,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+1033,r01292,TRUE,I don't know,Maybe,Maybe,FALSE,20,Trans/Other,20-25,Canada,Canada,Back-end Developer,On-site
+1034,r01294,TRUE,Yes,Yes,Maybe,TRUE,50,Female,46-50,United States of America,United States of America,Other,Hybrid
+1035,r01295,FALSE,Yes,No,Yes,FALSE,22,Male,20-25,United States of America,United States of America,Sales,On-site
+1036,r01296,TRUE,I don't know,Maybe,Maybe,FALSE,41,Male,41-45,Spain,Spain,Executive Leadership,Hybrid
+1037,r01297,TRUE,No,No,Maybe,FALSE,37,Male,36-40,Germany,Germany,DevOps/SysAdmin,Hybrid
+1038,r01298,TRUE,Yes,Yes,Yes,TRUE,32,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+1039,r01300,TRUE,Yes,Maybe,Yes,FALSE,38,Male,36-40,Netherlands,Netherlands,Back-end Developer,On-site
+1040,r01302,TRUE,Yes,Yes,Yes,TRUE,27,Male,26-30,United States of America,United States of America,Front-end Developer,Hybrid
+1041,r01303,FALSE,Yes,Yes,Yes,TRUE,37,Female,36-40,United States of America,United States of America,Support,Hybrid
+1042,r01306,FALSE,Yes,Maybe,Maybe,FALSE,30,Female,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+1043,r01307,TRUE,Yes,Yes,Yes,TRUE,21,Male,20-25,United States of America,United States of America,Other,Hybrid
+1044,r01308,FALSE,I don't know,Yes,Maybe,TRUE,21,Male,20-25,United States of America,United States of America,Other,Hybrid
+1045,r01310,FALSE,No,No,No,FALSE,46,Male,46-50,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+1046,r01311,TRUE,Yes,Yes,Yes,TRUE,28,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,Hybrid
+1047,r01312,FALSE,Yes,Yes,Yes,TRUE,26,Trans/Other,26-30,United States of America,United States of America,Support|Back-end Developer|Front-end Developer|Designer,On-site
+1048,r01314,TRUE,No,No,No,FALSE,44,Male,41-45,United States of America,United States of America,Support,Hybrid
+1049,r01316,TRUE,I don't know,No,No,FALSE,35,Female,31-35,United States of America,United States of America,Front-end Developer,Remote
+1050,r01317,TRUE,Yes,Yes,Yes,TRUE,39,Male,36-40,United States of America,United States of America,Back-end Developer,On-site
+1051,r01318,FALSE,No,Yes,No,TRUE,37,Female,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+1052,r01319,FALSE,No,No,No,FALSE,35,Male,31-35,United States of America,United States of America,Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|One-person shop,Hybrid
+1053,r01320,TRUE,Yes,Yes,Yes,TRUE,29,Female,26-30,United States of America,United States of America,Supervisor/Team Lead,On-site
+1054,r01322,TRUE,I don't know,Yes,Yes,TRUE,21,Male,20-25,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+1055,r01323,TRUE,Yes,Yes,Maybe,TRUE,26,Female,26-30,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Front-end Developer,Hybrid
+1056,r01324,TRUE,Yes,Maybe,Maybe,TRUE,35,Male,31-35,Germany,Germany,Supervisor/Team Lead,On-site
+1057,r01325,FALSE,No,Yes,Yes,TRUE,56,Male,56-60,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,Hybrid
+1058,r01328,TRUE,No,No,No,FALSE,24,Male,20-25,United Kingdom,United Kingdom,Back-end Developer,On-site
+1059,r01329,TRUE,No,Yes,Yes,FALSE,37,Male,36-40,Ireland,Ireland,Back-end Developer,On-site
+1060,r01330,FALSE,Yes,Yes,Yes,TRUE,27,Female,26-30,United States of America,United States of America,Designer,On-site
+1061,r01331,TRUE,Yes,Yes,Yes,TRUE,39,Female,36-40,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+1062,r01333,TRUE,Yes,Yes,Yes,FALSE,34,Male,31-35,United States of America,United States of America,Back-end Developer|Front-end Developer,Remote
+1063,r01334,FALSE,Yes,Yes,Yes,TRUE,33,Male,31-35,United Kingdom,United Kingdom,Front-end Developer,Hybrid
+1064,r01335,TRUE,I don't know,Yes,Yes,FALSE,22,Male,20-25,United Kingdom,United Kingdom,Front-end Developer,On-site
+1065,r01336,TRUE,I don't know,No,No,FALSE,25,Female,20-25,United Kingdom,United Kingdom,Front-end Developer|Supervisor/Team Lead,Hybrid
+1066,r01337,FALSE,No,No,No,FALSE,34,Male,31-35,United Kingdom,United Kingdom,Front-end Developer|Back-end Developer,On-site
+1067,r01338,TRUE,Yes,Maybe,Maybe,FALSE,30,Male,26-30,United Kingdom,United Kingdom,Front-end Developer,Hybrid
+1068,r01339,TRUE,I don't know,Yes,Maybe,TRUE,37,Male,36-40,United Kingdom,United Kingdom,Front-end Developer,On-site
+1069,r01340,TRUE,No,Yes,Yes,FALSE,26,Male,26-30,Chile,Chile,Front-end Developer,On-site
+1070,r01341,FALSE,No,Yes,Maybe,TRUE,29,Female,26-30,United States of America,United States of America,Front-end Developer,On-site
+1071,r01342,TRUE,I don't know,No,No,FALSE,29,Male,26-30,Chile,Chile,Designer|Front-end Developer,Hybrid
+1072,r01343,FALSE,Yes,Yes,Yes,TRUE,27,Male,26-30,United Kingdom,United Kingdom,Front-end Developer|Designer,On-site
+1073,r01344,FALSE,Yes,Yes,No,TRUE,27,Female,26-30,Chile,Chile,Front-end Developer,Hybrid
+1074,r01345,FALSE,No,No,No,FALSE,23,Male,20-25,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+1075,r01346,TRUE,No,No,No,FALSE,24,Female,20-25,United States of America,United States of America,Front-end Developer,Hybrid
+1076,r01348,FALSE,No,Maybe,No,FALSE,28,Male,26-30,United Kingdom,United Kingdom,DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support,On-site
+1077,r01349,FALSE,Yes,Yes,Yes,TRUE,22,Male,20-25,United States of America,United States of America,Front-end Developer|Designer,On-site
+1078,r01350,TRUE,Yes,Maybe,Maybe,FALSE,32,Male,31-35,United States of America,United States of America,Front-end Developer,Hybrid
+1079,r01351,TRUE,No,Yes,Yes,TRUE,35,Female,31-35,United States of America,United States of America,DevOps/SysAdmin,Remote
+1080,r01352,TRUE,No,Yes,Yes,TRUE,26,Male,26-30,United States of America,United States of America,Back-end Developer,Hybrid
+1081,r01353,TRUE,I don't know,No,Yes,TRUE,31,Female,31-35,United Kingdom,United Kingdom,Front-end Developer,Hybrid
+1082,r01355,TRUE,I don't know,Yes,Maybe,TRUE,37,Male,36-40,Pakistan,Pakistan,Supervisor/Team Lead,Hybrid
+1083,r01356,FALSE,No,Yes,Yes,TRUE,24,Male,20-25,United Kingdom,United Kingdom,Front-end Developer|Back-end Developer,On-site
+1084,r01357,TRUE,No,No,No,FALSE,33,Male,31-35,United States of America,United States of America,Back-end Developer,Remote
+1085,r01358,TRUE,I don't know,No,Yes,TRUE,28,Male,26-30,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+1086,r01359,TRUE,I don't know,Maybe,Maybe,FALSE,22,Female,20-25,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+1087,r01360,TRUE,Yes,Yes,Maybe,TRUE,46,Male,46-50,Germany,Germany,Back-end Developer,Hybrid
+1088,r01361,TRUE,I don't know,Maybe,Maybe,FALSE,30,Male,26-30,United States of America,United States of America,Dev Evangelist/Advocate,Remote
+1089,r01362,TRUE,No,No,Yes,TRUE,29,Male,26-30,United States of America,United States of America,Back-end Developer,On-site
+1090,r01363,TRUE,Yes,No,Yes,FALSE,22,Male,20-25,United States of America,United States of America,Back-end Developer|Front-end Developer,Hybrid
+1091,r01366,FALSE,Yes,Yes,Maybe,TRUE,30,Male,26-30,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+1092,r01368,FALSE,No,No,No,FALSE,39,Male,36-40,United States of America,United States of America,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+1093,r01371,FALSE,I don't know,No,No,FALSE,39,Male,36-40,United States of America,United States of America,Back-end Developer,Hybrid
+1094,r01372,TRUE,Yes,Yes,Yes,TRUE,31,Female,31-35,United States of America,United States of America,Dev Evangelist/Advocate,Remote
+1095,r01373,TRUE,Yes,Yes,Maybe,FALSE,35,Male,31-35,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+1096,r01375,TRUE,I don't know,Yes,Yes,TRUE,23,Male,20-25,United States of America,United States of America,Front-end Developer|Back-end Developer,Hybrid
+1097,r01376,TRUE,Yes,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Executive Leadership,On-site
+1098,r01377,TRUE,Yes,No,No,FALSE,28,Male,26-30,France,France,Other,Hybrid
+1099,r01378,TRUE,Yes,Yes,Yes,TRUE,23,Female,20-25,Ireland,Ireland,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,On-site
+1100,r01379,TRUE,Yes,Maybe,Yes,TRUE,26,Female,26-30,United States of America,United States of America,Front-end Developer,On-site
+1101,r01380,TRUE,Yes,Yes,Maybe,TRUE,24,Female,20-25,United States of America,United States of America,Supervisor/Team Lead,On-site
+1102,r01381,TRUE,No,No,No,FALSE,32,Male,31-35,United States of America,United States of America,Supervisor/Team Lead,On-site
+1103,r01383,TRUE,No,Yes,Maybe,FALSE,30,Male,26-30,Estonia,Estonia,Back-end Developer,Hybrid
+1104,r01384,TRUE,No,Yes,Yes,TRUE,32,Male,31-35,United States of America,United States of America,Front-end Developer|Designer,Hybrid
+1105,r01385,FALSE,No,Yes,Maybe,TRUE,35,Male,31-35,United States of America,United States of America,Back-end Developer,On-site
+1106,r01386,TRUE,I don't know,Maybe,Maybe,TRUE,26,Female,26-30,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,Remote
+1107,r01387,FALSE,Yes,Yes,Yes,TRUE,30,Female,26-30,United States of America,United States of America,Other,Hybrid
+1108,r01388,TRUE,I don't know,Yes,Maybe,FALSE,29,Male,26-30,United States of America,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,On-site
+1109,r01389,TRUE,No,No,No,FALSE,39,Male,36-40,Canada,Canada,Back-end Developer|Supervisor/Team Lead,Remote
+1110,r01390,FALSE,Yes,Yes,Maybe,TRUE,37,Male,36-40,United Kingdom,United Kingdom,Back-end Developer|Front-end Developer,On-site
+1111,r01391,TRUE,No,No,No,FALSE,35,Male,31-35,United States of America,United States of America,Back-end Developer,Hybrid
+1112,r01392,TRUE,Yes,Yes,Yes,TRUE,25,Female,20-25,United States of America,United States of America,Other,Hybrid
+1113,r01393,FALSE,Yes,Yes,Maybe,TRUE,22,Trans/Other,20-25,United States of America,United States of America,Other|Back-end Developer,On-site
+1114,r01394,TRUE,Yes,Yes,Maybe,TRUE,33,Male,31-35,United Kingdom,United Kingdom,DevOps/SysAdmin,On-site
+1115,r01395,TRUE,Yes,Yes,Yes,TRUE,23,Male,20-25,United States of America,United States of America,Back-end Developer,Hybrid
+1116,r01397,TRUE,Yes,Yes,Yes,TRUE,28,Male,26-30,United States of America,United States of America,Front-end Developer,Remote
+1117,r01398,TRUE,Yes,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,Back-end Developer|Front-end Developer,On-site
+1118,r01399,TRUE,Yes,Maybe,Yes,TRUE,28,Male,26-30,United States of America,United States of America,Other|Back-end Developer,Hybrid
+1119,r01400,TRUE,Yes,Yes,Maybe,TRUE,28,Female,26-30,United States of America,United States of America,Dev Evangelist/Advocate,Remote
+1120,r01401,FALSE,Yes,Yes,Yes,TRUE,37,Male,36-40,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer,On-site
+1121,r01402,TRUE,Yes,Yes,Yes,TRUE,30,Male,26-30,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+1122,r01403,TRUE,Yes,Yes,Yes,TRUE,27,Male,26-30,India,India,Front-end Developer|Back-end Developer,Hybrid
+1123,r01405,TRUE,I don't know,Yes,Maybe,TRUE,28,Male,26-30,Poland,Poland,Back-end Developer,On-site
+1124,r01406,TRUE,Yes,Yes,Yes,TRUE,26,Trans/Other,26-30,Ireland,Ireland,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,Hybrid
+1125,r01407,TRUE,Yes,Yes,Yes,TRUE,29,Male,26-30,Afghanistan,United States of America,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,Hybrid
+1126,r01409,TRUE,I don't know,No,Yes,TRUE,36,Male,36-40,United Kingdom,United Kingdom,Executive Leadership,Remote
+1127,r01410,TRUE,No,Maybe,Yes,TRUE,38,Male,36-40,Belgium,Belgium,Other|Supervisor/Team Lead|Dev Evangelist/Advocate,On-site
+1128,r01411,TRUE,No,Yes,Yes,TRUE,22,Female,20-25,United States of America,United States of America,Other,Hybrid
+1129,r01412,TRUE,No,No,No,FALSE,24,Male,20-25,United States of America,United States of America,Other,Hybrid
+1130,r01413,FALSE,Yes,Yes,Yes,TRUE,24,Female,20-25,United States of America,United States of America,Front-end Developer,Hybrid
+1131,r01414,TRUE,Yes,Yes,Yes,TRUE,36,Female,36-40,United States of America,United States of America,HR,On-site
+1132,r01415,FALSE,Yes,Yes,Yes,TRUE,24,Female,20-25,United States of America,United States of America,Front-end Developer|Back-end Developer,On-site
+1133,r01416,TRUE,No,No,No,FALSE,24,Male,20-25,United States of America,United States of America,Front-end Developer,On-site
+1134,r01417,TRUE,Yes,Yes,Yes,TRUE,31,Male,31-35,Netherlands,Netherlands,Back-end Developer|DevOps/SysAdmin,On-site
+1135,r01418,TRUE,No,Yes,Yes,TRUE,39,Male,36-40,United Kingdom,United Kingdom,Back-end Developer,On-site
+1136,r01419,TRUE,Yes,Yes,Yes,TRUE,41,Male,41-45,United States of America,United States of America,Supervisor/Team Lead|Back-end Developer|Designer,Hybrid
+1137,r01421,TRUE,I don't know,No,No,FALSE,37,Male,36-40,Estonia,Estonia,Front-end Developer|Back-end Developer|Supervisor/Team Lead,On-site
+1138,r01422,TRUE,No,No,No,FALSE,30,Male,26-30,Canada,United States of America,Front-end Developer,Remote
+1139,r01423,TRUE,No,No,No,FALSE,24,Male,20-25,Canada,Canada,Back-end Developer,Hybrid
+1140,r01424,TRUE,I don't know,Yes,Yes,TRUE,22,Female,20-25,Canada,Canada,Back-end Developer|Front-end Developer,Hybrid
+1141,r01425,TRUE,I don't know,Maybe,Maybe,FALSE,24,Male,20-25,Canada,Canada,Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate,Hybrid
+1142,r01426,TRUE,I don't know,Yes,Yes,TRUE,26,Female,26-30,Canada,Canada,Other,Hybrid
+1143,r01427,TRUE,Yes,Yes,Yes,TRUE,38,Female,36-40,United States of America,United States of America,Support,Remote
+1144,r01430,TRUE,Yes,Yes,Maybe,TRUE,52,Male,51-55,United States of America,United States of America,Back-end Developer,Hybrid
+1145,r01431,FALSE,Yes,Maybe,Yes,TRUE,30,Female,26-30,United States of America,United States of America,DevOps/SysAdmin,Hybrid
+1146,r01432,TRUE,I don't know,Yes,Yes,FALSE,25,Trans/Other,20-25,Canada,Canada,Other,Hybrid

@@ -1,0 +1,882 @@
+Column1,Previous Mental Illness,Mental Illness (Diagnosed),Age,Gender,Age Group,Country of Employment,Job Type
+1,Yes,True,39.0,Male,36-40,United Kingdom,Hybrid
+2,Yes,True,29.0,Male,26-30,United States of America,On-site
+3,Maybe,False,38.0,Male,36-40,United Kingdom,Remote
+5,No,False,42.0,Male,41-45,United Kingdom,Hybrid
+6,No,False,30.0,Male,26-30,United States of America,Hybrid
+7,Yes,True,37.0,Female,36-40,United States of America,Remote
+9,Yes,True,28.0,Male,26-30,United States of America,On-site
+11,Yes,True,30.0,Female,26-30,United States of America,Remote
+13,Yes,True,35.0,Male,31-35,United States of America,Remote
+14,Yes,True,52.0,Male,51-55,United States of America,Hybrid
+15,Yes,True,32.0,Female,31-35,Canada,Remote
+16,No,False,34.0,Male,31-35,United Kingdom,On-site
+18,Maybe,False,26.0,Male,26-30,United States of America,Hybrid
+20,Maybe,False,25.0,Male,20-25,Germany,Hybrid
+21,Yes,True,33.0,Male,31-35,Canada,Hybrid
+24,No,False,35.0,Male,31-35,Germany,On-site
+26,Yes,True,32.0,Trans/Other,31-35,United Kingdom,On-site
+27,Yes,True,32.0,Trans/Other,31-35,Germany,On-site
+28,Yes,True,30.0,Male,26-30,United States of America,Hybrid
+29,Yes,False,31.0,Male,31-35,United States of America,On-site
+30,Yes,False,36.0,Male,36-40,United Kingdom,Hybrid
+31,No,False,33.0,Male,31-35,Germany,On-site
+32,Yes,True,44.0,Male,41-45,United States of America,Remote
+33,No,False,29.0,Male,26-30,United Kingdom,On-site
+34,Yes,True,29.0,Male,26-30,United Kingdom,Hybrid
+35,No,False,44.0,Male,41-45,Canada,Remote
+36,Yes,False,40.0,Male,36-40,United States of America,Remote
+37,Yes,False,46.0,Female,46-50,Netherlands,On-site
+39,Yes,True,33.0,Male,31-35,United States of America,Hybrid
+40,Maybe,False,45.0,Male,41-45,United States of America,Hybrid
+41,Maybe,True,37.0,Female,36-40,United States of America,Remote
+42,Yes,True,37.0,Male,36-40,Australia,On-site
+43,No,False,27.0,Male,26-30,United States of America,Hybrid
+44,Yes,True,36.0,Male,36-40,United States of America,Hybrid
+47,Maybe,True,30.0,Male,26-30,United States of America,On-site
+51,No,False,41.0,Male,41-45,France,Hybrid
+53,No,False,30.0,Male,26-30,United States of America,Hybrid
+55,Yes,True,29.0,Male,26-30,United States of America,Remote
+56,Maybe,False,28.0,Male,26-30,United States of America,On-site
+58,No,False,28.0,Male,26-30,Belgium,Hybrid
+60,Yes,True,40.0,Male,36-40,Netherlands,Hybrid
+61,Maybe,False,37.0,Male,36-40,United States of America,Remote
+62,No,False,41.0,Male,41-45,Netherlands,Hybrid
+63,No,False,38.0,Female,36-40,Netherlands,On-site
+64,No,False,33.0,Male,31-35,United States of America,Hybrid
+65,Yes,True,33.0,Male,31-35,United States of America,Remote
+66,No,False,21.0,Male,20-25,United Kingdom,On-site
+67,Yes,False,36.0,Male,36-40,Brazil,On-site
+68,No,False,35.0,Male,31-35,United States of America,Hybrid
+69,Maybe,False,45.0,Male,41-45,United States of America,On-site
+70,Maybe,False,41.0,Male,41-45,Canada,On-site
+71,Yes,True,35.0,Male,31-35,United Kingdom,Hybrid
+72,Yes,True,24.0,Female,20-25,United States of America,Hybrid
+74,Yes,True,35.0,Male,31-35,United States of America,Hybrid
+75,No,False,26.0,Male,26-30,United Kingdom,Hybrid
+76,No,False,17.0,Male,Under 20,Brazil,Remote
+78,Yes,True,26.0,Male,26-30,United States of America,Hybrid
+79,No,False,36.0,Female,36-40,United States of America,Remote
+80,No,False,46.0,Male,46-50,United States of America,Hybrid
+81,Yes,True,28.0,Female,26-30,United States of America,Hybrid
+82,No,False,40.0,Male,36-40,United States of America,Hybrid
+83,Yes,True,23.0,Male,20-25,United States of America,Hybrid
+84,No,False,30.0,Male,26-30,United States of America,Hybrid
+85,Maybe,False,28.0,Female,26-30,United States of America,Hybrid
+86,Maybe,False,27.0,Male,26-30,Netherlands,On-site
+87,Yes,False,39.0,Female,36-40,United States of America,On-site
+88,No,True,34.0,Female,31-35,United States of America,Remote
+89,Yes,True,30.0,Male,26-30,United States of America,Hybrid
+91,Yes,True,30.0,Male,26-30,United States of America,Remote
+92,Maybe,False,32.0,Male,31-35,United States of America,Hybrid
+95,Yes,True,41.0,Female,41-45,United States of America,Hybrid
+96,Yes,True,39.0,Female,36-40,United States of America,Hybrid
+97,Yes,True,43.0,Male,41-45,United States of America,Hybrid
+98,No,False,30.0,Male,26-30,United Kingdom,Hybrid
+99,No,False,24.0,Female,20-25,United States of America,Hybrid
+102,No,False,34.0,Male,31-35,France,Hybrid
+103,No,False,44.0,Female,41-45,United States of America,Hybrid
+105,Yes,True,45.0,Male,41-45,United States of America,Hybrid
+106,Yes,True,30.0,Male,26-30,United States of America,Hybrid
+108,No,False,37.0,Male,36-40,United States of America,Hybrid
+110,No,True,31.0,Male,31-35,United States of America,Hybrid
+111,No,False,33.0,Male,31-35,United States of America,Remote
+112,Yes,True,29.0,Female,26-30,United States of America,Hybrid
+113,Yes,True,35.0,Male,31-35,United States of America,Hybrid
+114,Yes,True,42.0,Trans/Other,41-45,Canada,Remote
+115,No,False,26.0,Female,26-30,United States of America,Hybrid
+116,Maybe,True,36.0,Female,36-40,United States of America,Remote
+117,Yes,True,21.0,Male,20-25,United Kingdom,On-site
+118,Yes,True,34.0,Female,31-35,United States of America,Hybrid
+119,Yes,True,35.0,Male,31-35,United States of America,Hybrid
+120,No,False,44.0,Male,41-45,United States of America,Hybrid
+121,Yes,True,35.0,Trans/Other,31-35,Canada,Hybrid
+122,No,False,45.0,Male,41-45,United States of America,Hybrid
+124,Maybe,False,36.0,Male,36-40,United States of America,Remote
+125,Maybe,False,29.0,Male,26-30,United States of America,Remote
+126,No,False,37.0,Male,36-40,United States of America,On-site
+127,Yes,True,31.0,Male,31-35,United States of America,Hybrid
+129,Maybe,False,25.0,Male,20-25,United States of America,Hybrid
+130,Yes,True,27.0,Male,26-30,United States of America,Hybrid
+132,Yes,False,41.0,Female,41-45,United States of America,Hybrid
+134,Yes,False,21.0,Male,20-25,United States of America,On-site
+139,No,False,25.0,Male,20-25,Germany,On-site
+140,No,False,35.0,Male,31-35,United States of America,Remote
+141,Maybe,False,37.0,Male,36-40,United States of America,Remote
+143,Yes,True,26.0,Male,26-30,United States of America,On-site
+144,No,False,23.0,Male,20-25,United States of America,Hybrid
+145,Yes,True,22.0,Female,20-25,United States of America,Hybrid
+146,Yes,True,46.0,Female,46-50,United States of America,Remote
+147,No,False,31.0,Male,31-35,United Kingdom,Hybrid
+148,Maybe,True,27.0,Male,26-30,United States of America,Remote
+149,Maybe,False,37.0,Male,36-40,United Kingdom,Hybrid
+150,No,False,37.0,Male,36-40,United Kingdom,On-site
+151,Yes,True,26.0,Trans/Other,26-30,Netherlands,Hybrid
+152,No,False,23.0,Male,20-25,Netherlands,On-site
+153,Yes,True,40.0,Male,36-40,United States of America,On-site
+154,No,False,29.0,Male,26-30,Denmark,Hybrid
+155,Yes,True,37.0,Male,36-40,United States of America,Hybrid
+156,Maybe,False,34.0,Female,31-35,United States of America,On-site
+157,Yes,True,40.0,Male,36-40,United States of America,Hybrid
+158,Yes,True,39.0,Male,36-40,United States of America,Hybrid
+159,Yes,True,28.0,Male,26-30,United States of America,Remote
+160,No,False,27.0,Male,26-30,Germany,Hybrid
+161,Yes,True,49.0,Female,46-50,United States of America,Hybrid
+162,Yes,True,35.0,Male,31-35,United Kingdom,On-site
+163,Yes,True,35.0,Male,31-35,Sweden,Hybrid
+164,Yes,True,32.0,Male,31-35,United States of America,Hybrid
+165,Yes,True,42.0,Male,41-45,United States of America,Hybrid
+166,Yes,False,33.0,Female,31-35,United States of America,Remote
+167,No,False,35.0,Male,31-35,United Kingdom,Remote
+168,Maybe,False,24.0,Male,20-25,Russia,Hybrid
+169,Yes,True,29.0,Trans/Other,26-30,United States of America,Hybrid
+170,Yes,False,29.0,Male,26-30,United States of America,Remote
+171,No,False,24.0,Male,20-25,United Kingdom,Hybrid
+172,Maybe,False,30.0,Male,26-30,Sweden,Remote
+173,Yes,True,30.0,Male,26-30,United States of America,Remote
+174,Yes,True,44.0,Male,41-45,United States of America,Remote
+175,No,False,37.0,Male,36-40,United Kingdom,Remote
+176,No,False,28.0,Male,26-30,Germany,Hybrid
+177,Yes,True,42.0,Male,41-45,United States of America,Remote
+178,Yes,True,30.0,Female,26-30,United Kingdom,Hybrid
+179,Maybe,False,36.0,Male,36-40,Russia,Hybrid
+180,No,False,30.0,Male,26-30,Russia,Hybrid
+181,No,False,29.0,Male,26-30,United States of America,Remote
+182,No,False,25.0,Male,20-25,United States of America,Hybrid
+183,No,False,25.0,Male,20-25,Belgium,Hybrid
+184,No,False,24.0,Male,20-25,Russia,On-site
+185,Yes,False,25.0,Male,20-25,Russia,Hybrid
+186,Yes,True,31.0,Male,31-35,Denmark,On-site
+187,No,False,37.0,Male,36-40,Canada,Hybrid
+188,No,False,35.0,Male,31-35,United States of America,On-site
+189,Yes,True,26.0,Female,26-30,Spain,Hybrid
+190,No,False,31.0,Male,31-35,United Kingdom,Remote
+191,Maybe,False,29.0,Female,26-30,United States of America,Remote
+192,Yes,True,33.0,Male,31-35,France,Hybrid
+193,No,False,30.0,Male,26-30,India,Remote
+194,Yes,False,30.0,Male,26-30,United States of America,Hybrid
+195,Yes,True,29.0,Female,26-30,United States of America,On-site
+196,Yes,True,25.0,Female,20-25,United States of America,Hybrid
+198,No,False,26.0,Male,26-30,Germany,Hybrid
+199,No,False,38.0,Female,36-40,United States of America,Remote
+200,Yes,True,49.0,Male,46-50,United States of America,Hybrid
+201,No,False,30.0,Male,26-30,United States of America,Hybrid
+202,No,False,31.0,Male,31-35,Russia,On-site
+203,No,False,31.0,Male,31-35,Germany,Hybrid
+204,Maybe,False,34.0,Male,31-35,Germany,On-site
+205,Yes,False,28.0,Male,26-30,United States of America,Hybrid
+206,No,False,27.0,Male,26-30,Germany,Remote
+207,Maybe,True,37.0,Female,36-40,United States of America,Hybrid
+208,Yes,True,45.0,Male,41-45,United Kingdom,Hybrid
+209,Yes,True,31.0,Female,31-35,United States of America,Remote
+211,Yes,True,30.0,Male,26-30,United States of America,On-site
+212,Yes,True,33.0,Female,31-35,United Arab Emirates,Hybrid
+213,Yes,True,45.0,Female,41-45,Canada,Remote
+214,Yes,True,30.0,Female,26-30,United States of America,Hybrid
+215,Yes,True,30.0,Male,26-30,United States of America,Hybrid
+217,Yes,True,28.0,Male,26-30,United States of America,On-site
+218,Yes,True,36.0,Male,36-40,United States of America,Hybrid
+219,Maybe,True,37.0,Female,36-40,United States of America,Hybrid
+220,Yes,False,29.0,Male,26-30,United States of America,Hybrid
+221,Yes,True,25.0,Male,20-25,United States of America,Hybrid
+222,No,False,34.0,Female,31-35,United States of America,Hybrid
+224,Yes,True,40.0,Female,36-40,United States of America,Hybrid
+225,Maybe,False,32.0,Male,31-35,United States of America,Remote
+226,Maybe,False,38.0,Male,36-40,United Kingdom,On-site
+227,Yes,True,31.0,Female,31-35,United States of America,Hybrid
+228,No,False,28.0,Female,26-30,United States of America,Hybrid
+229,Yes,True,27.0,Female,26-30,United Kingdom,Hybrid
+230,Yes,True,28.0,Female,26-30,United States of America,Hybrid
+231,Yes,True,26.0,Male,26-30,Germany,Remote
+232,Yes,False,40.0,Male,36-40,United States of America,Hybrid
+233,Yes,True,42.0,Male,41-45,United States of America,Hybrid
+234,No,False,36.0,Male,36-40,United States of America,On-site
+235,Maybe,True,24.0,Male,20-25,United States of America,On-site
+237,No,True,31.0,Male,31-35,United States of America,Remote
+238,No,False,27.0,Female,26-30,United States of America,Hybrid
+239,Maybe,False,27.0,Male,26-30,United States of America,Remote
+240,Yes,True,28.0,Male,26-30,United States of America,Hybrid
+241,Yes,True,20.0,Female,20-25,United States of America,On-site
+243,Yes,False,29.0,Male,26-30,United States of America,On-site
+244,Yes,True,44.0,Female,41-45,United States of America,Remote
+245,No,False,31.0,Male,31-35,United States of America,Hybrid
+246,Yes,True,54.0,Male,51-55,United States of America,Hybrid
+247,No,False,33.0,Male,31-35,Germany,Hybrid
+248,No,False,29.0,Male,26-30,Netherlands,On-site
+249,Yes,True,26.0,Trans/Other,26-30,United Kingdom,Hybrid
+250,Maybe,False,26.0,Male,26-30,United Kingdom,On-site
+251,Yes,True,38.0,Female,36-40,United States of America,Hybrid
+252,Yes,True,30.0,Male,26-30,United Kingdom,Hybrid
+253,Yes,True,47.0,Female,46-50,Australia,Hybrid
+256,Yes,False,28.0,Trans/Other,26-30,United Kingdom,On-site
+257,Yes,True,31.0,Male,31-35,United Kingdom,Remote
+260,No,False,39.0,Male,36-40,United States of America,Remote
+261,Yes,True,21.0,Male,20-25,United Kingdom,On-site
+262,No,False,31.0,Female,31-35,Russia,Hybrid
+263,Yes,True,32.0,Female,31-35,United Kingdom,On-site
+264,No,False,34.0,Male,31-35,United Kingdom,Hybrid
+265,Yes,True,35.0,Male,31-35,United States of America,Remote
+266,No,False,31.0,Male,31-35,Norway,Hybrid
+268,Yes,True,50.0,Male,46-50,United States of America,Hybrid
+269,Yes,True,31.0,Male,31-35,United States of America,Hybrid
+270,Yes,True,47.0,Male,46-50,United States of America,On-site
+271,No,False,32.0,Female,31-35,Canada,On-site
+272,No,True,23.0,Female,20-25,Canada,On-site
+273,Yes,True,43.0,Female,41-45,Canada,Hybrid
+274,Maybe,False,26.0,Female,26-30,Canada,Hybrid
+275,Maybe,False,26.0,Female,26-30,Canada,On-site
+276,No,False,55.0,Female,51-55,Canada,Hybrid
+277,Yes,True,27.0,Male,26-30,Canada,On-site
+278,No,False,34.0,Male,31-35,Argentina,Remote
+279,No,False,25.0,Male,20-25,India,On-site
+281,Yes,True,38.0,Female,36-40,United States of America,Hybrid
+282,Maybe,False,29.0,Male,26-30,Canada,On-site
+283,Maybe,False,28.0,Male,26-30,United Kingdom,Remote
+284,Yes,True,29.0,Male,26-30,United States of America,Remote
+285,Maybe,False,40.0,Male,36-40,United States of America,Remote
+286,Yes,True,25.0,Female,20-25,United States of America,Hybrid
+287,Yes,True,29.0,Female,26-30,United States of America,Hybrid
+288,Yes,True,35.0,Male,31-35,Netherlands,Hybrid
+289,Yes,True,43.0,Male,41-45,United States of America,Hybrid
+290,Maybe,False,26.0,Male,26-30,Ireland,On-site
+291,No,False,31.0,Male,31-35,Germany,On-site
+292,No,False,31.0,Female,31-35,United States of America,Remote
+294,No,False,23.0,Male,20-25,Italy,On-site
+295,No,False,39.0,Male,36-40,United States of America,On-site
+296,No,False,27.0,Female,26-30,United States of America,Hybrid
+297,Yes,True,28.0,Male,26-30,United States of America,Hybrid
+298,No,False,36.0,Male,36-40,United States of America,Remote
+299,No,False,22.0,Male,20-25,Germany,On-site
+300,Maybe,False,51.0,Male,51-55,United States of America,On-site
+302,No,False,40.0,Male,36-40,United States of America,Remote
+303,Yes,True,35.0,Female,31-35,United States of America,Hybrid
+304,Yes,True,38.0,Male,36-40,United States of America,On-site
+305,Yes,False,29.0,Male,26-30,United States of America,Remote
+306,Yes,True,31.0,Female,31-35,United States of America,Remote
+307,No,False,45.0,Male,41-45,United States of America,Hybrid
+308,Maybe,False,26.0,Male,26-30,United States of America,Hybrid
+309,No,False,42.0,Male,41-45,United States of America,Remote
+310,Yes,False,28.0,Female,26-30,United States of America,Remote
+311,No,False,28.0,Male,26-30,United Kingdom,Hybrid
+312,Yes,True,39.0,Female,36-40,United States of America,Hybrid
+313,Yes,True,34.0,Male,31-35,United States of America,Hybrid
+314,Yes,True,28.0,Female,26-30,United States of America,Remote
+315,Maybe,False,35.0,Female,31-35,United States of America,Hybrid
+316,No,False,42.0,Male,41-45,Canada,Hybrid
+317,Yes,True,99.0,Trans/Other,Over 65,United States of America,Hybrid
+318,No,False,28.0,Male,26-30,Canada,Remote
+319,Maybe,False,22.0,Female,20-25,Russia,Hybrid
+320,Yes,True,28.0,Female,26-30,United States of America,Hybrid
+322,Yes,True,38.0,Male,36-40,Netherlands,On-site
+324,Yes,False,28.0,Female,26-30,United States of America,Hybrid
+325,Yes,True,32.0,Male,31-35,United States of America,Hybrid
+326,Yes,True,24.0,Female,20-25,Australia,Hybrid
+327,Yes,True,35.0,Male,31-35,United States of America,Remote
+328,Yes,True,24.0,Female,20-25,United States of America,Hybrid
+329,Yes,True,30.0,Male,26-30,United States of America,Hybrid
+330,No,False,47.0,Female,46-50,United States of America,Hybrid
+331,No,False,26.0,Female,26-30,United States of America,On-site
+332,Yes,True,32.0,Male,31-35,United States of America,Remote
+333,No,False,32.0,Male,31-35,United States of America,Hybrid
+334,Yes,True,37.0,Male,36-40,United States of America,Remote
+335,Maybe,False,28.0,Female,26-30,United Kingdom,Hybrid
+336,No,False,22.0,Male,20-25,Netherlands,On-site
+337,Yes,False,30.0,Male,26-30,United States of America,Hybrid
+338,No,False,34.0,Male,31-35,United States of America,On-site
+339,Maybe,True,32.0,Male,31-35,United States of America,Hybrid
+340,Yes,True,37.0,Male,36-40,United Kingdom,Remote
+341,Yes,True,31.0,Male,31-35,United States of America,Remote
+343,Yes,True,36.0,Male,36-40,United States of America,Hybrid
+344,Yes,True,38.0,Male,36-40,United States of America,Remote
+345,No,True,24.0,Male,20-25,United States of America,Hybrid
+346,Yes,False,26.0,Male,26-30,United States of America,Hybrid
+347,Yes,True,37.0,Male,36-40,United States of America,On-site
+348,Yes,True,27.0,Female,26-30,United Kingdom,On-site
+349,Yes,False,32.0,Male,31-35,Netherlands,On-site
+351,Yes,True,26.0,Female,26-30,Germany,Remote
+352,Yes,False,29.0,Male,26-30,Colombia,Remote
+353,Yes,True,26.0,Trans/Other,26-30,Germany,On-site
+354,No,False,23.0,Female,20-25,United States of America,On-site
+355,Yes,True,30.0,Male,26-30,United States of America,Hybrid
+357,Maybe,True,46.0,Male,46-50,United States of America,Hybrid
+358,No,False,26.0,Male,26-30,United States of America,Hybrid
+359,No,False,30.0,Male,26-30,United States of America,Hybrid
+360,No,False,27.0,Female,26-30,United States of America,Remote
+361,Yes,True,26.0,Female,26-30,United States of America,Hybrid
+362,No,False,35.0,Male,31-35,Australia,Remote
+364,No,False,34.0,Male,31-35,United Kingdom,Hybrid
+365,Maybe,False,39.0,Male,36-40,United Kingdom,Hybrid
+366,No,False,27.0,Male,26-30,United Kingdom,Hybrid
+367,Yes,True,31.0,Male,31-35,Czech Republic,Hybrid
+369,Maybe,False,44.0,Male,41-45,United States of America,Remote
+370,No,False,27.0,Male,26-30,United States of America,Hybrid
+373,Yes,True,26.0,Male,26-30,United States of America,Remote
+374,No,False,22.0,Female,20-25,United States of America,On-site
+375,No,False,31.0,Male,31-35,United States of America,Hybrid
+376,No,False,31.0,Male,31-35,United Kingdom,On-site
+378,Yes,False,36.0,Male,36-40,United States of America,Hybrid
+379,Yes,True,33.0,Male,31-35,United States of America,Hybrid
+380,Yes,True,24.0,Female,20-25,United States of America,Hybrid
+381,Maybe,False,22.0,Male,20-25,Vietnam,Hybrid
+382,Yes,True,33.0,Male,31-35,United States of America,Remote
+383,Yes,True,37.0,Female,36-40,United States of America,Hybrid
+384,Yes,False,29.0,Male,26-30,United States of America,Remote
+386,Maybe,False,33.0,Male,31-35,United States of America,Hybrid
+387,Yes,True,44.0,Female,41-45,Canada,Remote
+390,Maybe,False,28.0,Male,26-30,United States of America,Hybrid
+391,Maybe,False,39.0,Male,36-40,United States of America,On-site
+392,Yes,True,24.0,Female,20-25,United States of America,On-site
+394,Maybe,False,23.0,Male,20-25,United States of America,On-site
+396,No,False,35.0,Male,31-35,United States of America,Hybrid
+398,Maybe,False,27.0,Female,26-30,United States of America,Remote
+399,Maybe,False,27.0,Female,26-30,United States of America,On-site
+400,Yes,True,42.0,Male,41-45,United States of America,Hybrid
+402,Yes,True,26.0,Male,26-30,Finland,Hybrid
+403,Maybe,False,28.0,Male,26-30,Bulgaria,On-site
+404,No,False,28.0,Male,26-30,United States of America,Hybrid
+405,Yes,True,32.0,Male,31-35,United States of America,Hybrid
+406,Yes,True,34.0,Male,31-35,United States of America,On-site
+407,Maybe,False,61.0,Female,61-65,United States of America,Hybrid
+409,Yes,True,34.0,Male,31-35,United States of America,Remote
+410,Yes,True,43.0,Male,41-45,United States of America,Remote
+411,No,False,43.0,Female,41-45,United States of America,Hybrid
+412,Yes,True,44.0,Male,41-45,United States of America,Remote
+413,Maybe,True,35.0,Male,31-35,United States of America,Hybrid
+414,No,False,50.0,Male,46-50,United States of America,Remote
+415,Yes,True,29.0,Male,26-30,United States of America,Hybrid
+416,No,True,29.0,Male,26-30,United States of America,On-site
+418,Yes,True,46.0,Male,46-50,United States of America,Remote
+419,Maybe,False,23.0,Trans/Other,20-25,United States of America,Hybrid
+420,Yes,True,41.0,Male,41-45,United States of America,Hybrid
+421,No,False,31.0,Male,31-35,Canada,Hybrid
+422,Yes,True,55.0,Male,51-55,United States of America,Hybrid
+423,Yes,False,34.0,Male,31-35,United States of America,Hybrid
+424,Yes,False,28.0,Female,26-30,United States of America,Remote
+425,Yes,True,33.0,Male,31-35,United States of America,Hybrid
+426,Yes,True,29.0,Male,26-30,United States of America,Hybrid
+428,Yes,True,28.0,Male,26-30,United States of America,Hybrid
+429,Yes,False,32.0,Male,31-35,United States of America,Hybrid
+430,Maybe,False,36.0,Female,36-40,United States of America,On-site
+433,Yes,True,29.0,Female,26-30,United States of America,Hybrid
+434,Yes,True,31.0,Male,31-35,Australia,Hybrid
+435,Yes,True,29.0,Male,26-30,Germany,On-site
+436,Yes,False,30.0,Male,26-30,United Kingdom,Hybrid
+437,Yes,True,55.0,Male,51-55,United Kingdom,Remote
+439,No,False,20.0,Male,20-25,Canada,Hybrid
+440,Yes,True,25.0,Male,20-25,United States of America,Hybrid
+444,Yes,True,40.0,Female,36-40,United States of America,On-site
+445,Maybe,True,30.0,Male,26-30,United States of America,Remote
+446,No,False,32.0,Male,31-35,Canada,Hybrid
+447,Yes,True,35.0,Female,31-35,Canada,Hybrid
+448,Maybe,False,36.0,Male,36-40,United Kingdom,On-site
+449,No,False,26.0,Male,26-30,Sweden,Hybrid
+452,Yes,True,46.0,Male,46-50,United Kingdom,Remote
+453,Yes,True,32.0,Male,31-35,United States of America,Hybrid
+454,No,False,34.0,Male,31-35,United States of America,Hybrid
+455,Yes,True,41.0,Male,41-45,United States of America,Remote
+456,No,False,32.0,Male,31-35,United States of America,Remote
+458,No,False,29.0,Male,26-30,United States of America,Remote
+460,Yes,True,32.0,Male,31-35,United States of America,Hybrid
+461,Maybe,False,29.0,Male,26-30,United States of America,Hybrid
+462,No,False,22.0,Male,20-25,United Kingdom,On-site
+463,Yes,True,32.0,Female,31-35,United States of America,Hybrid
+465,No,False,30.0,Male,26-30,South Africa,Hybrid
+466,Yes,True,32.0,Trans/Other,31-35,United States of America,Remote
+467,No,False,22.0,Male,20-25,United States of America,Hybrid
+469,No,False,33.0,Male,31-35,Slovakia,Hybrid
+470,Yes,True,48.0,Female,46-50,United Kingdom,On-site
+471,Maybe,False,45.0,Male,41-45,Germany,On-site
+472,Yes,True,28.0,Male,26-30,United Kingdom,Hybrid
+473,Maybe,False,44.0,Male,41-45,United States of America,Hybrid
+474,No,False,31.0,Male,31-35,United States of America,Hybrid
+475,Yes,True,31.0,Female,31-35,United States of America,Hybrid
+476,No,False,29.0,Male,26-30,United States of America,On-site
+479,Yes,True,45.0,Male,41-45,United States of America,Remote
+481,Maybe,False,34.0,Male,31-35,United States of America,Hybrid
+482,Maybe,False,35.0,Male,31-35,United Kingdom,On-site
+483,Yes,True,26.0,Male,26-30,Denmark,On-site
+484,Yes,True,24.0,Male,20-25,Australia,Hybrid
+485,Yes,True,24.0,Male,20-25,United States of America,On-site
+486,Yes,True,34.0,Male,31-35,United States of America,Hybrid
+487,No,False,36.0,Male,36-40,Australia,Hybrid
+489,Yes,True,21.0,Male,20-25,United States of America,On-site
+490,Yes,True,33.0,Male,31-35,Bangladesh,Hybrid
+491,No,False,32.0,Male,31-35,India,Remote
+494,No,False,32.0,Male,31-35,United States of America,Remote
+495,No,False,31.0,Male,31-35,United States of America,Hybrid
+496,Yes,True,28.0,Male,26-30,United States of America,Hybrid
+497,Yes,True,29.0,Male,26-30,Norway,On-site
+501,Maybe,False,42.0,Male,41-45,United States of America,Remote
+502,No,False,28.0,Male,26-30,United Kingdom,Hybrid
+503,Yes,True,40.0,Male,36-40,Canada,Remote
+504,Yes,True,32.0,Female,31-35,United States of America,Remote
+505,Yes,True,26.0,Male,26-30,United States of America,On-site
+506,Yes,True,39.0,Female,36-40,United States of America,Hybrid
+508,Maybe,False,34.0,Male,31-35,United States of America,Hybrid
+510,No,False,24.0,Male,20-25,Pakistan,Remote
+511,Yes,True,31.0,Male,31-35,United States of America,Hybrid
+512,Yes,True,47.0,Male,46-50,United States of America,Hybrid
+513,Yes,True,30.0,Male,26-30,Australia,Hybrid
+514,Yes,True,29.0,Trans/Other,26-30,United States of America,Hybrid
+515,No,False,27.0,Male,26-30,United States of America,Hybrid
+517,Yes,True,31.0,Trans/Other,31-35,United States of America,Hybrid
+519,Yes,True,29.0,Male,26-30,United Kingdom,On-site
+520,No,False,29.0,Male,26-30,United Kingdom,On-site
+521,Maybe,True,42.0,Male,41-45,United States of America,Hybrid
+522,Yes,False,26.0,Female,26-30,United States of America,Remote
+523,Yes,True,26.0,Male,26-30,Switzerland,Hybrid
+526,No,False,22.0,Male,20-25,United States of America,Hybrid
+527,Yes,True,33.0,Male,31-35,United States of America,Hybrid
+528,No,False,53.0,Male,51-55,United States of America,Remote
+529,Yes,True,32.0,Male,31-35,Canada,On-site
+530,Yes,True,32.0,Male,31-35,United States of America,Hybrid
+531,No,False,27.0,Male,26-30,France,On-site
+532,Maybe,False,34.0,Male,31-35,United Kingdom,Remote
+533,Yes,True,26.0,Male,26-30,United States of America,Hybrid
+534,Yes,True,25.0,Trans/Other,20-25,United States of America,On-site
+535,Yes,True,39.0,Male,36-40,United Kingdom,Hybrid
+536,Maybe,False,32.0,Male,31-35,United States of America,On-site
+537,Yes,True,33.0,Trans/Other,31-35,United Kingdom,On-site
+538,No,False,58.0,Male,56-60,United States of America,Hybrid
+539,No,True,30.0,Male,26-30,Canada,On-site
+541,Yes,True,26.0,Female,26-30,Canada,Hybrid
+542,Maybe,True,22.0,Male,20-25,United States of America,On-site
+543,Maybe,False,21.0,Male,20-25,United States of America,Hybrid
+546,No,False,25.0,Female,20-25,United States of America,Hybrid
+547,Yes,True,27.0,Male,26-30,United States of America,Hybrid
+548,Yes,True,25.0,Female,20-25,United States of America,On-site
+549,Maybe,True,33.0,Male,31-35,United Kingdom,Hybrid
+550,No,False,36.0,Female,36-40,United States of America,Remote
+551,Maybe,False,26.0,Male,26-30,United Kingdom,On-site
+552,Maybe,False,34.0,Male,31-35,United States of America,On-site
+553,Yes,True,34.0,Male,31-35,United States of America,Hybrid
+555,No,False,27.0,Female,26-30,Canada,Hybrid
+556,Maybe,False,24.0,Female,20-25,Canada,On-site
+558,Maybe,False,37.0,Male,36-40,United States of America,Hybrid
+562,Maybe,False,31.0,Male,31-35,United States of America,Remote
+563,Maybe,True,28.0,Female,26-30,United States of America,Remote
+565,Yes,True,36.0,Female,36-40,United States of America,On-site
+567,Maybe,False,41.0,Female,41-45,United States of America,On-site
+569,Yes,True,23.0,Male,20-25,United States of America,Hybrid
+572,No,False,36.0,Male,36-40,Netherlands,On-site
+573,No,False,27.0,Male,26-30,United States of America,On-site
+574,Yes,True,32.0,Male,31-35,United States of America,Remote
+575,Yes,True,21.0,Male,20-25,Germany,On-site
+576,No,False,44.0,Male,41-45,United States of America,Remote
+577,Yes,False,33.0,Male,31-35,United States of America,Remote
+578,Yes,True,38.0,Male,36-40,United Kingdom,Hybrid
+579,Maybe,False,38.0,Male,36-40,Ireland,Hybrid
+580,No,False,22.0,Female,20-25,Brazil,Remote
+584,No,False,22.0,Male,20-25,Netherlands,On-site
+585,No,False,29.0,Male,26-30,Brazil,Hybrid
+586,Yes,False,33.0,Male,31-35,New Zealand,On-site
+587,No,False,27.0,Male,26-30,Sweden,On-site
+588,Yes,True,44.0,Male,41-45,United States of America,Hybrid
+591,Yes,True,32.0,Male,31-35,United States of America,Remote
+593,Yes,True,38.0,Female,36-40,United States of America,Remote
+595,Yes,True,29.0,Female,26-30,United States of America,Remote
+596,No,False,25.0,Female,20-25,United States of America,On-site
+597,Yes,True,49.0,Male,46-50,Afghanistan,On-site
+598,No,True,36.0,Male,36-40,United States of America,Remote
+599,No,False,28.0,Male,26-30,United States of America,Hybrid
+603,No,False,28.0,Male,26-30,Canada,Remote
+605,Yes,True,29.0,Male,26-30,United States of America,On-site
+606,Maybe,True,35.0,Male,31-35,United States of America,Remote
+607,Maybe,False,35.0,Male,31-35,Sweden,Remote
+609,No,False,37.0,Male,36-40,Canada,Remote
+610,Yes,True,34.0,Female,31-35,United States of America,Hybrid
+611,Yes,True,39.0,Female,36-40,United States of America,Hybrid
+612,Yes,True,29.0,Female,26-30,United States of America,Remote
+613,Yes,False,63.0,Male,61-65,United States of America,Hybrid
+615,No,False,19.0,Male,Under 20,India,Remote
+616,Maybe,False,40.0,Male,36-40,United States of America,Remote
+618,No,False,27.0,Female,26-30,Australia,Hybrid
+621,Maybe,False,35.0,Male,31-35,United States of America,Hybrid
+622,Yes,True,42.0,Female,41-45,United States of America,Hybrid
+623,No,False,35.0,Male,31-35,Canada,Hybrid
+624,Yes,True,31.0,Female,31-35,United States of America,Hybrid
+625,Maybe,False,39.0,Male,36-40,United States of America,Hybrid
+626,No,False,45.0,Male,41-45,New Zealand,Hybrid
+627,Maybe,False,29.0,Male,26-30,United States of America,Hybrid
+628,Yes,True,20.0,Male,20-25,United States of America,Remote
+629,No,False,34.0,Male,31-35,United States of America,On-site
+630,Yes,True,33.0,Trans/Other,31-35,United Kingdom,On-site
+631,Yes,True,31.0,Male,31-35,United States of America,Hybrid
+632,Yes,True,36.0,Male,36-40,United States of America,Hybrid
+633,No,False,30.0,Male,26-30,United States of America,Remote
+635,Yes,True,23.0,Female,20-25,United States of America,Hybrid
+637,Yes,True,33.0,Female,31-35,United States of America,Remote
+639,Yes,False,26.0,Male,26-30,United States of America,Hybrid
+640,No,False,28.0,Male,26-30,United States of America,Hybrid
+641,No,False,30.0,Male,26-30,United States of America,Hybrid
+642,Maybe,True,28.0,Female,26-30,United States of America,Hybrid
+643,Yes,True,31.0,Male,31-35,Canada,Remote
+644,Maybe,False,29.0,Male,26-30,United States of America,Hybrid
+645,Maybe,False,33.0,Male,31-35,United States of America,Hybrid
+646,Yes,True,43.0,Female,41-45,United States of America,Remote
+647,No,False,28.0,Male,26-30,Australia,Remote
+648,Yes,True,38.0,Male,36-40,United States of America,Remote
+650,No,False,48.0,Female,46-50,United States of America,On-site
+651,No,False,28.0,Male,26-30,Australia,Hybrid
+652,Yes,True,37.0,Male,36-40,United States of America,Remote
+653,Yes,False,33.0,Male,31-35,United States of America,Hybrid
+654,No,False,21.0,Male,20-25,Australia,On-site
+656,Yes,True,40.0,Male,36-40,United States of America,Remote
+658,No,False,25.0,Male,20-25,India,On-site
+659,No,False,38.0,Male,36-40,Germany,Hybrid
+661,No,False,23.0,Male,20-25,United Kingdom,On-site
+662,No,False,26.0,Male,26-30,United States of America,Hybrid
+664,Maybe,False,30.0,Male,26-30,New Zealand,Remote
+667,No,False,22.0,Male,20-25,United Kingdom,On-site
+668,Yes,True,28.0,Male,26-30,United States of America,Remote
+669,Yes,True,39.0,Male,36-40,United States of America,Hybrid
+670,No,False,33.0,Male,31-35,United States of America,Remote
+671,No,False,37.0,Male,36-40,United States of America,Hybrid
+672,Yes,True,41.0,Female,41-45,France,On-site
+673,Yes,True,30.0,Female,26-30,United States of America,Hybrid
+674,Yes,False,42.0,Male,41-45,United States of America,Hybrid
+675,No,False,52.0,Male,51-55,United States of America,Hybrid
+676,No,False,30.0,Male,26-30,United States of America,Remote
+677,Yes,False,35.0,Male,31-35,United States of America,Hybrid
+678,Yes,True,24.0,Male,20-25,United States of America,Hybrid
+679,No,False,39.0,Male,36-40,United States of America,Hybrid
+680,No,False,34.0,Male,31-35,United States of America,Hybrid
+682,No,False,39.0,Male,36-40,United States of America,Hybrid
+683,Yes,True,34.0,Male,31-35,United States of America,Hybrid
+685,Yes,True,26.0,Female,26-30,United States of America,Remote
+686,No,False,24.0,Male,20-25,Bulgaria,Hybrid
+688,Yes,False,25.0,Male,20-25,United States of America,On-site
+691,Yes,True,27.0,Male,26-30,Canada,Hybrid
+692,Yes,True,33.0,Male,31-35,United States of America,Hybrid
+693,Yes,True,50.0,Male,46-50,United States of America,Hybrid
+694,Yes,True,32.0,Female,31-35,Canada,Hybrid
+695,No,False,39.0,Male,36-40,Canada,Hybrid
+696,No,False,36.0,Male,36-40,United States of America,Hybrid
+697,Maybe,False,34.0,Male,31-35,Canada,Hybrid
+698,Yes,False,31.0,Female,31-35,United States of America,Hybrid
+701,Yes,True,31.0,Male,31-35,United States of America,On-site
+702,No,False,32.0,Male,31-35,United States of America,Remote
+703,No,False,32.0,Male,31-35,United States of America,Remote
+704,No,True,28.0,Female,26-30,United States of America,Hybrid
+706,Yes,True,33.0,Female,31-35,United States of America,Hybrid
+707,Maybe,True,37.0,Male,36-40,United States of America,Remote
+708,Yes,True,27.0,Female,26-30,Germany,Remote
+709,No,False,39.0,Male,36-40,United States of America,Remote
+711,Maybe,False,31.0,Female,31-35,Other,Remote
+713,Yes,True,46.0,Male,46-50,United States of America,Hybrid
+714,No,False,28.0,Male,26-30,United States of America,Hybrid
+715,No,False,32.0,Male,31-35,France,Hybrid
+718,Maybe,False,32.0,Male,31-35,Iran,Hybrid
+721,No,False,38.0,Male,36-40,Ireland,Hybrid
+723,Yes,False,40.0,Female,36-40,United States of America,Remote
+727,Yes,True,31.0,Male,31-35,United States of America,Hybrid
+728,Yes,True,35.0,Male,31-35,Canada,On-site
+729,Yes,True,35.0,Male,31-35,Australia,Hybrid
+730,Yes,True,24.0,Male,20-25,United States of America,On-site
+731,No,False,23.0,Male,20-25,India,Hybrid
+732,No,False,38.0,Male,36-40,France,Remote
+733,No,False,33.0,Male,31-35,France,Hybrid
+734,No,False,35.0,Male,31-35,United Kingdom,Hybrid
+735,No,False,30.0,Female,26-30,Germany,On-site
+736,Maybe,False,28.0,Male,26-30,United States of America,Hybrid
+737,Yes,True,39.0,Male,36-40,Germany,Hybrid
+738,Yes,True,21.0,Trans/Other,20-25,United States of America,Remote
+739,No,False,31.0,Male,31-35,Germany,Hybrid
+740,No,False,30.0,Male,26-30,United States of America,Hybrid
+741,No,False,25.0,Female,20-25,United States of America,Hybrid
+742,No,False,26.0,Male,26-30,United Kingdom,Remote
+743,Maybe,False,30.0,Male,26-30,United States of America,On-site
+744,No,False,30.0,Male,26-30,Italy,On-site
+745,No,False,31.0,Male,31-35,Bulgaria,Remote
+746,Yes,True,32.0,Male,31-35,United States of America,On-site
+748,Yes,False,27.0,Male,26-30,United States of America,Remote
+749,Yes,False,28.0,Female,26-30,United Kingdom,Remote
+750,No,False,38.0,Male,36-40,United States of America,Remote
+752,Yes,True,34.0,Male,31-35,Hungary,Hybrid
+753,No,False,23.0,Male,20-25,France,Hybrid
+755,Yes,True,28.0,Male,26-30,United States of America,On-site
+756,No,False,33.0,Male,31-35,United States of America,Hybrid
+758,Yes,True,27.0,Male,26-30,United States of America,On-site
+759,Yes,True,33.0,Male,31-35,Israel,On-site
+762,Maybe,False,39.0,Male,36-40,United States of America,Hybrid
+768,Maybe,True,46.0,Male,46-50,United States of America,Hybrid
+771,Yes,True,30.0,Male,26-30,United Kingdom,Hybrid
+772,Maybe,False,31.0,Female,31-35,United States of America,On-site
+773,Yes,True,38.0,Male,36-40,Ireland,Hybrid
+774,No,False,30.0,Female,26-30,United Kingdom,Hybrid
+775,Yes,True,32.0,Male,31-35,United States of America,Hybrid
+777,Yes,True,47.0,Male,46-50,United States of America,Hybrid
+778,Maybe,False,39.0,Male,36-40,United Kingdom,Remote
+780,Yes,True,36.0,Male,36-40,United States of America,Hybrid
+782,Yes,False,30.0,Male,26-30,United States of America,Hybrid
+783,Maybe,False,33.0,Male,31-35,United States of America,Hybrid
+784,Yes,False,22.0,Male,20-25,United States of America,On-site
+786,Maybe,False,34.0,Male,31-35,United States of America,Remote
+787,Maybe,True,37.0,Male,36-40,Bulgaria,Remote
+788,No,False,43.0,Male,41-45,Switzerland,Hybrid
+789,Yes,True,30.0,Female,26-30,United States of America,Hybrid
+790,Maybe,False,32.0,Male,31-35,United States of America,Hybrid
+792,No,False,29.0,Male,26-30,United States of America,Hybrid
+794,No,False,30.0,Male,26-30,United States of America,Remote
+795,Maybe,False,30.0,Male,26-30,United States of America,On-site
+796,Yes,True,38.0,Male,36-40,United States of America,Remote
+798,No,True,26.0,Male,26-30,Netherlands,On-site
+799,No,False,24.0,Male,20-25,United States of America,Remote
+800,No,False,35.0,Male,31-35,United States of America,On-site
+801,Maybe,True,38.0,Male,36-40,Sweden,Hybrid
+802,Yes,True,36.0,Trans/Other,36-40,United States of America,Hybrid
+803,Yes,True,35.0,Male,31-35,United States of America,Hybrid
+804,No,False,25.0,Male,20-25,United States of America,Hybrid
+805,Yes,True,32.0,Female,31-35,Sweden,On-site
+806,No,False,32.0,Female,31-35,United States of America,On-site
+807,Yes,False,28.0,Male,26-30,Germany,Hybrid
+808,Maybe,False,34.0,Female,31-35,United Kingdom,Hybrid
+809,Yes,True,40.0,Female,36-40,United States of America,On-site
+810,Yes,True,45.0,Male,41-45,United States of America,On-site
+811,No,False,31.0,Male,31-35,Sweden,Hybrid
+814,No,False,48.0,Male,46-50,United Kingdom,Hybrid
+815,Maybe,True,29.0,Male,26-30,United States of America,On-site
+817,Yes,False,34.0,Female,31-35,Sweden,Hybrid
+818,No,False,34.0,Male,31-35,Netherlands,On-site
+819,No,False,27.0,Male,26-30,United States of America,Hybrid
+820,Maybe,False,30.0,Male,26-30,Russia,Hybrid
+821,Yes,False,40.0,Male,36-40,United Kingdom,Hybrid
+826,Yes,True,38.0,Male,36-40,New Zealand,On-site
+828,Yes,True,35.0,Female,31-35,Australia,Hybrid
+829,No,True,45.0,Male,41-45,United States of America,Remote
+830,No,False,27.0,Male,26-30,United States of America,Hybrid
+831,Yes,True,26.0,Male,26-30,United States of America,Hybrid
+832,Yes,True,25.0,Male,20-25,Ecuador,Hybrid
+833,Maybe,False,41.0,Male,41-45,South Africa,Hybrid
+835,No,False,43.0,Male,41-45,Sweden,On-site
+836,Yes,True,33.0,Male,31-35,United Kingdom,On-site
+837,Yes,True,27.0,Female,26-30,United Kingdom,On-site
+839,Yes,True,42.0,Male,41-45,Germany,Hybrid
+840,Maybe,False,30.0,Male,26-30,United Kingdom,Hybrid
+841,Yes,True,43.0,Male,41-45,Australia,Hybrid
+842,No,False,37.0,Female,36-40,Australia,Remote
+843,Yes,True,25.0,Male,20-25,United States of America,Hybrid
+844,Yes,True,27.0,Male,26-30,Australia,Hybrid
+846,Yes,False,24.0,Male,20-25,United Kingdom,On-site
+847,Yes,True,31.0,Trans/Other,31-35,Switzerland,On-site
+848,Maybe,False,31.0,Male,31-35,Germany,Hybrid
+849,No,False,32.0,Male,31-35,United States of America,Hybrid
+850,Yes,True,33.0,Male,31-35,Australia,Hybrid
+851,Yes,False,43.0,Male,41-45,United States of America,Hybrid
+852,Yes,True,49.0,Male,46-50,Australia,Hybrid
+853,Maybe,False,35.0,Male,31-35,Bulgaria,Hybrid
+854,Yes,True,53.0,Male,51-55,Canada,Hybrid
+855,Yes,True,45.0,Male,41-45,United States of America,On-site
+856,No,False,40.0,Male,36-40,United States of America,Hybrid
+858,Yes,True,41.0,Male,41-45,New Zealand,Remote
+859,No,False,31.0,Male,31-35,Switzerland,Hybrid
+860,Yes,True,44.0,Male,41-45,Australia,Hybrid
+861,Yes,True,37.0,Male,36-40,United States of America,Hybrid
+863,Yes,True,31.0,Female,31-35,United States of America,Hybrid
+864,No,False,36.0,Female,36-40,Bulgaria,Hybrid
+866,Yes,True,22.0,Female,20-25,United States of America,Remote
+867,Yes,True,36.0,Female,36-40,United States of America,Hybrid
+868,Yes,True,26.0,Female,26-30,United States of America,Hybrid
+870,Yes,True,39.0,Male,36-40,Australia,Hybrid
+872,Yes,False,32.0,Male,31-35,United Kingdom,Hybrid
+873,Maybe,True,44.0,Male,41-45,Sweden,Hybrid
+876,Yes,True,36.0,Male,36-40,United States of America,Hybrid
+877,No,False,23.0,Male,20-25,Canada,On-site
+878,No,True,23.0,Male,20-25,Canada,Remote
+879,No,False,49.0,Female,46-50,United States of America,Hybrid
+880,No,False,25.0,Male,20-25,Bosnia and Herzegovina,On-site
+882,No,False,37.0,Male,36-40,Germany,On-site
+883,No,False,26.0,Male,26-30,United States of America,Hybrid
+884,Yes,True,41.0,Male,41-45,United States of America,Hybrid
+885,No,False,28.0,Male,26-30,Netherlands,On-site
+886,Yes,True,33.0,Male,31-35,Sweden,Hybrid
+889,Yes,True,47.0,Male,46-50,United States of America,Hybrid
+892,Yes,True,26.0,Male,26-30,United States of America,On-site
+893,Maybe,False,24.0,Male,20-25,United States of America,On-site
+894,Yes,True,32.0,Female,31-35,United States of America,Hybrid
+895,No,False,57.0,Male,56-60,United States of America,Remote
+897,Yes,True,26.0,Female,26-30,United States of America,Hybrid
+899,Yes,True,33.0,Male,31-35,Finland,Hybrid
+900,Maybe,False,30.0,Male,26-30,United States of America,Hybrid
+901,Yes,True,25.0,Female,20-25,United States of America,Hybrid
+902,Yes,True,40.0,Male,36-40,United States of America,Hybrid
+907,No,False,30.0,Male,26-30,United States of America,Hybrid
+908,Yes,True,29.0,Male,26-30,Austria,On-site
+909,Yes,True,31.0,Male,31-35,United States of America,On-site
+910,Yes,True,40.0,Male,36-40,United States of America,Remote
+911,Maybe,True,39.0,Male,36-40,United States of America,Remote
+912,No,False,37.0,Male,36-40,United States of America,Hybrid
+913,No,False,27.0,Male,26-30,United States of America,Remote
+914,No,False,45.0,Male,41-45,United States of America,Remote
+915,No,False,29.0,Male,26-30,United States of America,Hybrid
+916,No,False,47.0,Female,46-50,United States of America,Hybrid
+917,No,False,33.0,Male,31-35,United States of America,Remote
+918,No,False,32.0,Male,31-35,United States of America,Remote
+919,No,False,29.0,Male,26-30,United States of America,Hybrid
+920,Yes,True,36.0,Male,36-40,United States of America,Hybrid
+921,No,False,35.0,Female,31-35,United States of America,On-site
+922,Maybe,False,40.0,Male,36-40,United States of America,Remote
+923,Yes,True,36.0,Male,36-40,United States of America,Remote
+925,No,False,38.0,Male,36-40,United States of America,Remote
+926,Maybe,True,23.0,Male,20-25,United States of America,Hybrid
+928,No,False,38.0,Male,36-40,United States of America,Remote
+930,Yes,True,28.0,Male,26-30,Brazil,On-site
+931,Yes,True,38.0,Male,36-40,New Zealand,Hybrid
+932,Maybe,False,25.0,Female,20-25,United States of America,On-site
+934,Yes,True,57.0,Female,56-60,United States of America,Hybrid
+936,Yes,True,49.0,Male,46-50,United States of America,On-site
+937,Yes,True,34.0,Male,31-35,United States of America,On-site
+938,No,False,43.0,Male,41-45,United Kingdom,Hybrid
+941,No,False,28.0,Male,26-30,Finland,On-site
+942,No,True,48.0,Male,46-50,Germany,Hybrid
+943,Yes,True,33.0,Female,31-35,United States of America,Remote
+944,No,False,40.0,Male,36-40,United States of America,On-site
+945,Yes,True,22.0,Female,20-25,United States of America,On-site
+946,Yes,True,23.0,Female,20-25,United States of America,Hybrid
+948,Yes,True,29.0,Male,26-30,Netherlands,On-site
+949,No,True,32.0,Male,31-35,United States of America,Remote
+950,Yes,True,43.0,Male,41-45,United States of America,Hybrid
+953,No,False,27.0,Male,26-30,Canada,On-site
+955,No,False,43.0,Female,41-45,United States of America,Hybrid
+956,Yes,True,30.0,Female,26-30,United States of America,Hybrid
+958,Yes,False,26.0,Female,26-30,United States of America,On-site
+960,Yes,False,30.0,Male,26-30,United States of America,On-site
+961,No,False,39.0,Male,36-40,United States of America,On-site
+962,Maybe,False,36.0,Male,36-40,United States of America,On-site
+963,Yes,False,34.0,Male,31-35,United Kingdom,Remote
+964,Yes,True,25.0,Female,20-25,United States of America,On-site
+966,Yes,True,38.0,Male,36-40,United States of America,Hybrid
+967,No,False,39.0,Male,36-40,United States of America,Remote
+970,Yes,True,31.0,Female,31-35,United States of America,Hybrid
+971,Yes,False,30.0,Female,26-30,United Kingdom,On-site
+972,Maybe,False,26.0,Male,26-30,United States of America,Remote
+973,Yes,True,27.0,Female,26-30,United Kingdom,Remote
+974,Yes,False,29.0,Male,26-30,United States of America,On-site
+976,Yes,True,28.0,Male,26-30,United States of America,Hybrid
+977,Yes,True,70.0,Male,Over 65,United States of America,Remote
+978,Maybe,True,25.0,Male,20-25,Germany,Hybrid
+979,Yes,True,45.0,Male,41-45,United Kingdom,Hybrid
+981,Maybe,False,40.0,Male,36-40,United States of America,Remote
+982,Yes,True,39.0,Male,36-40,United States of America,Hybrid
+983,Yes,True,31.0,Female,31-35,United States of America,Remote
+984,Yes,False,34.0,Male,31-35,United States of America,On-site
+985,No,False,45.0,Male,41-45,Ireland,Remote
+987,No,False,29.0,Male,26-30,United States of America,Remote
+988,Yes,True,27.0,Trans/Other,26-30,United States of America,Remote
+989,Yes,True,37.0,Male,36-40,United States of America,Remote
+990,Yes,True,41.0,Trans/Other,41-45,United States of America,Remote
+991,Yes,True,30.0,Female,26-30,United States of America,Hybrid
+992,Yes,True,28.0,Male,26-30,United States of America,Hybrid
+993,No,False,28.0,Male,26-30,United States of America,Hybrid
+994,Yes,False,22.0,Male,20-25,United Kingdom,Hybrid
+995,No,False,31.0,Male,31-35,United States of America,Hybrid
+996,No,False,29.0,Male,26-30,United Kingdom,On-site
+997,Maybe,False,33.0,Male,31-35,Israel,On-site
+998,No,False,37.0,Male,36-40,Germany,Hybrid
+999,No,False,42.0,Male,41-45,United States of America,Remote
+1000,Yes,True,31.0,Male,31-35,United Kingdom,On-site
+1001,Maybe,False,29.0,Male,26-30,Canada,On-site
+1002,Yes,True,40.0,Male,36-40,United States of America,Hybrid
+1003,Yes,True,46.0,Female,46-50,Netherlands,Hybrid
+1005,Maybe,False,32.0,Male,31-35,United Kingdom,Hybrid
+1006,Yes,True,40.0,Male,36-40,Netherlands,Hybrid
+1008,Yes,True,32.0,Male,31-35,United Kingdom,On-site
+1010,No,False,24.0,Male,20-25,United States of America,Hybrid
+1013,No,False,29.0,Male,26-30,Romania,On-site
+1014,No,False,20.0,Male,20-25,United States of America,Hybrid
+1016,Yes,True,33.0,Female,31-35,United States of America,Hybrid
+1017,Yes,True,25.0,Male,20-25,United States of America,Hybrid
+1018,Yes,True,24.0,Trans/Other,20-25,United States of America,Hybrid
+1019,Yes,True,39.0,Male,36-40,United States of America,Hybrid
+1021,No,False,31.0,Male,31-35,Denmark,Hybrid
+1022,Yes,True,37.0,Male,36-40,United Kingdom,Remote
+1023,Yes,True,42.0,Male,41-45,United Kingdom,Hybrid
+1025,No,False,30.0,Male,26-30,Canada,Remote
+1026,Yes,False,33.0,Male,31-35,United States of America,Hybrid
+1030,No,False,31.0,Male,31-35,United States of America,Hybrid
+1031,Yes,True,30.0,Female,26-30,United States of America,Remote
+1032,Yes,True,34.0,Male,31-35,United States of America,Hybrid
+1033,Maybe,False,20.0,Trans/Other,20-25,Canada,On-site
+1034,Yes,True,50.0,Female,46-50,United States of America,Hybrid
+1036,Maybe,False,41.0,Male,41-45,Spain,Hybrid
+1037,No,False,37.0,Male,36-40,Germany,Hybrid
+1038,Yes,True,32.0,Male,31-35,United States of America,Hybrid
+1039,Maybe,False,38.0,Male,36-40,Netherlands,On-site
+1040,Yes,True,27.0,Male,26-30,United States of America,Hybrid
+1043,Yes,True,21.0,Male,20-25,United States of America,Hybrid
+1046,Yes,True,28.0,Male,26-30,United States of America,Hybrid
+1048,No,False,44.0,Male,41-45,United States of America,Hybrid
+1049,No,False,35.0,Female,31-35,United States of America,Remote
+1050,Yes,True,39.0,Male,36-40,United States of America,On-site
+1053,Yes,True,29.0,Female,26-30,United States of America,On-site
+1054,Yes,True,21.0,Male,20-25,United States of America,Hybrid
+1055,Yes,True,26.0,Female,26-30,United States of America,Hybrid
+1056,Maybe,True,35.0,Male,31-35,Germany,On-site
+1058,No,False,24.0,Male,20-25,United Kingdom,On-site
+1059,Yes,False,37.0,Male,36-40,Ireland,On-site
+1061,Yes,True,39.0,Female,36-40,United States of America,Hybrid
+1062,Yes,False,34.0,Male,31-35,United States of America,Remote
+1064,Yes,False,22.0,Male,20-25,United Kingdom,On-site
+1065,No,False,25.0,Female,20-25,United Kingdom,Hybrid
+1067,Maybe,False,30.0,Male,26-30,United Kingdom,Hybrid
+1068,Yes,True,37.0,Male,36-40,United Kingdom,On-site
+1069,Yes,False,26.0,Male,26-30,Chile,On-site
+1071,No,False,29.0,Male,26-30,Chile,Hybrid
+1075,No,False,24.0,Female,20-25,United States of America,Hybrid
+1078,Maybe,False,32.0,Male,31-35,United States of America,Hybrid
+1079,Yes,True,35.0,Female,31-35,United States of America,Remote
+1080,Yes,True,26.0,Male,26-30,United States of America,Hybrid
+1081,No,True,31.0,Female,31-35,United Kingdom,Hybrid
+1082,Yes,True,37.0,Male,36-40,Pakistan,Hybrid
+1084,No,False,33.0,Male,31-35,United States of America,Remote
+1085,No,True,28.0,Male,26-30,United States of America,Hybrid
+1086,Maybe,False,22.0,Female,20-25,United States of America,Hybrid
+1087,Yes,True,46.0,Male,46-50,Germany,Hybrid
+1088,Maybe,False,30.0,Male,26-30,United States of America,Remote
+1089,No,True,29.0,Male,26-30,United States of America,On-site
+1090,No,False,22.0,Male,20-25,United States of America,Hybrid
+1094,Yes,True,31.0,Female,31-35,United States of America,Remote
+1095,Yes,False,35.0,Male,31-35,United States of America,Hybrid
+1096,Yes,True,23.0,Male,20-25,United States of America,Hybrid
+1097,Yes,True,30.0,Male,26-30,United States of America,On-site
+1098,No,False,28.0,Male,26-30,France,Hybrid
+1099,Yes,True,23.0,Female,20-25,Ireland,On-site
+1100,Maybe,True,26.0,Female,26-30,United States of America,On-site
+1101,Yes,True,24.0,Female,20-25,United States of America,On-site
+1102,No,False,32.0,Male,31-35,United States of America,On-site
+1103,Yes,False,30.0,Male,26-30,Estonia,Hybrid
+1104,Yes,True,32.0,Male,31-35,United States of America,Hybrid
+1106,Maybe,True,26.0,Female,26-30,United States of America,Remote
+1108,Yes,False,29.0,Male,26-30,United States of America,On-site
+1109,No,False,39.0,Male,36-40,Canada,Remote
+1111,No,False,35.0,Male,31-35,United States of America,Hybrid
+1112,Yes,True,25.0,Female,20-25,United States of America,Hybrid
+1114,Yes,True,33.0,Male,31-35,United Kingdom,On-site
+1115,Yes,True,23.0,Male,20-25,United States of America,Hybrid
+1116,Yes,True,28.0,Male,26-30,United States of America,Remote
+1117,Yes,True,30.0,Male,26-30,United States of America,On-site
+1118,Maybe,True,28.0,Male,26-30,United States of America,Hybrid
+1119,Yes,True,28.0,Female,26-30,United States of America,Remote
+1121,Yes,True,30.0,Male,26-30,United States of America,Hybrid
+1122,Yes,True,27.0,Male,26-30,India,Hybrid
+1123,Yes,True,28.0,Male,26-30,Poland,On-site
+1124,Yes,True,26.0,Trans/Other,26-30,Ireland,Hybrid
+1125,Yes,True,29.0,Male,26-30,United States of America,Hybrid
+1126,No,True,36.0,Male,36-40,United Kingdom,Remote
+1127,Maybe,True,38.0,Male,36-40,Belgium,On-site
+1128,Yes,True,22.0,Female,20-25,United States of America,Hybrid
+1129,No,False,24.0,Male,20-25,United States of America,Hybrid
+1131,Yes,True,36.0,Female,36-40,United States of America,On-site
+1133,No,False,24.0,Male,20-25,United States of America,On-site
+1134,Yes,True,31.0,Male,31-35,Netherlands,On-site
+1135,Yes,True,39.0,Male,36-40,United Kingdom,On-site
+1136,Yes,True,41.0,Male,41-45,United States of America,Hybrid
+1137,No,False,37.0,Male,36-40,Estonia,On-site
+1138,No,False,30.0,Male,26-30,United States of America,Remote
+1139,No,False,24.0,Male,20-25,Canada,Hybrid
+1140,Yes,True,22.0,Female,20-25,Canada,Hybrid
+1141,Maybe,False,24.0,Male,20-25,Canada,Hybrid
+1142,Yes,True,26.0,Female,26-30,Canada,Hybrid
+1143,Yes,True,38.0,Female,36-40,United States of America,Remote
+1144,Yes,True,52.0,Male,51-55,United States of America,Hybrid
+1146,Yes,False,25.0,Trans/Other,20-25,Canada,Hybrid
