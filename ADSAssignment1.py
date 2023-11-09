@@ -62,7 +62,7 @@ def stack_plotter(df, category, value, group, title, \
     plt.show()
 
 
-def pie_plotter(df, category, value):
+def pie_plotter(df, category, value, title):
     """
     This function creates a pie plot of the provided 'Category'
     of the Dataframe (df) against the target variable as 'Value'.
@@ -75,6 +75,7 @@ def pie_plotter(df, category, value):
 
     plt.pie(filtered_df[value], autopct="%1.1f%%", 
             labels=filtered_df[category])
+    plt.title(title)
     plt.show()
 
 
@@ -91,13 +92,16 @@ diagnosed['Mental Illness (Diagnosed)'] = \
 # Importing a dataset feasible for line plots.
 tech_stocks = pd.read_csv('./Data/Tech_stocks.csv')
 
-
+# Plotting a line chart to differentiate between stock trade volumes of
+# Major tech companies
 line_plotter(tech_stocks,'Date', 'Year',
                 'Company',
                 'Volume', 'Company',
                 'Volume in e^10', 'Stock Trade Volume by year',
                 line_width=3)
 
+# Plotting a stacked bar chart for mental illness between tech company
+# Employees in different age groups with ob types as stacks.  
 stack_plotter(diagnosed, 'Age Group', 'Mental Illness (Diagnosed)', 
                 'Job Type',
                 'Cases Diagnosed/Age Group with Job Type', 
@@ -105,5 +109,8 @@ stack_plotter(diagnosed, 'Age Group', 'Mental Illness (Diagnosed)',
                 'Age Groups',
                 'Number of Cases',)
 
-pie_plotter(diagnosed, 'Gender', 'Mental Illness (Diagnosed)')
+# Plotting a pie chart to distinguish the afore-mentioned 
+# mental illness cases Gender-wise.
+pie_plotter(diagnosed, 'Gender', 'Mental Illness (Diagnosed)', 
+            'Mental Illness Cases by Gender')
 
