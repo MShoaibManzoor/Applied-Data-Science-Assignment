@@ -83,7 +83,7 @@ def pie_plotter(df, category, value, title):
 mi_df = pd.read_csv('./Data/MentalIllness_data.csv')
 
 # Lets separate the data for rows marked as True for Mental Illness diagnosis.
-diagnosed = mi_df[mi_df['Mental Illness (Diagnosed)'] == True]
+diagnosed = mi_df[mi_df['Mental Illness (Diagnosed)']==True]
 
 # Converting Target column to integer to aid aggregation functions
 diagnosed['Mental Illness (Diagnosed)'] = \
